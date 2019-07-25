@@ -1,6 +1,6 @@
 # HeRAMS User Manual (English version) 
 
-français arabic
+[français](/UserGuide_fr.md) arabic
 
 ## Overview
 This user manual aims to help user navigate the [HeRAMS](https://herams.org/login) platform. 
