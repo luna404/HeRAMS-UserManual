@@ -5,12 +5,12 @@
 ## Overview
 This user manual aims to help user navigate the [HeRAMS](https://herams.org/login) platform. 
 
-- [Login](#login)
+- [Se connecter](#se-connecter)
 - [Password reset](#password-reset)
 - [Créer un compte d'utilisateur](#créer-un-compte-dutilisateur)
 - [Accessing a project](#accessing-a-project) 
 
-## Login
+## Se connecter
 Veuillez suivre les instruction ci-dessous pour se connecter à la platforme HeRAMS. 
 1. Veuillez ouvrir le lien https://herams.org dans votre navigateur. Il est recommandé d’utiliser les navigateurs Firefox ou Chrome. 
 2. Une fenêtre contextuelle apparaîtra vous demandant votre nom d'utilisateur et le mot de passe. Si vous n'êtes pas encore inscrit, veuillez suivre les instruction fournies [ici](#create-user-account). 
