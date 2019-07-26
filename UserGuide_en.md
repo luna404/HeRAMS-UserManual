@@ -30,7 +30,7 @@ Follow the steps below to access the HeRAMS platform.
 4. Submit your information by clicking the <img src="/media/images/bt_sign_up.png" height="20" align="top"></img> button. A confirmation email will be sent to your email. Make sure to check your spam folder.
 <p align="center"><img src="/media/videos/HeRAMS_Register.gif" alt="HeRAMS Register" height="300"/></p>
 5. Confirm your registration by clicking on the link in your email shown below.
-<p align="center"><img src="/media/images/email_confirmation.png" alt="HeRAMS Register" height="300" border="5"/></p>
+<p align="center"><img src="/media/images/email_confirmation.png" alt="HeRAMS Register" height="300" border="5"/></img></p>
 
 ## Accessing a project
 
