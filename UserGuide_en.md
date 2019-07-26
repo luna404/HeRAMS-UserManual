@@ -19,8 +19,8 @@ Follow the steps below to access the HeRAMS platform.
 <p align="center"><img src="/media/videos/HeRAMS_Login.gif" alt="HeRAMS Login" height="300"/></p>
 
  
- 
-## Password reset Open the link https://herams.org in your browser.
+## Password reset 
+
 
 ## Create user account
 <p align="center"><img src="/media/videos/HeRAMS_Register.gif" alt="HeRAMS Register" height="300"/></p>
