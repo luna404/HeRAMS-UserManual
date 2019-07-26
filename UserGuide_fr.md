@@ -1,4 +1,4 @@
-# Manuel Utilisateur de la Plateforme HeRAMS (version français) 
+# Manuel Utilisateur de la Plateforme HeRAMS <img src="/media/images/HeRAMS.png" height="45" align="right"></img>
 
 [english](/UserGuide_en.md) arabic
 
