@@ -8,7 +8,7 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 - [Login](#login)
 - [Password reset](#password-reset)
 - [Créer un compte d'utilisateur](#créer-un-compte-dutilisateur)
-- [Accessing a project](#accessing-a-project)
+- [Accessing a project](#accessing-a-project) 
 
 ## Login
 Veuillez suivre les instruction ci-dessous pour se connecter à la platforme HeRAMS. 
