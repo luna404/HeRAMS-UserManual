@@ -18,7 +18,7 @@ For new user, please seee [Create user account] to leanr how to create your acco
 3. Saisissez vos informations d'identification (e-mail et mot de passe) et cliquez sur le bouton de connexion <img src="/media/images/bt_login.png" height="20" align="top"></img>.
 
 
- <img src="/media/videos/HeRAMS_Login.gif" height="300" align="middle"></img>
+<p align="center"><img src="/media/videos/HeRAMS_Login.gif" alt="HeRAMS Login" height="300"/></p>
  
  
 ## Password reset 
