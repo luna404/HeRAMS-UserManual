@@ -12,7 +12,7 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 ## Login
 Follow the steps below to access the HeRAMS platform. 
 1. Open the link https://herams.org in your browser. It is recommended to user either FireFox or Chrome. 
-2. A pop-up window will appear prmpting you to enter your username (email) and password. For new users, please follow the instruction [here](#create-user-account) to create your account. 
+2. A pop-up window will appear prompting you to enter your username (email) and password. For new users, please follow the instruction [here](#create-user-account) to create your account. 
 3. Enter you username (email) and password in the designated fields and click the *login* 
  <img src="/media/images/bt_login.png" height="20" align="top"></img>  button. 
 
@@ -20,9 +20,16 @@ Follow the steps below to access the HeRAMS platform.
 
  
  
-## Password reset 
+## Password reset Open the link https://herams.org in your browser.
 
 ## Create user account
+<p align="center"><img src="/media/videos/HeRAMS_Register.gif" alt="HeRAMS Register" height="300"/></p>
+1. To create a user account, open the link https://herams.org in your browser. 
+2. Click on the [sign-up](#https://herams-staging.org/user/register) link in the pop-up window. 
+3. Enter your name, email and passowrd. Note that your email acts as username.
+4. Submit your information by clicking the <img src="/media/images/bt_sign_up.png" height="20" align="top"></img> button. A confirmation email will be sent to your email. Make sure to check your spam folder
+5. Confirm your registration by clicking on the link in your email shown below.
+<p align="center"><img src="/media/images/email_confirmation.png" alt="HeRAMS Register" height="300"/></p>
 
 ## Accessing a project
 
