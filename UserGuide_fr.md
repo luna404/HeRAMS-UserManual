@@ -23,7 +23,7 @@ For new user, please seee [Create user account] to leanr how to create your acco
  
 ## Password reset 
 
-## Créer un compte dutilisateur
+## Créer un compte d'utilisateur
 1. Pour vous inscrire en tant que nouvel utilisateur, veuillez ouvrir le lien [https://herams.org](https://herams.org) dans votre navigateur. 
 2. Dans la fenêtre contextuelle, veuillez cliquer sur le lien [sign-up](https://herams.org/user/register)
 3. Veuillez saisir votre nom, e-mail et mot de passe. Veuillez noter que votre nom d'utilisateur est le e-email utulisé ici.
