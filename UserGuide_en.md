@@ -4,42 +4,42 @@
 ## Overview
 This user manual aims to help user navigate the [HeRAMS](https://herams.org/login) platform.
 
-1. [Login & User Profile](#1-login--user-profile)
-	- [Login](#login)
-		- [New User](#new-user)
-		- [Rest Password](#reset-password)
-		- [Logout](#logout)
-	- [User Profile](#user-profile)
-		- [Register (Create a User Account)](#register-create-a-user-account)
-	    - [Update your Profile](#update-your-profile)
-		- [Change your Password](#change-password)
-	    - [Add a profile picture](#add-a-profile-picture)
-2. [Exploring Data](#2-exploring-data)
-	 - [Worldview](#worldview)
-	 - [Project Summary](#project-summary)
-	 - [Dashboard](#dashboard)
-	   - [Filtering data](#filtering-data)
-	   - [Default Dashboard Pages](#default-dashboard-pages)
-	 - [Downloading data](#downloading-data)
-		-[Set Data Encoding in Excel](#set-data-encoding-in-excel)
+[1. Login & User Profile](#1-login--user-profile)
+- [Login](#login)
+	- [New User](#new-user)
+	- [Rest Password](#reset-password)
+	- [Logout](#logout)
+- [User Profile](#user-profile)
+	- [Register (Create a User Account)](#register-create-a-user-account)
+	- [Update your Profile](#update-your-profile)
+	- [Change your Password](#change-password)
+	- [Add a profile picture](#add-a-profile-picture)
+[2. Exploring Data](#2-exploring-data)
+ - [Worldview](#worldview)
+ - [Project Summary](#project-summary)
+ - [Dashboard](#dashboard)
+	- [Filtering data](#filtering-data)
+	- [Default Dashboard Pages](#default-dashboard-pages)
+ - [Downloading data](#downloading-data)
+	-[Set Data Encoding in Excel](#set-data-encoding-in-excel)
 [3. Editing Data](#editing-data)
-	- [Accessing the Data Edit Interface](#accessing-the-data-edit-interface)
-	- [Editing a Record](#editing-a-record)
-	- [Updating a Record](#Updating-a-record)
-	- [Creating a New Record](#creating-a-new-record)
-    - [Deleting a Record](#deleting-a-record)
+- [Accessing the Data Edit Interface](#accessing-the-data-edit-interface)
+- [Editing a Record](#editing-a-record)
+- [Updating a Record](#Updating-a-record)
+- [Creating a New Record](#creating-a-new-record)
+- [Deleting a Record](#deleting-a-record)
 [4. HeRAMS Administration](#herams-administration)
-	- Workspace
-		- Workspace permissions
-		- Add a user to a workspace
-		- Remove a user from worksapce
-		- Alter a user's permission
-		- Create a new workspace
-	- Project
-		- Project permissions
-		- 
-	- User Management
-	- Createing/Editing the dashboard
+- Workspace
+	- Workspace permissions
+	- Add a user to a workspace
+	- Remove a user from worksapce
+	- Alter a user's permission
+	- Create a new workspace
+- Project
+	- Project permissions
+	- 
+- User Management
+- Createing/Editing the dashboard
 
 5. FAQ
 	- [No Email confirmation Received](#No-Email-Received)
