@@ -4,7 +4,7 @@
 ## Overview
 This user manual aims to help user navigate the [HeRAMS](https://herams.org/login) platform.
 
-1. [Login & User profile](#1-login--user-profile)
+[1. Login & User profile](#1-login--user-profile)
 	- [Login](#login)
 		- [Rest password](#reset-password)
 		- [New user](#new-users)
@@ -13,14 +13,13 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 	    - [Change password](#change-password)
 	    - [Update user profile](#update-user-profile)
 	    - [Add profile picture](#add-profile-picture)
- 2. [Viewing data](#2-viewing-data)
+[2. Viewing data](#2-viewing-data)
 	 - [Worldview](#worldview)
 	 - [Project summary](#project-summary)
 	 - [Dashboard](#dashboard)
 	   - [Filtering data](#filtering-data)
 	   - [Default pages](#default-pages)
-	
-3. Editing data
+[3. Editing data](#)
 	- Creating a new record
     - Updating a record
     - Deleting a record
@@ -140,7 +139,7 @@ Each project in HeRAMS has a custom dashbaord that permits yours to gain detaile
 1. To open a project, first open the project summary by selecting your project either form the navigation pane on the left or by clicking on the corresponding dot on the world map.
 2. In the pop-up, click the details button. This will open the project dashbaord.
 3. You should now see a page similar to the one shown below. In the navigation pane on the left you see all available pages of the dashbaord. Click on the name of the page to open the page.
-<br>***Tip: Same page may contain subpages. This is indicated by a > next to the page name.***
+<br>***Tip: Some page may contain subpages. This is indicated by a > next to the page name.***
 4. To retrun to a previous page, you can either select the page in the navigation pane on the left, or use the breadcrumb trail on top of the dashbaord. For example, the image below displays a sub-page of the Nigera dashboard. To return to the Overivew page, click on *Niveria* in the naviagation pane. 
 
 <p align="center"><img src="/media/images/HeRAMS_navigation_pane.png" alt="HeRAMS Register" height="300"/></img></p>
