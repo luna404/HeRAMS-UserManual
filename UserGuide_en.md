@@ -13,7 +13,7 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 	    - [Change password](#change-password)
 	    - [Update user profile](#update-user-profile)
 	    - [Add profile picture](#add-profile-picture)
-[2. Viewing data](#2-viewing-data)
+2. [Viewing data](#2-viewing-data)
 	 - [Worldview](#worldview)
 	 - [Project summary](#project-summary)
 	 - [Dashboard](#dashboard)
@@ -72,7 +72,7 @@ To create your user account, follow the instruction in section [Create user acco
 
 #### Logout
 
-To log out, click the  <img src="/media/images/bt_exit.png" height="20" align="top" alt="Log out"></img> button on the top right corner. 
+To log out, click the  <img src="/media/images/bt_logout.png" height="20" align="top" alt="Log out"></img> button on the top right corner. 
 
 ### User Profile
 
@@ -250,7 +250,7 @@ The below steps guide through though the admin interface to acc
 2. From the navigation pane on the left, select [Projects](#https://herams.org/project/index)
 3. You should now see a table of all available projects. For each project, the table displays the number workspaces, contributors, and health facilities. In the rightmost column, click the workspace <img src="/media/images/bt_workspace.png" height="20" align="top" alt='settings'></img> icon. This will open the list of available workspace.
 *** Note: HeRAMS uses a system of workspaces that allow to control access to the data at granualr levels. A workspace might for example constitute a specific organization or a geographic region. For more information on workspace click [here](#workspace). ***
-4. To open a workspace, click the pencile <img src="/media/images/bt_edit.png" height="20" align="top" alt='Edit data'></img>  icon in the action colon. 
+4. To open a workspace, click the <img src="/media/images/icon_pencil_black.png" height="20" align="top" alt='Edit data'></img>  icon in the action colon. 
 *** Tip: Be aware that a workspace might have multiple pages. Use the >> to move to the next page or filter the workspaces by typing the name in the field below the workspace title. ***
 
 <p align="center"><img src="/media/images/HeRAMS_workspace_filter.png" alt="HeRAMS Worldview" height="300"></img></p>
@@ -260,22 +260,30 @@ The below steps guide through though the admin interface to acc
 <p align="center"><img src="/media/videos/HeRAMS_data_update_interface.png" alt="data update interface" height="300"></img></p>
 
 ### Editing an existing record
+*** Please note that editing a record will override the existing record. If you would like to update the status of a MoDS while keeping a record of the changes might, follow the instructions in the section below. ***
 
-1. To update a record click the pencil icon in the left most column. 
+1. To update a record click the <img src="/media/images/icon_pencil_blue.png" height="20" align="top" alt='pencil'></img>  icon in the left most column. 
 *** Tip: Be aware that a table might have multiple pages. Use the button in the button left corner to go to the next page. You can also reduce the number of records displayed by applying filters. ***
 
 <p align="center"><img src="/media/images/HeRAMS_data_update_interface.png" alt="HeRAMS Worldview" height="300"></img></p>
 
-2. 
-
-
-
-*** Please note that editing a record will override the existing record. If you would like to update the record while keeping a record of the changes might, follow the instructions in the section below. ***
+2. Use the two button on the buttom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specfic section of the questionnaire.
+3. To save your changes, navigate to the last page **Validate** and click  <img src="/media/images/bt_send_en.png" height="20" align="top" alt='Edit data'></img>.
+4. If you would like to discard your edits, click the <img src="/media/images/bt_new_record_en.png" height="20" align="top" alt='exit'></img>  button 
 ### Updating an existing record
-If HeRAMS is used as a monitoring tool, you can update the record without loosing the records history. Please note that the ability to update records is not enabled in all projects. Contact your system administrator for further information.
+If HeRAMS is used as a monitoring tool, you can update the record without loosing the records history. 
+***Please note that the ability to update records is not enabled in all projects. Contact your system administrator for further information.***
+
+1. To update the status of a MoDS, use the <img src="/media/images/icon_update.png" height="20" align="top" alt='exit'></img>  button to open the record.
+2. Make sure to validate your record before  
+
+
+
+
 
 
 ### Creating a new record
+1. To create a new record, click the button  <img src="/media/images/bt_new_record_en.png" height="20" align="top" alt='New record'></img> 
 
 ### Deleting a record
 
