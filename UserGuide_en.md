@@ -5,10 +5,12 @@
 This user manual aims to help user navigate the [HeRAMS](https://herams.org/login) platform.
 
 [1. Login & User Profile](#1-login--user-profile)
-- [Login](#login)
-	- [New User](#new-user)
-	- [Rest Password](#reset-password)
-	- [Logout](#logout)
+ [1 Login](#login)
+  [1 New User](#new-user)
+  [2 Rest Password](#reset-password)
+  [3 Logout](#logout)
+
+
 - [User Profile](#user-profile)
 	- [Register (Create a User Account)](#register-create-a-user-account)
 	- [Update your Profile](#update-your-profile)
