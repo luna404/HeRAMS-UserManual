@@ -50,16 +50,18 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
   
 ## 1.Login & User Profile
 
-### Login
-
+### <details><summary>Login</summary>
+           
+<p>
 Follow the steps below to access the HeRAMS platform. 
 1. Open the link https://herams.org in your browser. 
 <br/>***Tip: It is recommended to user either FireFox or Chrome. ***
 2. A pop-up window will appear prompting you to enter your username (email) and password. For new users, please follow the instruction [here](#create-user-account) to create your account. 
 3. Enter you username (email) and password in the designated fields and click the 
  <img src="/media/images/bt_login.png" height="20" align="top"></img>  button. 
-<p align="center"><img src="/media/videos/HeRAMS_Login.gif" alt="HeRAMS Login" height="300"/></p>
-
+<span align="center"><img src="/media/videos/HeRAMS_Login.gif" alt="HeRAMS Login" height="300"/></p>
+Content 1 Content 1 Content 1 Content 1 Content 1</span>
+         </p></details>
 #### New User
 
 New users without an existing account, will have to create an account before being able to log on to HeRAMS. 
@@ -282,7 +284,7 @@ The below steps guide through though the admin interface to acc
 <p align="center"><img src="/media/videos/HeRAMS_data_update_interface.gif" alt="data update interface" height="300"></img></p>
 
 ### Editing a Record
-*** Please note that editing a record will override the existing record. If you would like to update the status of a MoDS while keeping a record of the changes might, follow the instructions in the section below. ***
+:exclamation:*** Please note that editing a record will override the existing record. If you would like to update the status of a MoDS while keeping a record of the changes might, follow the instructions in the section below. ***
 
 1. To update a record click the <img src="/media/images/icon_pencil_blue.png" height="20" align="top" alt='pencil'></img>  icon in the left most column. 
 <br>*** Tip: Be aware that a table might have multiple pages. Use the button in the button left corner to go to the next page. You can also reduce the number of records displayed by applying filters. ***
@@ -294,7 +296,7 @@ The below steps guide through though the admin interface to acc
 4. If you would like to discard your edits, click the <img src="/media/images/bt_new_record_en.png" height="20" align="top" alt='exit'></img>  button 
 ### Updating a Record
 If HeRAMS is used as a monitoring tool, you can update the record without loosing the records history. 
-<br>***Please note that the ability to update records is not enabled in all projects. Contact your system administrator for further information.***
+<br>:exclamation:***Please note that the ability to update records is not enabled in all projects. Contact your system administrator for further information.***
 
 1. To update the status of a MoDS, use the <img src="/media/images/icon_update.png" height="20" align="top" alt='exit'></img>  button to open the record.
 2. Use the two button on the buttom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specfic section of the questionnaire.
@@ -309,13 +311,13 @@ If HeRAMS is used as a monitoring tool, you can update the record without loosin
 
 ### Deleting a record
 1. To delete a record, click the <img src="/media/images/icon_delete_blue.png" height="20" align="top" alt='New record'></img> in the actions column. 
-<br>*** Note: Deleted records cannot be undone. Be careful when deleting a record.*** 
+<br>:warning:*** Note: Deleted records cannot be undone. Be careful when deleting a record.*** 
 
 <p align="center"><img src="/media/videos/HeRAMS_excel_encoding.gif" alt="data update interface" height="300"></img></p>
 
 ## 4. HeRAMS Administration
 This chapter provides a more in-depth description of the admin pages in HeRAMS. Each section is intended provides a brief description of its purpose and includes a step-by-step guide to help local administrators to commit common tasks.
-<br>*** Note: Access to each of the sub-sections of this chapter are depending on the tasks a users is expected to complete. If you require your permissions to be changed, please contact your system administrator.***
+<br>:exclamation:*** Note: Access to each of the sub-sections of this chapter are depending on the tasks a users is expected to complete. If you require your permissions to be changed, please contact your system administrator.***
 ### The Workspace Page
 
 #### Workspace Permissions
