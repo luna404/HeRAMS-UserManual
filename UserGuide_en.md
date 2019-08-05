@@ -6,21 +6,20 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 
 1. [Login & User profile](#1-login--user-profile)
 	- [Login](#login)
-		- [Rest password}](#reset-password)
+		- [Rest password](#reset-password)
 		- [New user](#new-users)
 	- [User profile](#user-profile)
 		- [Create user account](#create-user-account)
 	    - [Change password](#change-password)
 	    - [Update user profile](#update-user-profile)
 	    - [Add profile picture](#add-profile-picture)
- 2. Viewing the data
-	 - Worldview
-	   - [Accessing a project](#accessing-a-project)
-	   - Navigation 
-		- 
-		- The Dashboard
-		  
-		- The Dashbord
+ 2. [Viewing data](#2-viewing-data)
+	 - [Worldview](#worldview)
+	 - [Project summary](#project-summary)
+	 - [Dashboard](#dashboard)
+	   - [Filtering data](#filtering-data)
+	   - [Default pages](#default-pages)
+	
 3. Editing data
 	- Creating a new record
     - Updating a record
@@ -37,8 +36,6 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 		- 
 	- User Management
 	- Createing/Editing the dashboard
-	
-	
 
 5. FAQ
 	- [No Email confirmation Received](#No-Email-Received)
@@ -120,13 +117,13 @@ You can further personalize your acccount by adding a profile picture. In order 
 
 <p align="center"><img src="/media/images/user_profile.png" alt="HeRAMS Register" height="300"></img></p>
 
-## View data
+## 2. Viewing data
 
-### World View
+### Worldview
 Upon login in, you should see a world map. Each blue dot on the map represent a single HeRAMS project. For more information on how to access a single project, see the sections below describing the [Details view](#detail-view) and the project [Dashboard](#dashboard).
 On the right you see the navigation pane listing all available projects. In addition, a brief summary on the number of herams projects, contributros and health facilities is shwon on the buttom left corner.
 
-p align="center"><img src="/media/images/HeRAMS_worldview.png" alt="HeRAMS Worldview" height="300"></img></p>
+<p align="center"><img src="/media/images/HeRAMS_worldview.png" alt="HeRAMS Worldview" height="300"></img></p>
 
 ### Project summary
 
@@ -144,6 +141,10 @@ Each project in HeRAMS has a custom dashbaord that permits yours to gain detaile
 2. In the pop-up, click the details button. This will open the project dashbaord.
 3. You should now see a page similar to the one shown below. In the navigation pane on the left you see all available pages of the dashbaord. Click on the name of the page to open the page.
 <br>***Tip: Same page may contain subpages. This is indicated by a > next to the page name.***
+4. To retrun to a previous page, you can either select the page in the navigation pane on the left, or use the breadcrumb trail on top of the dashbaord. For example, the image below displays a sub-page of the Nigera dashboard. To return to the Overivew page, click on *Niveria* in the naviagation pane. 
+
+<p align="center"><img src="/media/images/HeRAMS_navigation_pane.png" alt="HeRAMS Register" height="300"/></img></p>
+
 4. If you hover over a point on the map or the chart, you will see a pop-up appearing displaying further information.
 5. To gain a better insight in the spatial distribution of health facilities, you can limit the type of structres disyplayed. Click on the circle in the legend. This will remove the slected type. To add it again, simply click the circle again. 
 
@@ -154,10 +155,6 @@ To further drill down into the data, you can apply custom filters.
 2. You should now see the filter configuration page. Use the drop-down list to select your filter criteria. 
 3. Click the <img src="/media/images/bt_apply.png" height="20" align="top" alt='apply'></img> buton to activate your filter.
 <br>***Tip: You can combine multiple filter as well as selecting multiple items form a drop-down list. ***
-
-### Navigation pane
-The navigation pane on top of each page permits to easily return to previous pages. For example, the image below displays a sub-page of the Nigera dashboard. To return to the Overivew page, click on *Niveria* in the naviagation pane. 
-<p align="center"><img src="/media/images/HeRAMS_navigation_pane.png" alt="HeRAMS Register" height="300"/></img></p>
 
 #### Default dashboard pages
 
@@ -178,16 +175,19 @@ The overview page provides a summary, in form of:
 ##### Page 2: Infastructure
 The Infrastructure page, displays a descriptive analysis, including:
 -  A map to spot the distribution and number of MoSDs (i.e., health facilities) by type
--  Donut charts to illustrate MoSDs per type and the modality of the building structure (permanent vs. temporary)
+-  Donut charts to illustrate 
+	- MoSDs per type
+	- The modality of the building structure (permanent vs. temporary)
 -  A table to illustrate reported accessibility barriers 
 
 <p align="center"><img src="/media/images/HeRAMS_dashboard_infastructure.png" alt="Infastructure" height="300"></img></p>
 
-
 ##### Page 3: Condition
 The condition page displays the level of reported damage to MoDS buildings following a standard classification and scale (Not Damaged to Fully Damaged). Information is visualised as: 
 -	A map to spot the distribution and number of health facilities according to the level of builduing damage (i.e. condition) 
--	Donut charts to summarizing the reported level of builduing damage by level of severity and the distribution of MoDS by type.  
+-	Donut charts summarizing 
+	- The reported level of builduing damage by level of severity 
+	- The distribution of MoDS by type
 -	A table to provide the name of the prioritized localities in terms of damage and their main causes
 
 <p align="center"><img src="/media/images/HeRAMS_dashboard_condition.png" alt="Condition" height="300"></img></p>
@@ -195,11 +195,12 @@ The condition page displays the level of reported damage to MoDS buildings follo
 ##### Page 4: Functionality
 The functionality page displays the level of functionality status of the MoSDs following a standard classification and scale (Fully Functioning to Not Functioning) respresented as:
 -	A map to spot the distribution and number of MoSDs according to the functionality status
--	Donut charts to summarize the level of functionality and main causes of non-functinality
+-	Donut charts to summarize 
+	- The level of functionality 
+	- Main causes of non-functinality
 -	A table displays the list of priority areas in terms of non-functional health facilities and reported causes. 
 
 <p align="center"><img src="/media/images/HeRAMS_dashboard_functionality.png" alt="Functionality" height="300"></img></p>
-
 
 ##### Page 5: Accessability
 The accessibility page displays the level of accessibility to the MoSDs following a standard classification and scale (Fully Accessible to Not Accessible) in the form of:
@@ -212,29 +213,74 @@ The accessibility page displays the level of accessibility to the MoSDs followin
 <p align="center"><img src="/media/images/HeRAMS_dashboard_accessability.png" alt="Accessability" height="300"></img></p>
 
 ##### Page 6: Management & Support
-The management & support page displays information on the management of the MoSDs and the level of provided support by partners, in terms of: 
--	Ownership: 
--	A map to spot the distribution of MoSDs according to their ownership (i.e., public, private, private-faith-based, NGO/iNGO)
--	A donut chart to illustrate categories of ownership per number of MoSDs
--	External support: 
--	A donut chart to illustrate the level of provided support by partners
+The management & support page displays information on the management of the MoSDs and the level of support provided by partners. Ths information is illustrated in terms of: 
+- Ownership
+	-  A map to spot the distribution of MoSDs according to their ownership (i.e., public, private, private-faith-based, NGO/iNGO)
+	-  A donut chart to highlighting the categories of ownership as a percentage of the total number of MoSDs
+- External support:
+	-  A donut chart to illustrate the level of support provided by partners
 
-<p align="center"><img src="/media/images/HeRAMS_summary_popup.png" alt="HeRAMS Worldview" height="300"></img></p>
+<p align="center"><img src="/media/images/HeRAMS_dashboard_management_support.png" alt="Management & Support" height="300"></img></p>
 
 ##### Page 7: Basic Amenities
-The Basic Amenities page displays  
+The Basic Amenities page presents a series of donut charts displaying information of core areas such as:
+- The principle source of water and power 
+- Ther percentage of MoDS with sufficient water and power supplies
 
-<p align="center"><img src="/media/images/HeRAMS_summary_popup.png" alt="HeRAMS Worldview" height="300"></img></p>
+<p align="center"><img src="/media/images/HeRAMS_dashboard_basic_amenities.png" alt="Basic Amenitites" height="300"></img></p>
 
 ##### Page 8: Service Availability
-The Service Availability page displays multiple pages per type of service, and each page displays:
+The Service Availability page displays multiple pages per type of service. Each page displays:
 -	A map to spot the distribution of the MoSDs providing the selected health service 
 -	Donut charts to summarize 
--	The level of service availability 
--	The underlying causes of unavailability of the service 
--	A table displays the list of priority areas per service unavailability and the main reported underlying cause  
+	-	The level of service availability 
+	-	The underlying causes of unavailability of the service 
+-	A table displays the list of priority areas per service unavailability and the main reported underlying cause
 
-<p align="center"><img src="/media/images/HeRAMS_summary_popup.png" alt="HeRAMS Worldview" height="300"></img></p>
+<p align="center"><img src="/media/images/HeRAMS_dashboard_service_availability.png" alt="Service Availability" height="300"></img></p>
+
+## Editing data
+The following section provides an step-by-step guide on how to access the data edit interface, create, edit and delete records.
+
+***Please not that access to the administrator pages of HeRAMS is restricted to specific users. Should your role require you to contusct any of the functions described in this sections, contact your system administrator in order for your premissions to be adjusted accordingly. ***
+
+### Accessing the data edit interface
+The below steps guide through though the admin interface to acc
+
+1. To open the admin interface, click the <img src="/media/images/bt_settings.png" height="20" align="top" alt='settings'></img> button on the top right corner next to your name. 
+2. From the navigation pane on the left, select [Projects](#https://herams.org/project/index)
+3. You should now see a table of all available projects. For each project, the table displays the number workspaces, contributors, and health facilities. In the rightmost column, click the workspace <img src="/media/images/bt_workspace.png" height="20" align="top" alt='settings'></img> icon. This will open the list of available workspace.
+*** Note: HeRAMS uses a system of workspaces that allow to control access to the data at granualr levels. A workspace might for example constitute a specific organization or a geographic region. For more information on workspace click [here](#workspace). ***
+4. To open a workspace, click the pencile <img src="/media/images/bt_edit.png" height="20" align="top" alt='Edit data'></img>  icon in the action colon. 
+*** Tip: Be aware that a workspace might have multiple pages. Use the >> to move to the next page or filter the workspaces by typing the name in the field below the workspace title. ***
+
+<p align="center"><img src="/media/images/HeRAMS_workspace_filter.png" alt="HeRAMS Worldview" height="300"></img></p>
+
+5. You should now see a table with all MoDS of the selected workspace. 
+
+<p align="center"><img src="/media/videos/HeRAMS_data_update_interface.png" alt="data update interface" height="300"></img></p>
+
+### Editing an existing record
+
+1. To update a record click the pencil icon in the left most column. 
+*** Tip: Be aware that a table might have multiple pages. Use the button in the button left corner to go to the next page. You can also reduce the number of records displayed by applying filters. ***
+
+<p align="center"><img src="/media/images/HeRAMS_data_update_interface.png" alt="HeRAMS Worldview" height="300"></img></p>
+
+2. 
+
+
+
+*** Please note that editing a record will override the existing record. If you would like to update the record while keeping a record of the changes might, follow the instructions in the section below. ***
+### Updating an existing record
+If HeRAMS is used as a monitoring tool, you can update the record without loosing the records history. Please note that the ability to update records is not enabled in all projects. Contact your system administrator for further information.
+
+
+### Creating a new record
+
+### Deleting a record
+
+
 
 
 ## FAQ
