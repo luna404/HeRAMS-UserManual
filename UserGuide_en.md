@@ -4,26 +4,31 @@
 ## Overview
 This user manual aims to help user navigate the [HeRAMS](https://herams.org/login) platform.
 
-[1. Login & User profile](#1-login--user-profile)
+1. [Login & User Profile](#1-login--user-profile)
 	- [Login](#login)
-		- [Rest password](#reset-password)
-		- [New user](#new-users)
-	- [User profile](#user-profile)
-		- [Create user account](#create-user-account)
-	    - [Change password](#change-password)
-	    - [Update user profile](#update-user-profile)
-	    - [Add profile picture](#add-profile-picture)
-2. [Viewing data](#2-viewing-data)
+		- [New User](#new-user)
+		- [Rest Password](#reset-password)
+		- [Logout](#logout)
+	- [User Profile](#user-profile)
+		- [Register (Create a User Account)](#register-create-a-user-account)
+	    - [Update your Profile](#update-your-profile)
+		- [Change your Password](#change-password)
+	    - [Add a profile picture](#add-a-profile-picture)
+2. [Exploring Data](#2-exploring-data)
 	 - [Worldview](#worldview)
-	 - [Project summary](#project-summary)
+	 - [Project Summary](#project-summary)
 	 - [Dashboard](#dashboard)
 	   - [Filtering data](#filtering-data)
-	   - [Default pages](#default-pages)
-[3. Editing data](#)
-	- Creating a new record
-    - Updating a record
-    - Deleting a record
-4. Administering a project
+	   - [Default Dashboard Pages](#default-dashboard-pages)
+	 - [Downloading data](#downloading-data)
+		-[Set Data Encoding in Excel](#set-data-encoding-in-excel)
+[3. Editing Data](#editing-data)
+	- [Accessing the Data Edit Interface](#accessing-the-data-edit-interface)
+	- [Editing a Record](#editing-a-record)
+	- [Updating a Record](#Updating-a-record)
+	- [Creating a New Record](#creating-a-new-record)
+    - [Deleting a Record](#deleting-a-record)
+[4. HeRAMS Administration](#herams-administration)
 	- Workspace
 		- Workspace permissions
 		- Add a user to a workspace
@@ -41,7 +46,7 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 	- Change password
 	- Data export contains weird charactes (Special character (e.g. é,è,ä,ö,ü, etc) are not don't appear)
   
-## 1. Login & User profiles
+## 1.Login & User Profile
 
 ### Login
 
@@ -53,12 +58,12 @@ Follow the steps below to access the HeRAMS platform.
  <img src="/media/images/bt_login.png" height="20" align="top"></img>  button. 
 <p align="center"><img src="/media/videos/HeRAMS_Login.gif" alt="HeRAMS Login" height="300"/></p>
 
-#### New users
+#### New User
 
 New users without an existing account, will have to create an account before being able to log on to HeRAMS. 
 To create your user account, follow the instruction in section [Create user account](#create-user-account). 
 
-#### Reset password
+#### Rest Password
 
 1. In case you need to reset your password,  open the link [https://herams.org](https://herams.org) in your browser.
 2. On the sign in page, click the [Reset password](https://herams.org/user/forgot) link.
@@ -75,8 +80,9 @@ To create your user account, follow the instruction in section [Create user acco
 To log out, click the  <img src="/media/images/bt_logout.png" height="20" align="top" alt="Log out"></img> button on the top right corner. 
 
 ### User Profile
+### Register (Create a User Account)
 
-#### Create user account
+#### Register (Create a User Account)
 
 1. To regist as a new user, open the link [https://herams.org](https://herams.org) in your browser.
 2. Click on the [sign-up](https://herams.org/user/register)
@@ -87,7 +93,7 @@ To log out, click the  <img src="/media/images/bt_logout.png" height="20" align=
 5. Confirm your registration by clicking on the link in your email shown below.
 <p align="center"><img src="/media/videos/HeRAMS_create_account.gif" alt="HeRAMS Register" height="300"/></img></p>
 
-#### Update your profile 
+#### Update your Profile 
 
 To update your user profile or account details, click on your username on the top right corner of the screen. 
 To alter your personal profile, return to the profile page by clicking the [profile](https://herams.org/user/settings/profile) link. 
@@ -96,13 +102,13 @@ This opens your user profile and allows you to change your personal information 
 
 <p align="center"><img src="/media/images/user_profile.png" alt="HeRAMS Register" height="300"/></img></p>
 
-#### Change your account information
+#### Change your Password
 
 To alter your password, click on the [account](https://herams.org/user/settings/account) link to switch to your account information. You should now be able to change your email address and enter a new password. 
 Make sure to click the <img src="/media/images/bt_submit.png" height="20" align="top" alt="Submit"></img> button to confirm your changes. 
 <p align="center"><img src="/media/videos/HeRAMS_change_password.gif" alt="HeRAMS Change Password" height="300"/></img></p>
 
-#### Add profile picture
+#### Add a profile picture
 
 You can further personalize your acccount by adding a profile picture. In order for your profile picutre to appear, you will have to register your email address at [Gravatar](https://en.gravatar.com/). 
 
@@ -116,7 +122,7 @@ You can further personalize your acccount by adding a profile picture. In order 
 
 <p align="center"><img src="/media/images/user_profile.png" alt="HeRAMS Register" height="300"></img></p>
 
-## 2. Viewing data
+## 2. Explore Data
 
 ### Worldview
 Upon login in, you should see a world map. Each blue dot on the map represent a single HeRAMS project. For more information on how to access a single project, see the sections below describing the [Details view](#detail-view) and the project [Dashboard](#dashboard).
@@ -124,7 +130,7 @@ On the right you see the navigation pane listing all available projects. In addi
 
 <p align="center"><img src="/media/images/HeRAMS_worldview.png" alt="HeRAMS Worldview" height="300"></img></p>
 
-### Project summary
+### Project Summary
 
 1. To learn more about a project, either click on the blue dot on the world map or select the project from the navigation pane on the left. 
 2. You should now see a pop-up window displaying an overview of the selected project. In the upper part of the pop-up you see the project name, the number of health facilities assessed and the number of contributors. In addition, the 
@@ -147,7 +153,7 @@ Each project in HeRAMS has a custom dashbaord that permits yours to gain detaile
 4. If you hover over a point on the map or the chart, you will see a pop-up appearing displaying further information.
 5. To gain a better insight in the spatial distribution of health facilities, you can limit the type of structres disyplayed. Click on the circle in the legend. This will remove the slected type. To add it again, simply click the circle again. 
 
-#### Filtering data
+#### Filtering Data
 
 To further drill down into the data, you can apply custom filters.
 1. Click the <img src="/media/images/bt_filter.png" height="20" align="top" alt='filter'></img>  button in the top right corner of the dashboard.
@@ -238,15 +244,29 @@ The Service Availability page displays multiple pages per type of service. Each 
 
 <p align="center"><img src="/media/images/HeRAMS_dashboard_service_availability.png" alt="Service Availability" height="300"></img></p>
 
-## Editing data
+### Downloading data
+For more in-depth analysis, data of individual workspaces can be donwloaded as csv files. 
+<br>***Note: In order to download data, you will require access to the corresponding workspace. Contact your system administrator to change your access rights if needed. ***
+1. Navigate to the workspace page of your project(see [Accessing the data edit interface](#Accessing the data edit interface) steps 1-4 for detailed instructions).
+2. In the rightmost column, click the <img src="/media/images/icon_download.png" height="20" align="top" alt='New record'></img> button. This will download all records (MoDS) of this workspace.
+<br>***Tip: For surveys containing characters (e.g. ب,é,ä) make sure you to define the encoding correctly when opening the data in Excel (see below for details).
+
+#### Define data encoding
+If you open your data in Excel, you might have to manually set set the encoding to UTF-8 for special characters (e.g. ب,é,ä)  to be read correctly. 
+1. Open a new Excel file.
+2. From the ribbon, select the data tab and click **Import from CSV***. 
+3. In the pop-up window that opens change the encoding type to **UTF-8**. 
+4. Click the load button on the butom right corner to import your data.
+
+## 3. Editing Data
 The following section provides an step-by-step guide on how to access the data edit interface, create, edit and delete records.
 
 ***Please not that access to the administrator pages of HeRAMS is restricted to specific users. Should your role require you to contusct any of the functions described in this sections, contact your system administrator in order for your premissions to be adjusted accordingly. ***
 
-### Accessing the data edit interface
+### Accessing the Data Edit Interface
 The below steps guide through though the admin interface to acc
 
-1. To open the admin interface, click the <img src="/media/images/bt_settings.png" height="20" align="top" alt='settings'></img> button on the top right corner next to your name. 
+1. Open the admin interface, by clicking the <img src="/media/images/bt_settings.png" height="20" align="top" alt='settings'></img> button on the top right corner next to your name. 
 2. From the navigation pane on the left, select [Projects](#https://herams.org/project/index)
 3. You should now see a table of all available projects. For each project, the table displays the number workspaces, contributors, and health facilities. In the rightmost column, click the workspace <img src="/media/images/bt_workspace.png" height="20" align="top" alt='settings'></img> icon. This will open the list of available workspace.
 *** Note: HeRAMS uses a system of workspaces that allow to control access to the data at granualr levels. A workspace might for example constitute a specific organization or a geographic region. For more information on workspace click [here](#workspace). ***
@@ -257,40 +277,55 @@ The below steps guide through though the admin interface to acc
 
 5. You should now see a table with all MoDS of the selected workspace. 
 
-<p align="center"><img src="/media/videos/HeRAMS_data_update_interface.png" alt="data update interface" height="300"></img></p>
+<p align="center"><img src="/media/videos/HeRAMS_data_update_interface.gif" alt="data update interface" height="300"></img></p>
 
-### Editing an existing record
+### Editing a Record
 *** Please note that editing a record will override the existing record. If you would like to update the status of a MoDS while keeping a record of the changes might, follow the instructions in the section below. ***
 
 1. To update a record click the <img src="/media/images/icon_pencil_blue.png" height="20" align="top" alt='pencil'></img>  icon in the left most column. 
-*** Tip: Be aware that a table might have multiple pages. Use the button in the button left corner to go to the next page. You can also reduce the number of records displayed by applying filters. ***
+<br>*** Tip: Be aware that a table might have multiple pages. Use the button in the button left corner to go to the next page. You can also reduce the number of records displayed by applying filters. ***
 
 <p align="center"><img src="/media/images/HeRAMS_data_update_interface.png" alt="HeRAMS Worldview" height="300"></img></p>
 
 2. Use the two button on the buttom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specfic section of the questionnaire.
 3. To save your changes, navigate to the last page **Validate** and click  <img src="/media/images/bt_send_en.png" height="20" align="top" alt='Edit data'></img>.
 4. If you would like to discard your edits, click the <img src="/media/images/bt_new_record_en.png" height="20" align="top" alt='exit'></img>  button 
-### Updating an existing record
+### Updating a Record
 If HeRAMS is used as a monitoring tool, you can update the record without loosing the records history. 
-***Please note that the ability to update records is not enabled in all projects. Contact your system administrator for further information.***
+<br>***Please note that the ability to update records is not enabled in all projects. Contact your system administrator for further information.***
 
 1. To update the status of a MoDS, use the <img src="/media/images/icon_update.png" height="20" align="top" alt='exit'></img>  button to open the record.
-2. Make sure to validate your record before  
+2. Use the two button on the buttom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specfic section of the questionnaire.
+3. To save your changes, navigate to the last page **Validate** and click  <img src="/media/images/bt_send_en.png" height="20" align="top" alt='Edit data'></img>.
+4. If you would like to discard your edits, click the <img src="/media/images/bt_new_record_en.png" height="20" align="top" alt='exit'></img>  button 
 
-
-
-
-
-
-### Creating a new record
-1. To create a new record, click the button  <img src="/media/images/bt_new_record_en.png" height="20" align="top" alt='New record'></img> 
+### Creating a New Record
+1. To create a new record, click the button  <img src="/media/images/bt_new_record_en.png" height="20" align="top" alt='New record'></img>.  
+2. Use the two button on the buttom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specfic section of the questionnaire.
+3. To save your changes, navigate to the last page **Validate** and click  <img src="/media/images/bt_send_en.png" height="20" align="top" alt='Edit data'></img>.
+4. If you would like to discard your edits, click the <img src="/media/images/bt_new_record_en.png" height="20" align="top" alt='exit'></img>  button 
 
 ### Deleting a record
+1. To delete a record, click the <img src="/media/images/icon_delete_blue.png" height="20" align="top" alt='New record'></img> in the actions column. 
+<br>*** Note: Deleted records cannot be undone. Be careful when deleting a record.*** 
 
+<p align="center"><img src="/media/videos/HeRAMS_excel_encoding.gif" alt="data update interface" height="300"></img></p>
 
+## 4. HeRAMS Administration
+This chapter provides a more in-depth description of the admin pages in HeRAMS. Each section is intended provides a brief description of its purpose and includes a step-by-step guide to help local administrators to commit common tasks.
+<br>*** Note: Access to each of the sub-sections of this chapter are depending on the tasks a users is expected to complete. If you require your permissions to be changed, please contact your system administrator.***
+### The Workspace Page
 
+#### Workspace Permissions
+#### Add a user to a workspace
 
-## FAQ
+### The Project Page
+
+### Editing the Dashboard
+
+### User Management
+
+## 5. FAQ
 ###No Email Confirmation Received
 If you did not receive an email upon registering or resetting your password, follow the steps below to troubleshoot the issue. 
 1. Refresh your inbox. It might take a few minutes for email to appear.
