@@ -211,7 +211,7 @@ The overview page provides a summary, in form of:
 </details>
 
 <details>
-	<summary><b><i>Page 1:</b> Infastructure</i>
+	<summary><b><i>Page 2:</b> Infastructure</i>
 	</summary>
 
 The Infrastructure page, displays a descriptive analysis, including:
@@ -227,8 +227,8 @@ The Infrastructure page, displays a descriptive analysis, including:
 </details>
 
 <details>
-	<summary><b><i>Page 1:</b> Condition</i>
-	</summary><details>
+	<summary><b><i>Page 3:</b> Condition</i>
+	</summary>
 
 The condition page displays the level of reported damage to MoDS buildings following a standard classification and scale (Not Damaged to Fully Damaged). Information is visualised as: 
 -	A map to spot the distribution and number of health facilities according to the level of builduing damage (i.e. condition) 
@@ -244,7 +244,7 @@ The condition page displays the level of reported damage to MoDS buildings follo
 
 
 <details>
-	<summary><b><i>Page 1:</b> Functionality</i>
+	<summary><b><i>Page 4:</b> Functionality</i>
 	</summary>
 	
 The functionality page displays the level of functionality status of the MoSDs following a standard classification and scale (Fully Functioning to Not Functioning) respresented as:
@@ -259,7 +259,7 @@ The functionality page displays the level of functionality status of the MoSDs f
 </details>
 
 <details>
-	<summary><b><i>Page 1:</b> Accessability</i>
+	<summary><b><i>Page 5:</b> Accessability</i>
 	</summary>
 	
 The accessibility page displays the level of accessibility to the MoSDs following a standard classification and scale (Fully Accessible to Not Accessible) in the form of:
@@ -274,7 +274,7 @@ The accessibility page displays the level of accessibility to the MoSDs followin
 </details>
 
 <details>
-	<summary><b><i>Page 1:</b> Management & Support</i>
+	<summary><b><i>Page 6:</b> Management & Support</i>
 	</summary>
 	
 The management & support page displays information on the management of the MoSDs and the level of support provided by partners. Ths information is illustrated in terms of: 
@@ -289,7 +289,7 @@ The management & support page displays information on the management of the MoSD
 </details>
 
 <details>
-	<summary><b><i>Page 1:</b> Basic Amenities</i>
+	<summary><b><i>Page 7:</b> Basic Amenities</i>
 	</summary>
 	
 The Basic Amenities page presents a series of donut charts displaying information of core areas such as:
@@ -301,7 +301,7 @@ The Basic Amenities page presents a series of donut charts displaying informatio
 </details>
 
 <details>
-	<summary><b><i>Page 1:</b> Service Availability</i>
+	<summary><b><i>Page 8:</b> Service Availability</i>
 	</summary>.
 	
 The Service Availability page displays multiple pages per type of service. Each page displays:
