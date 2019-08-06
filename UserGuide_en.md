@@ -196,6 +196,24 @@ Each page refers to a HeRAMS standard information pillar. However, adapdation mi
 </p>
 
 <details>
+ <summary<h6>Page 3: Condition</h6></summary>
+	
+ ...this is hidden, collapsable content...
+</details>
+
+<details>
+ <summary>Summary Goes Here</summary>
+ The overview page provides a summary, in form of: 
+-  A map to spot the distribution and number of MoSDs (i.e., health facilities) by level of care (e.g. 
+	- secondary and tertiary care: hospitals
+	- primary health Care: health centres, clinics and health posts, camp and mobile clinic
+-  Donut charts to summarize different indicators, such as level of damage, functionality status, accessibility and service availability in the assessed MoSDs, which is country specific
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_overview.png" alt="Overview" height="300"></img>
+</p>
+</details>
+
+<details>
 	<summary><h6>Overview</h6>
 	</summary>
 
