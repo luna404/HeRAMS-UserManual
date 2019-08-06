@@ -196,25 +196,7 @@ Each page refers to a HeRAMS standard information pillar. However, adapdation mi
 </p>
 
 <details>
- <summary<h6>Page 3: Condition</h6></summary>
-	
- ...this is hidden, collapsable content...
-</details>
-
-<details>
- <summary>Summary Goes Here</summary>
- The overview page provides a summary, in form of: 
--  A map to spot the distribution and number of MoSDs (i.e., health facilities) by level of care (e.g. 
-	- secondary and tertiary care: hospitals
-	- primary health Care: health centres, clinics and health posts, camp and mobile clinic
--  Donut charts to summarize different indicators, such as level of damage, functionality status, accessibility and service availability in the assessed MoSDs, which is country specific
-<p align="center">
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_overview.png" alt="Overview" height="300"></img>
-</p>
-</details>
-
-<details>
-	<summary><h6>Overview</h6>
+	<summary><b><i>Page 1:</b> Overview</i>
 	</summary>
 
 The overview page provides a summary, in form of: 
@@ -229,7 +211,7 @@ The overview page provides a summary, in form of:
 </details>
 
 <details>
-	<summary><h6>Page 2: Infastructure</h6>
+	<summary><b><i>Page 1:</b> Infastructure</i>
 	</summary>
 
 The Infrastructure page, displays a descriptive analysis, including:
@@ -245,8 +227,8 @@ The Infrastructure page, displays a descriptive analysis, including:
 </details>
 
 <details>
-	<summary><h6>Page 3: Condition</h6>
-	</summary>
+	<summary><b><i>Page 1:</b> Condition</i>
+	</summary><details>
 
 The condition page displays the level of reported damage to MoDS buildings following a standard classification and scale (Not Damaged to Fully Damaged). Information is visualised as: 
 -	A map to spot the distribution and number of health facilities according to the level of builduing damage (i.e. condition) 
@@ -260,10 +242,11 @@ The condition page displays the level of reported damage to MoDS buildings follo
 </p>
 </details>
 
-<details>
-	<summary><h6>Page 4: Functionality</h6>
-	</summary>
 
+<details>
+	<summary><b><i>Page 1:</b> Functionality</i>
+	</summary>
+	
 The functionality page displays the level of functionality status of the MoSDs following a standard classification and scale (Fully Functioning to Not Functioning) respresented as:
 -	A map to spot the distribution and number of MoSDs according to the functionality status
 -	Donut charts to summarize 
@@ -276,9 +259,9 @@ The functionality page displays the level of functionality status of the MoSDs f
 </details>
 
 <details>
-	<summary><h6>Page 5: Accessability</h6>
+	<summary><b><i>Page 1:</b> Accessability</i>
 	</summary>
-
+	
 The accessibility page displays the level of accessibility to the MoSDs following a standard classification and scale (Fully Accessible to Not Accessible) in the form of:
 -	A map to spot the distribution and number of MoSDs according to the accessibility status
 -	Donut charts to summarize 
@@ -291,9 +274,9 @@ The accessibility page displays the level of accessibility to the MoSDs followin
 </details>
 
 <details>
-	<summary><h6>Page 6: Management & Support</h6>
+	<summary><b><i>Page 1:</b> Management & Support</i>
 	</summary>
-
+	
 The management & support page displays information on the management of the MoSDs and the level of support provided by partners. Ths information is illustrated in terms of: 
 - Ownership
 	-  A map to spot the distribution of MoSDs according to their ownership (i.e., public, private, private-faith-based, NGO/iNGO)
@@ -306,7 +289,7 @@ The management & support page displays information on the management of the MoSD
 </details>
 
 <details>
-	<summary><h6>Page 7: Basic Amenities</h6>
+	<summary><b><i>Page 1:</b> Basic Amenities</i>
 	</summary>
 	
 The Basic Amenities page presents a series of donut charts displaying information of core areas such as:
@@ -318,8 +301,8 @@ The Basic Amenities page presents a series of donut charts displaying informatio
 </details>
 
 <details>
-	<summary><h6>Page 8: Service Availability</h6>
-	</summary>
+	<summary><b><i>Page 1:</b> Service Availability</i>
+	</summary>.
 	
 The Service Availability page displays multiple pages per type of service. Each page displays:
 -	A map to spot the distribution of the MoSDs providing the selected health service 
@@ -521,4 +504,3 @@ Passwords can be reset by navigating to your [account](https://herams.org/user/s
 In case you forgot your password you can use the [Reset password](https://herams.org/user/forgot) link on the sign in page. See [here](#reset-password) for more details. 
 
 ### Data export contains weird charactes (Special character (e.g. é,è,ä,ö,ü, etc) are not don't appear)
-
