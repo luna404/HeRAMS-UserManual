@@ -196,30 +196,37 @@ Each page refers to a HeRAMS standard information pillar. However, adapdation mi
 </p>
 
 <details>
- <summary>##### Page 1: Overview</summary>
+	<summary><h6>Overview</h6>
+	</summary>
 The overview page provides a summary, in form of: 
 -  A map to spot the distribution and number of MoSDs (i.e., health facilities) by level of care (e.g. 
 	- secondary and tertiary care: hospitals
 	- primary health Care: health centres, clinics and health posts, camp and mobile clinic
 -  Donut charts to summarize different indicators, such as level of damage, functionality status, accessibility and service availability in the assessed MoSDs, which is country specific
+
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_overview.png" alt="Overview" height="300"></img>
 </p>
 </details>
 
-
-##### Page 2: Infastructure
+<details>
+	<summary><h6>Page 2: Infastructure</h6>
+	</summary>
 The Infrastructure page, displays a descriptive analysis, including:
 -  A map to spot the distribution and number of MoSDs (i.e., health facilities) by type
 -  Donut charts to illustrate 
 	- MoSDs per type
 	- The modality of the building structure (permanent vs. temporary)
 -  A table to illustrate reported accessibility barriers 
+
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_infastructure.png" alt="Infastructure" height="300"></img>
 </p>
+</details>
 
-##### Page 3: Condition
+<details>
+	<summary><h6>Page 3: Condition</h6>
+	</summary>
 The condition page displays the level of reported damage to MoDS buildings following a standard classification and scale (Not Damaged to Fully Damaged). Information is visualised as: 
 -	A map to spot the distribution and number of health facilities according to the level of builduing damage (i.e. condition) 
 -	Donut charts summarizing 
@@ -230,8 +237,11 @@ The condition page displays the level of reported damage to MoDS buildings follo
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_condition.png" alt="Condition" height="300"></img>
 </p>
+</details>
 
-##### Page 4: Functionality
+<details>
+	<summary><h6>Page 4: Functionality</h6>
+	</summary>
 The functionality page displays the level of functionality status of the MoSDs following a standard classification and scale (Fully Functioning to Not Functioning) respresented as:
 -	A map to spot the distribution and number of MoSDs according to the functionality status
 -	Donut charts to summarize 
@@ -241,8 +251,11 @@ The functionality page displays the level of functionality status of the MoSDs f
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_functionality.png" alt="Functionality" height="300"></img>
 </p>
+</details>
 
-##### Page 5: Accessability
+<details>
+	<summary><h6>Page 5: Accessability</h6>
+	</summary>
 The accessibility page displays the level of accessibility to the MoSDs following a standard classification and scale (Fully Accessible to Not Accessible) in the form of:
 -	A map to spot the distribution and number of MoSDs according to the accessibility status
 -	Donut charts to summarize 
@@ -252,8 +265,11 @@ The accessibility page displays the level of accessibility to the MoSDs followin
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_accessability.png" alt="Accessability" height="300"></img>
 </p>
+</details>
 
-##### Page 6: Management & Support
+<details>
+	<summary><h6>Page 6: Management & Support</h6>
+	</summary>
 The management & support page displays information on the management of the MoSDs and the level of support provided by partners. Ths information is illustrated in terms of: 
 - Ownership
 	-  A map to spot the distribution of MoSDs according to their ownership (i.e., public, private, private-faith-based, NGO/iNGO)
@@ -263,16 +279,20 @@ The management & support page displays information on the management of the MoSD
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_management_support.png" alt="Management & Support" height="300"></img>
 </p>
+</details>
 
-##### Page 7: Basic Amenities
+<details>
+	<summary><h6>Page 7: Basic Amenities</h6>
 The Basic Amenities page presents a series of donut charts displaying information of core areas such as:
 - The principle source of water and power 
 - Ther percentage of MoDS with sufficient water and power supplies
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_basic_amenities.png" alt="Basic Amenitites" height="300"></img>
 </p>
+</details>
 
-##### Page 8: Service Availability
+<details>
+	<summary><h6>Page 8: Service Availability</h6>
 The Service Availability page displays multiple pages per type of service. Each page displays:
 -	A map to spot the distribution of the MoSDs providing the selected health service 
 -	Donut charts to summarize 
@@ -282,6 +302,8 @@ The Service Availability page displays multiple pages per type of service. Each 
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_service_availability.png" alt="Service Availability" height="300"></img>
 </p>
+</details>
+
 ### Downloading data
 For more in-depth analysis, data of individual workspaces can be donwloaded as csv files. 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
