@@ -47,11 +47,16 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 ### Login
 Follow the steps below to access the HeRAMS platform. 
 1. Open the link https://herams.org in your browser. 
-<br/>***Tip: It is recommended to user either FireFox or Chrome. ***
+<p>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<b> Tip: It is recommended to user either FireFox or Chrome. </b>
+</p>
 2. A pop-up window will appear prompting you to enter your username (email) and password. For new users, please follow the instruction [here](#create-user-account) to create your account. 
 3. Enter you username (email) and password in the designated fields and click the 
  <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_login.png" height="20" align="top"></img>  button. 
-<p align="center"><img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_Login.gif" alt="HeRAMS Login" height="300"/></p>
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_Login.gif" alt="HeRAMS Login" height="300"/></img>
+</p>
 
 #### New User
 
@@ -65,10 +70,14 @@ To create your user account, follow the instruction in section [Create user acco
 3. Enter your email address in the top field. Type the characters you see in the picture into the lower field.
 4. Click the submit button.
 5. An email will be sent to your email containing a link that allows you to enter a new password. 
-<br/>***Tip: Make sure to check your spam folder.***
+<p>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<b> Tip: Make sure to check your spam folder.</b>
+</p>
 6. Enter your new password and click the submit button. Your password has now been changed. To login into HeRAMS, return to the sign in page. 
-
-<p align="center"><img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_password_reset.gif" alt="HeRAMS Register" height="300"/></img></p>
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_password_reset.gif" alt="HeRAMS Register" height="300"/></img>
+</p>
 
 #### Logout
 
@@ -84,7 +93,7 @@ To log out, click the  <img src="https://github.com/luna404/HeRAMS-UserManual/bl
 3. Enter your name, email and passowrd. Note that your email acts as username.
 4. Submit your information by clicking the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_sign_up.png" height="20" align="top"></img> button. A confirmation email will be sent to your email. 
 <p>
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="20" align="top" alt='tip'></img>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<b> Tip: Make sure to check your spam folder.</b>
 </p>
 <p align="center">
@@ -146,7 +155,7 @@ On the right you see the navigation pane listing all available projects. In addi
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_summary_popup.png" alt="HeRAMS Worldview" height="300"></img>
 </p>
 <p>
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="20" align="top" alt='tip'></img>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<b> For further details, click the details button. This will open the project specific dashboard.</b>
 </p>
 
@@ -157,7 +166,7 @@ Each project in HeRAMS has a custom dashbaord that permits yours to gain detaile
 2. In the pop-up, click the details button. This will open the project dashbaord.
 3. You should now see a page similar to the one shown below. In the navigation pane on the left you see all available pages of the dashbaord. Click on the name of the page to open the page.
 <p>
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="20" align="top" alt='tip'></img>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<b> Tip: Some page may contain subpages. This is indicated by a > next to the page name.</b>
 </p>
 4. To retrun to a previous page, you can either select the page in the navigation pane on the left, or use the breadcrumb trail on top of the dashbaord. For example, the image below displays a sub-page of the Nigera dashboard. To return to the Overivew page, click on *Niveria* in the naviagation pane. 
@@ -174,7 +183,7 @@ To further drill down into the data, you can apply custom filters.
 2. You should now see the filter configuration page. Use the drop-down list to select your filter criteria. 
 3. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_apply.png" height="20" align="top" alt='apply'></img> buton to activate your filter.
 <p>
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="20" align="top" alt='tip'></img>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<b> Tip: You can combine multiple filter as well as selecting multiple items form a drop-down list.</b>
 </p>
 
@@ -280,7 +289,7 @@ For more in-depth analysis, data of individual workspaces can be donwloaded as c
 1. Navigate to the workspace page of your project(see [Accessing the data edit interface](#Accessing the data edit interface) steps 1-4 for detailed instructions).
 2. In the rightmost column, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_download.png" height="20" align="top" alt='New record'></img> button. This will download all records (MoDS) of this workspace.
 <p>
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="20" align="top" alt='tip'></img>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<b> Tip: For surveys containing characters (e.g. ب,é,ä) make sure you to define the encoding correctly when opening the data in Excel (see below for details).</b>
 </p>
 
@@ -313,7 +322,7 @@ The below steps guide through though the admin interface to acc
 </p>
 4. To open a workspace, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_pencil_black.png" height="20" align="top" alt='Edit data'></img>  icon in the action colon. 
 <p>
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="20" align="top" alt='tip'></img>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<b> Tip: Be aware that a workspace might have multiple pages. Use the >> to move to the next page or filter the workspaces by typing the name in the field below the workspace title.
 </p>
 <p align="center">
@@ -331,7 +340,7 @@ The below steps guide through though the admin interface to acc
 </p>
 1. To update a record click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_pencil_blue.png" height="20" align="top" alt='pencil'></img>  icon in the left most column. 
 <p>
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="20" align="top" alt='tip'></img>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<b> Tip: Be aware that a table might have multiple pages. Use the button in the button left corner to go to the next page. You can also reduce the number of records displayed by applying filters.</b>
 </p>
 <p align="center">
@@ -394,20 +403,54 @@ There are two permission levels that a user can be granted to a workspace. Users
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
 	<b> The number of buttons visible to you depend on your access rights to a specific workspace.</b>
 </p>
-4. 
+4. To add a new user, you have to share the workspace with the user. In the action column of the workspace you would like to share, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_sahre.png" height="20" align="top" alt='share'></img>  icon
+5. You should now see something similar to the image below. On the buttom half of the screen you can see a list of all users currently having access to this workspace and their permission level. 
 <p align="center">
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_excel_encoding.gif" alt="data update interface" height="300"></img>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_worksapce_share.png alt="share worksapce" height="300"></img>
 </p>
-
+6. In the top half the page you have the option to add a user. Start typing the users name in the top field. You will notice that the list of users is dynamically filtering. Select the user you would like to add.
+<p>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<b>Tip: You can add multiple users add once as shown in the image above.</b>
+</p>
+7. Use the checkboxes to assign appropriate permission rights. See the previous section for further details on [Workspace Permissions](#workspace-permissions).
+8. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_share.png" height="20" align="top" alt='share'></img> button to share the access permission with the selected users.
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_workspace_share.gif" alt="Overview" height="300"></img>
+</p>
+#### Remove a User from a Workspace
+1. To remove a user from a workspace, follow the steps 1-5 outlined in the [previous section](#add-a-user-to-a-workspace) to access the workspace from which you would like to remove a user.
+2. On the second half of the screen you should now see a list of all users having access to the workspace. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_delete_red.png" height="20" align="top" alt='bin'></img> icon to remove the user permanently. 
 #### Change a User's permission
-
-
+1. To change a user's permission, remove the user from the workspace as outlined [above](#remove-a-user-from-a-workspace).
+2. Now add the user again using the new permission level envisioned (see section [Add a User to a Workspace](#add-a-user-to-a-workspace) for details).
 
 #### Create a New Worksapce
+1. To create a new workspace, access to the workspace page of your project (see section [Add a User to a Workspace](#add-a-user-to-a-workspace) for details).
+2. On the upper left corner, you should see a button 	
+<p>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='tip'></img>
+	<b>Note: Adding health facilities to a workspace requires to change the token in the responses. Contact your system administrator for guidance on how to change a record's token.</b>
+</p>
+#### Import Worksapace
+1. In rare cases, the workspace tokens might have already been create by your administrator. In this case, use the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_workspace_import_white.png" height="20" align="top" alt='import workspaces'></img> import workspace button instead.
+2. Use the **Title** field to select the list of workspace you would like to import the tokens from.
+3. If tokens are available for import a list of tokens should display. Click the checkboxes next to the tokens you would like to import.
+4. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_workspace_import_blue.png" height="20" align="top" alt='import workspaces'></img> button to create the workspaces. 
+<p>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='tip'></img>
+	<b>Note: Adding health facilities to a workspace requires to change the token in the responses. Contact your system administrator for guidance on how to change a record's token.</b>
+</p>
 
 #### Delete a Worksapce
+1. You can remove a workspace by clicking the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_delete_black.png" height="20" align="top" alt='bin'></img> icon in the action column next to the workspace in question.
+<p>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='tip'></img>
+	<b>Note: Deleting workspace will not affect the underlying data. See the section on deleting record for details on how to permanently remove health facilities.</b>
+</p>
 
 ### The Project Page
+
 
 ### Editing the Dashboard
 
