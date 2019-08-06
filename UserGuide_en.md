@@ -323,7 +323,7 @@ The below steps guide through though the admin interface to acc
 4. To open a workspace, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_pencil_black.png" height="20" align="top" alt='Edit data'></img>  icon in the action colon. 
 <p>
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<b> Tip: Be aware that a workspace might have multiple pages. Use the >> to move to the next page or filter the workspaces by typing the name in the field below the workspace title.
+	<b> Tip: Be aware that a workspace might have multiple pages. Use the >> to move to the next page or filter the workspaces by typing the name in the field below the workspace title.</b>
 </p>
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_workspace_filter.png" alt="HeRAMS Worldview" height="300"></img>
