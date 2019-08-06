@@ -198,6 +198,7 @@ Each page refers to a HeRAMS standard information pillar. However, adapdation mi
 <details>
 	<summary><h6>Overview</h6>
 	</summary>
+
 The overview page provides a summary, in form of: 
 -  A map to spot the distribution and number of MoSDs (i.e., health facilities) by level of care (e.g. 
 	- secondary and tertiary care: hospitals
@@ -212,6 +213,7 @@ The overview page provides a summary, in form of:
 <details>
 	<summary><h6>Page 2: Infastructure</h6>
 	</summary>
+
 The Infrastructure page, displays a descriptive analysis, including:
 -  A map to spot the distribution and number of MoSDs (i.e., health facilities) by type
 -  Donut charts to illustrate 
@@ -227,6 +229,7 @@ The Infrastructure page, displays a descriptive analysis, including:
 <details>
 	<summary><h6>Page 3: Condition</h6>
 	</summary>
+
 The condition page displays the level of reported damage to MoDS buildings following a standard classification and scale (Not Damaged to Fully Damaged). Information is visualised as: 
 -	A map to spot the distribution and number of health facilities according to the level of builduing damage (i.e. condition) 
 -	Donut charts summarizing 
@@ -242,6 +245,7 @@ The condition page displays the level of reported damage to MoDS buildings follo
 <details>
 	<summary><h6>Page 4: Functionality</h6>
 	</summary>
+
 The functionality page displays the level of functionality status of the MoSDs following a standard classification and scale (Fully Functioning to Not Functioning) respresented as:
 -	A map to spot the distribution and number of MoSDs according to the functionality status
 -	Donut charts to summarize 
@@ -256,6 +260,7 @@ The functionality page displays the level of functionality status of the MoSDs f
 <details>
 	<summary><h6>Page 5: Accessability</h6>
 	</summary>
+
 The accessibility page displays the level of accessibility to the MoSDs following a standard classification and scale (Fully Accessible to Not Accessible) in the form of:
 -	A map to spot the distribution and number of MoSDs according to the accessibility status
 -	Donut charts to summarize 
@@ -270,6 +275,7 @@ The accessibility page displays the level of accessibility to the MoSDs followin
 <details>
 	<summary><h6>Page 6: Management & Support</h6>
 	</summary>
+
 The management & support page displays information on the management of the MoSDs and the level of support provided by partners. Ths information is illustrated in terms of: 
 - Ownership
 	-  A map to spot the distribution of MoSDs according to their ownership (i.e., public, private, private-faith-based, NGO/iNGO)
@@ -283,6 +289,8 @@ The management & support page displays information on the management of the MoSD
 
 <details>
 	<summary><h6>Page 7: Basic Amenities</h6>
+	</summary>
+	
 The Basic Amenities page presents a series of donut charts displaying information of core areas such as:
 - The principle source of water and power 
 - Ther percentage of MoDS with sufficient water and power supplies
@@ -293,6 +301,8 @@ The Basic Amenities page presents a series of donut charts displaying informatio
 
 <details>
 	<summary><h6>Page 8: Service Availability</h6>
+	</summary>
+	
 The Service Availability page displays multiple pages per type of service. Each page displays:
 -	A map to spot the distribution of the MoSDs providing the selected health service 
 -	Donut charts to summarize 
