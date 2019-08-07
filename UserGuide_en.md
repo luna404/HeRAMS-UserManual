@@ -51,8 +51,11 @@ Follow the steps below to access the HeRAMS platform.
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> Tip: It is recommended to user either FireFox or Chrome. </i>
 </p>
+
 2. A pop-up window will appear prompting you to enter your username (email) and password. For new users, please follow the instruction [here](#create-user-account) to create your account. 
-3. Enter you username (email) and password in the designated fields and click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_login.png" height="20" align="top"></img> button. 
+3. Enter you username (email) and password in the designated fields and click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_login.png" height="20" align="top" ></img> button. 
+3. Make sure to click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_submit_en.png" height="20" align="top" alt="Submit"></img> button to confirm your changes. 
+
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_login.gif" alt="HeRAMS Login" height="300"/></img>
 </p>
@@ -67,7 +70,7 @@ To create your user account, follow the instruction in section [Create user acco
 1. In case you need to reset your password,  open the link [https://herams.org](https://herams.org) in your browser.
 2. On the sign in page, click the [Reset password](https://herams.org/user/forgot) link.
 3. Enter your email address in the top field. Type the characters you see in the picture into the lower field.
-4. Click the submit button.
+4. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_submit_en.png" height="20" align="top" alt="Submit"></img> button.
 5. An email will be sent to your email containing a link that allows you to enter a new password. 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
