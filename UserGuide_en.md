@@ -420,7 +420,7 @@ This chapter provides a more in-depth description of the admin pages in HeRAMS. 
 	<i> Note: Access to each of the sub-sections of this chapter are depending on the tasks a users is expected to complete. If you require your permissions to be changed, please contact your system administrator..</i>
 </p>
 
-### The Workspace Page
+### Workspaces
 
 HeRAMS uses the concept of workspaces to manage user permissions. Each workspace traditionally contains several health facilities with a dedicated focal point responsible for updating these records. A workspace might constitue for example a geographical region, health facilities managed by a specfic partner or any other logical category. This system  allows to tightly control access to the underlying data. 
 While most users only have access to a single worksapce, local administrators might have access to several or all workspace and are responsible to add new users to a workspace, change a user's permission or to create additional workspace. 
@@ -444,9 +444,10 @@ There are two permission levels that a user can be granted to a workspace. Users
 
 #### Add a User to a Workspace
 1. To grant a user access to a specific workspace, open the admin interfacce by clicking the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_settings.png" height="20" align="top" alt='settings'></img> button in the top right corner of the screen.
+2. In the navigation pane on the left, click [Projects](https://herams.org/project/index) to open the project overview page.
 2. In the rightmost column of the table, you should see several action buttons. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_workspace.png" height="20" align="top" alt='worksapce'></img>  icon. This will open the workspace of the selected project.  
 3. You should now see a table with all workspaces. For each worksapce the table provides information on the last time data was synced with the underlying database, the number of contributors, health facilities and responses. Alike the project table, the las column contains several action button. 
-4. To add a new user, you have to share the workspace with the user. In the action column of the workspace you would like to share, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_sahre.png" height="20" align="top" alt='share'></img>  icon
+4. To add a new user, you have to share the workspace with the user. In the action column of the workspace you would like to share, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_share.png" height="20" align="top" alt='share'></img>  icon
 5. You should now see something similar to the image below. On the buttom half of the screen you can see a list of all users currently having access to this workspace and their permission level. 
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_worksapce_share.png alt="share worksapce" height="300"></img>
@@ -492,30 +493,71 @@ There are two permission levels that a user can be granted to a workspace. Users
 	<i>Note: Deleting workspace will not affect the underlying data. See the section on deleting record for details on how to permanently remove health facilities.</i>
 </p>
 
-### The Project Page
+### Projects
 The [projectp](#https://herams.org/project/index) page provides a brief overview of all project available on the HeRAMS platform. 
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_projects.png" alt="project page" height="300"></img>
 </p>
 For each project the number of workspace, contributors, health facilities, and responses is displayed. The last column provides a series of action buttons. 
 
-- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_workspace.png" height="20" align="top" alt='bin'></img>Access a project's [Worksapaces](#worksapce) 
-- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_dashboard.png" height="20" align="top" alt='bin'></img>View the project [Dashboard](#dashbaord) 
-- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_edit.png" height="20" align="top" alt='bin'></img>[Edit](#) the project
-- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_check_data.png" height="20" align="top" alt='bin'></img>[Check Data](#) 
-- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_share.png" height="20" align="top" alt='bin'></img>[Share](#) the entire project 
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_workspace.png" height="20" align="top" alt='workspace'></img>Access a project's [Worksapaces](#worksapce) 
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_dashboard.png" height="20" align="top" alt='dashboard'></img>View the project [Dashboard](#dashbaord) 
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_edit.png" height="20" align="top" alt='update project'></img>[Edit](#) the project
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_check_data.png" height="20" align="top" alt='check data'></img>[Check Data](#) 
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_share.png" height="20" align="top" alt='share'></img>[Share](#) the entire project 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='tip'></img>
 	<i>Note: The number of buttons visible to you depend on your access rights to a specific project is likely to vary from one project to another</i>
 </p>
 
-#### Edit a project
-This edit project button allows users to update some general project settings, including configuring the dashboard. 
+#### Update a Project's General Settings
+1. To update the general settings of a project, open the admin interfacce by clicking the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_settings.png" height="20" align="top" alt='settings'></img> button in the top right corner of the screen.
+2. In the navigation pane on the left, click [Projects](https://herams.org/project/index) to open the project overview page.
+3. To open the project settings, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_edit.png" height="20" align="top" alt='bin'></img> icon in the last column of your project.
+4. You should now see a page similar to the one displayed below, which permits you to 
+	- Update the project title
+	- Alter the survey linked to this project
+	- Change the centroid (latitude and longitude) used on the world map.
+	- Update the status of the project 
+	- Configure the pop-up information displayed on the main page.
+	- Congifure the project dashboard. Additional information on how to configure the project dashboard is available [here](#configure-dashbaord).
+5. Make sure you save your changes by clicking the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_update_project.png" height="20" align="top" alt='update project'></img>  button.
 
-##### Configure Details Pop-up
+#### Project Permissions
+Tere are three permission levels that a user can be granted to a project. 
+1. Allow access to the project dashboard from the world map
+2. Allows full access to all workspaces in this project as well as creating new ones or deleting existing ones
+3. Allow everything
 
-##### Configure Project Dashboard
+#### Add a User to a Project
+1. To grant a user access to a specific project, open the admin interfacce by clicking the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_settings.png" height="20" align="top" alt='settings'></img> button in the top right corner of the screen.
+2. In the navigation pane on the left, click [Projects](https://herams.org/project/index) to open a page displaying all availble projects.
+2. In the rightmost column of the table, you should see several action buttons. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_share.png" height="20" align="top" alt='share'></img> icon. 
+3. You should now see something similar to the image below. On the buttom half of the screen you can see a list of all users currently having access to this workspace and their permission level. 
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_project_share.png alt="share worksapce" height="300"></img>
+</p>
+6. In the top half the page you have the option to add a user. Start typing the users name in the top field. You will notice that the list of users is dynamically filtering. Select the user you would like to add.
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<i>Tip: You can add multiple users add once as shown in the image above.</i>
+</p>
+7. Use the checkboxes to assign appropriate permission rights. See[Project Permissions](#project-permissions) for further information on the different permission levels available.
+8. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_share.png" height="20" align="top" alt='share'></img> button to share the access permission with the selected users.
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_project_share.gif" alt="Overview" height="300"></img>
+</p>
+
+#### Remove a User from a Workspace
+
+#### Change a User's permission
+
+
+
+
+### Configure Project Dashboard
+
 
 
 ### User Management
@@ -543,9 +585,37 @@ In case you forgot your password you can use the [Reset password](https://herams
 
 </details>
 <details>
-	<summary><b>Data export is unreadable or contains weird characters</b>
-	</summary>
+	<summary><b>Data export is unreadable or contains weird characters</b></summary>
 	
 If open your data in Excel, you might experience an issue with special characters not displaying properly. For example, instead of *camp de réfugiés* you get *Camp de rÃ©fugiÃ©s*. The reason for this is that Excel not using the correct encoding type to read you date. To correct the issue, follow the instruction outlined here. 
 </details>
 
+<details>
+	<summary><b>How can see if I have access to a specific dashboard</b></summary>
+		coming soon
+</details>
+
+<details>
+	<summary><b>Where can I see the list of workspaces</b></summary>
+		coming soon
+</details>
+
+<details>
+	<summary><b>Title</b></summary>
+		coming soon
+</details>
+
+<details>
+	<summary><b>Title</b></summary>
+		coming soon
+</details>
+
+<details>
+	<summary><b>Title</b></summary>
+		coming soon
+</details>
+
+<details>
+	<summary><b>Title</b></summary>
+		coming soon
+</details>
