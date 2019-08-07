@@ -425,13 +425,12 @@ This chapter provides a more in-depth description of the admin pages in HeRAMS. 
 HeRAMS uses the concept of workspaces to manage user permissions. Each workspace traditionally contains several health facilities with a dedicated focal point responsible for updating these records. A workspace might constitue for example a geographical region, health facilities managed by a specfic partner or any other logical category. This system  allows to tightly control access to the underlying data. 
 While most users only have access to a single worksapce, local administrators might have access to several or all workspace and are responsible to add new users to a workspace, change a user's permission or to create additional workspace. 
 
-- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_refresh.png" height="20" align="top" alt='bin'></img>[](#) 
-- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_update.png" height="20" align="top" alt='bin'></img>[](#) 
-- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_edit.png" height="20" align="top" alt='bin'></img>[](#) 
-- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_share.png" height="20" align="top" alt='bin'></img>[](#) 
-- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_delete_black.png" height="20" align="top" alt='bin'></img>[](#) 
-- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_download.png" height="20" align="top" alt='bin'></img>[](#) 
-- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_update.png" height="20" align="top" alt='bin'></img>[](#) 
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_refresh.png" height="20" align="top" alt='refresh'></img>[](#) 
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_edit.png" height="20" align="top" alt='edit'></img>[](#) 
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_share.png" height="20" align="top" alt='share'></img>[](#) 
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_delete_black.png" height="20" align="top" alt='delete'></img>[](#) 
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_download.png" height="20" align="top" alt='download'></img>[](#) 
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_pencil_black.png" height="20" align="top" alt='edit data'></img>[](#) 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> The number of buttons visible to you depend on your access rights to a specific workspace.</i>
@@ -465,7 +464,7 @@ There are two permission levels that a user can be granted to a workspace. Users
 #### Remove a User from a Workspace
 1. To remove a user from a workspace, follow the steps 1-5 outlined in the [previous section](#add-a-user-to-a-workspace) to access the workspace from which you would like to remove a user.
 2. On the second half of the screen you should now see a list of all users having access to the workspace. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_delete_red.png" height="20" align="top" alt='bin'></img> icon to remove the user permanently. 
-#### Change a User's permission
+#### Change a User's Workspace Permission
 1. To change a user's permission, remove the user from the workspace as outlined [above](#remove-a-user-from-a-workspace).
 2. Now add the user again using the new permission level envisioned (see section [Add a User to a Workspace](#add-a-user-to-a-workspace) for details).
 
@@ -538,29 +537,28 @@ Tere are three permission levels that a user can be granted to a project.
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_project_share.png alt="share worksapce" height="300"></img>
 </p>
-6. In the top half the page you have the option to add a user. Start typing the users name in the top field. You will notice that the list of users is dynamically filtering. Select the user you would like to add.
+4. In the top half the page you have the option to add a user. Start typing the users name in the top field. You will notice that the list of users is dynamically filtering. Select the user you would like to add.
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i>Tip: You can add multiple users add once as shown in the image above.</i>
 </p>
-7. Use the checkboxes to assign appropriate permission rights. See[Project Permissions](#project-permissions) for further information on the different permission levels available.
-8. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_share.png" height="20" align="top" alt='share'></img> button to share the access permission with the selected users.
+5. Use the checkboxes to assign appropriate permission rights. See[Project Permissions](#project-permissions) for further information on the different permission levels available.
+6. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_share.png" height="20" align="top" alt='share'></img> button to share the access permission with the selected users.
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_project_share.gif" alt="Overview" height="300"></img>
 </p>
 
-#### Remove a User from a Workspace
+#### Remove a User from a Project
+1. To remove a user from a Project, follow the steps 1-3 outlined in the [previous section](#add-a-user-to-a-project) to access the project from which you would like to remove a user.
+2. On the second half of the screen you should now see a list of all users having access to the workspace. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_delete_red.png" height="20" align="top" alt='bin'></img> icon to remove the user permanently. 
 
-#### Change a User's permission
-
-
-
+#### Change a User's Project Permission
+1. To change a user's permission, remove the user from the project as outlined [above](#remove-a-user-from-a-project).
+2. Now add the user again using the new permission level envisioned (see section [Add a User to a Project](#add-a-user-to-a-project) for details).
 
 ### Configure Project Dashboard
 
 
-
-### User Management
 
 ## 5. FAQ
 This section aims to help users troubleshoot frequently encountered issues. In case you encounter an issue that is not addressed here, please post it in the comment section. We will periodically update this section to 
