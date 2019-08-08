@@ -87,7 +87,7 @@ To create your user account in [HeRAMS](https://herams.org/login), follow the in
 8. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_submit_en.png" height="20" align="top" alt="Submit"></img>  button to confirm your new passowrd. 
 9. To login into HeRAMS, return to the [sign in page](https://herams.org/user/login).
 
-<p align="center">https://googleads.g.doubleclick.net/aclk?sa=l&ai=CGTgb2RNMXeOQCM-CgQeI6IGwBKzw-rdXgtfFjoYJrgIQASCUm94YYPWNu4GYBKAByMnjhAPIAQKpApZlHif3M7E-4AIAqAMByAMIqgSWAk_QoL_7moeib5BiJ2nel15h_qyp35CHTDtSSsI_RcpHftnjeKX73L1OiH2BBxDV_n__l5tf0ffjjVx-rx8SWL3GIbX1irRgLiFLcfUamox-fpzTpRoClSFwzSCZV4huR_1ipbDRIweORz23GeiNh1btpgEL0sMUFMvHwKw1Wp4PlJax9C943usxs0dadyajXwmRjSR31g_-npxkvRQv6jpPmnEEohN8AMFOyrmL8mufAjLZDPhEN7Q_jD8qAvMmQNfV_k9jp_yStuZkDmMQzu-7tBFHH-1XvuLchVOzS3z-6XyTqIvwoP_1zcdliQGhgM6NypBhsliC0PZYVoHz_yOroqERtK_u2VcdzIpY38WePDXCX61G4AQBoAYCgAegtpx7qAeOzhuoB9XJG6gHwdMbqAeF1BuoB4HUG6gHgtQbqAeG1BuoB4TUG6gHk9gbqAfg0xuoB7oGqAfZyxuoB8_MG6gHpr4bqAfz0RuoB-zVG9gHAdIIBwiAYRABGA2xCR8y1iKTydV2gAoD2BMN&ae=1&num=1&sig=AOD64_3sbWMrLguonRXQKPUnZPCfb1AkBw&client=ca-pub-4755039800158255&nx=CLICK_X&ny=CLICK_Y&nb=2&adurl=https://www.carvolution.com/fr%3Futm_term%3D%26utm_medium%3Dadwords%26utm_source%3Dgoogle%26utm_campaign%3D04_GDN_Display%2BZielgruppen%26hsa_grp%3D75009217574%26hsa_mt%3D%26hsa_acc%3D5039806921%26hsa_ad%3D363093739114%26hsa_src%3Dd%26hsa_cam%3D2062055997%26hsa_kw%3D%26hsa_net%3Dadwords%26hsa_tgt%3D%26hsa_ver%3D3%26gclid%3DEAIaIQobChMIo-HvzqHz4wIVT0HgCh0IdABGEAEYASAAEgIUjvD_BwE
+<p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_password_reset.gif" alt="password reset" height="300"/></img>
 </p>
 
@@ -173,22 +173,17 @@ You can further personalize your account by adding a profile picture. In order f
 ### Worldview
 
 Upon login in, you should see a world map. Each blue dot on the map represents a single HeRAMS project. On the right you see the navigation pane listing all available projects. 
-You can also see the list of all available projects in the navigation pane on the left. 
+You can also see the list of all available projects in the navigation pane on the left.
+In addition, a brief summary on the number of projects availble in HeRAMS, the total number contributros and health facilities is shown on the buttom left corner.
+
+1. To learn more about a proje.ct, either click on the blue dot on the world map or select the project from the navigation pane on the left. 
+2. You should now see a pop-up window displaying an overview of the selected project. In the upper part of the pop-up you see the project name, the number of health facilities assessed and the number of contributors.
+In the lower part of the pop-up window you cann see a brief summary on the distribution of health facility types, their funcationality and service availability.
+3. For further details, click the details button. This will open the project specific dashboard.
 
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_worldview.png" alt="HeRAMS Worldview" height="300"></img>
 </p>
-
-1. To learn more about a project, either click on the blue dot on the world map or select the project from the navigation pane on the left. 
-2. You should now see a pop-up window displaying an overview of the selected project. In the upper part of the pop-up you see the project name, the number of health facilities assessed and the number of contributors. In addition, the 
-3. For further details, click the details button. This will open the project specific dashboard.
- <p align="center">
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_summary_popup.png" alt="HeRAMS Worldview" height="300"></img>
-</p>
-
-In addition, a brief summary on the number of herams projects, contributros and health facilities is shwon on the buttom left corner.
-
-
 
 
 ### Dashboard
