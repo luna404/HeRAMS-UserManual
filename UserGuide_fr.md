@@ -12,16 +12,16 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 		- [Actualiser le profil de l'utilisateur](#actualiser-le-profil-de-lutilisateur)
 		- [Ajouter une photo au profil](#ajouter-une-photo-au-profil)
 		- [Modifier le mot de passe](#modifier-le-mot-de-passe)
-2. [Explore Data](#2-explore-data)
-	 - [Worldview](#worldview)
-	 - [Project Summary](#project-summary)
-	 - [Dashboard](#dashboard)
-		- [Apply filters](#apply-filters)
-		- [Default Dashboard Pages](#default-dashboard-pages)
-	 - [Downloading data](#downloading-data)
-		- [Downloading the entire data set](#downloading-the-entire-dataset)
-		- [Data Encoding in Excel](#data-encoding-in-excel)
-3. [Edit Data](#edit-data)
+2. [Afficher les données](#2-afficher-les-donnes)
+	 - [Vue globale (Worldview)](#worldview)
+	 - [l'aperçu du projet](#laperçu-du-projet)
+	 - [Le tableau de bord](#le-tableau-de-bord)
+		- [Filtrer les données](#filtrer-les-données)
+		- [Les pages standard du tableau de bord](#les-pages-standard-du-tableau-de-bord)
+	 - [Télécharger des données](#télécharger-des-données)
+		- [Télécharger l'ensemble complet des données](#télécharger-lensemble-complet-des-données)
+		- [L'encodage de données en Excel](#lencodage-de-données-en-excel)
+3. [Modifier les données](#edit-data)
 	- [Accessing the Data Edit Interface](#accessing-the-data-edit-interface)
 	- [Editing a Record](#editing-a-record)
 	- [Updating a Record](#Updating-a-record)
@@ -87,7 +87,7 @@ Pour créer un compte sur [HeRAMS](https://herams.org/login), veuillez suivre le
 8. Confirmez votre nouvel mot de passe en cliquant le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_submit_en.png" height="20" align="top" alt="Submit"></img>.
 9. Pour se connecter à la platforme HeRMAS, veuillez returner à la [page d'ouvture](https://herams.org/user/login) 
 
-<p align="center">https://googleads.g.doubleclick.net/aclk?sa=l&ai=CGTgb2RNMXeOQCM-CgQeI6IGwBKzw-rdXgtfFjoYJrgIQASCUm94YYPWNu4GYBKAByMnjhAPIAQKpApZlHif3M7E-4AIAqAMByAMIqgSWAk_QoL_7moeib5BiJ2nel15h_qyp35CHTDtSSsI_RcpHftnjeKX73L1OiH2BBxDV_n__l5tf0ffjjVx-rx8SWL3GIbX1irRgLiFLcfUamox-fpzTpRoClSFwzSCZV4huR_1ipbDRIweORz23GeiNh1btpgEL0sMUFMvHwKw1Wp4PlJax9C943usxs0dadyajXwmRjSR31g_-npxkvRQv6jpPmnEEohN8AMFOyrmL8mufAjLZDPhEN7Q_jD8qAvMmQNfV_k9jp_yStuZkDmMQzu-7tBFHH-1XvuLchVOzS3z-6XyTqIvwoP_1zcdliQGhgM6NypBhsliC0PZYVoHz_yOroqERtK_u2VcdzIpY38WePDXCX61G4AQBoAYCgAegtpx7qAeOzhuoB9XJG6gHwdMbqAeF1BuoB4HUG6gHgtQbqAeG1BuoB4TUG6gHk9gbqAfg0xuoB7oGqAfZyxuoB8_MG6gHpr4bqAfz0RuoB-zVG9gHAdIIBwiAYRABGA2xCR8y1iKTydV2gAoD2BMN&ae=1&num=1&sig=AOD64_3sbWMrLguonRXQKPUnZPCfb1AkBw&client=ca-pub-4755039800158255&nx=CLICK_X&ny=CLICK_Y&nb=2&adurl=https://www.carvolution.com/fr%3Futm_term%3D%26utm_medium%3Dadwords%26utm_source%3Dgoogle%26utm_campaign%3D04_GDN_Display%2BZielgruppen%26hsa_grp%3D75009217574%26hsa_mt%3D%26hsa_acc%3D5039806921%26hsa_ad%3D363093739114%26hsa_src%3Dd%26hsa_cam%3D2062055997%26hsa_kw%3D%26hsa_net%3Dadwords%26hsa_tgt%3D%26hsa_ver%3D3%26gclid%3DEAIaIQobChMIo-HvzqHz4wIVT0HgCh0IdABGEAEYASAAEgIUjvD_BwE
+<p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_password_reset.gif" alt="password reset" height="300"/></img>
 </p>
 
@@ -104,7 +104,7 @@ Pour se déconnecter, veuillez cliquer sur le bouton de déconnection  <img src=
 3. Dans la page qui saffiche veuillez saisir votre nom, address e-mail et mot de passe.
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='tip'></img>
 	<i> Veuillez noter que votre address e-mail sera également votre nom d'utilisateur.</i>
 </span>
 
@@ -123,31 +123,86 @@ Pour se déconnecter, veuillez cliquer sur le bouton de déconnection  <img src=
 </p>
 
 #### Actualiser votre profil de l'utilisateur
-
-
+Pour mettre à jour votre profil d'utilisateur ou les détails de votre compte (c-à-d email ou mot de passe=), veuillez cliquer sur votre nom d'utilisateur dans le coin supérieur droit de l'écran.
+Cela ouvrira votre [profil de l'utilisateur](https://herams.org/user/settings/profile) et vous permet de mettre vos renseignements à jour.
 Une fenêtre contextuelle apparaîtra vous demandant de remplir votre email
 
-cliquer sur le lien « Reset password » pour réinitialiser votre mot de passe. 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
+	<i> Veuillez noter que le prénom, le nom et l'organisation sont obligatoires.</i>
+</span>
 
- - [Nouvel utilisatuer](#nouvel-utulisateur)
-	   - [Réinitialiser le mot de passe](#réinitialiser-le-mot-de-passe)
-	   - [Se déconnecter](#se-déconnecter)
-	  - [Profil de l'utilisateur](#profil-de-ultilisateur)
-		- [S'inscrire (Créer un Compte)](#sinscrire-créer-un-compte)
-		- [Actualiser le profil de l'utilisateur](#actualiser-le-profil-de-lutilisateur)
-		- [Ajouter une photo au profil](#ajouter-une-photo-au-profil)
-		- [Modifier le mot de passe](#modifier-le-mot-de-passe)
+#### Ajouter une photo au profil
 
-## Créer un compte d'utilisateur
-1. Pour vous inscrire en tant que nouvel utilisateur, veuillez ouvrir le lien [https://herams.org](https://herams.org) dans votre navigateur. 
-2. Dans la fenêtre contextuelle, veuillez cliquer sur le lien [sign-up](https://herams.org/user/register)
-3. Veuillez saisir votre nom, e-mail et mot de passe. Veuillez noter que votre nom d'utilisateur est le e-email utulisé ici.
-4. confirmez votre souscription en clicquant le bouton <img src="/media/images/bt_sign_up.png" height="20" align="top"></img>. Un e-mail de confirmation est envoyé à votre adresse e-mail. *Si vous n'apercevez pas ce courriel dans votre boîte de réception, vérifiez votre dossier pourriel ou « Junkmail » car il se peut qu'il y soit.*
-<p align="center"><img src="/media/videos/HeRAMS_Register.gif" alt="HeRAMS Register" height="300"/></p>
-5. Veuillez confirmer votre régistration en cliquant le lien  tel qu'illustré dans la photo ci-dessous. 
-<p align="center"><img src="/media/images/email_confirmation.png" alt="HeRAMS Register" height="300"/></p>
+Vous pourrez personnaliser votre compte en ajoutant une photo à votre profil.  
 
-## Accessing a project
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
+	<i> Pour plus d'informations sur Gravatar, veuillez cliquer [ici](https://fr.gravatar.com/support/what-is-gravatar/)</i>
+</span>
+
+1. Veuillez ouvrir votre profil de l'utilisateur en cliquant sur votre nom dans le coin supérieur à droit. 
+2. Veuillez tapper sur le lien [Gravatar](https://en.gravatar.com/) (voir illustration ci-dessous).
+
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/user_profile.png" alt="HeRAMS Register" height="300"/></img>
+</p>
+
+3. Vous serez invité à vous connecter à votre compte [Worldpress](https://wordpress.com/log-in). Si vous n'êtes pas encore inscrit, veuillez suivre les instruction pour créer un compte. 
+4. Lorsque vous serez connecté, veuillez ouvrir l'onglet **Manage Gravatars** et télécharger votre photo. 
+5. Dans l'onglet **My Gravatars** vous devriez maintenant pouvoir ajouter l'image à vo
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
+	<i> Veuillez noter que  quelques minutes peuvent être nécessaires avant que le image s'affiche sur HeRAMS. </i>
+</span>
+
+### Modifier le mot de passe
+
+1. Pour modifier votre mot de passe, veuillez ouvrir votre profil de l'utilisateur en cliquant sur votre nom dans le coin supérieur à droit. 
+2. Veuillez clicquer sur le lien [account](https://herams.org/user/settings/account) pour accéder vos information du compte.
+3. Dans la page qui s'affiche, vous pourrez enregistre un nouveau mmot de passe.
+4. Veuillez cliquer le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_submit_en.png" height="20" align="top" alt="Submit"></img> pour enregistrer votre nouveau mot de passe.
+
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_change_password.gif" alt="HeRAMS Change Password" height="300"/></img>
+</p>
+
+# 2. Afficher les données
+
+### Vue globale (Worldview)
+
+Si vous avez connecté avec succès, vous devriez maintenant voir la page d'accueil illustrant une carte modiale. Chaque point affiché sur la carte correspond à un projet de HeRAMS. 
+Vous trouverez également une liste de tous les projets (pays) dans le menu de navigation situé à la gauche de l'écran. 
+En outre, un aperçu du nombre total de projets disponible sur HeRAMS, de contributeurs et des FOSA sont présenté dans le coin inférieur gauche.
+
+1. Pour en savoir plus sur un projet veuillez sélectionner le projet dans le menu de navigation ou cliquer sur le point dans la carte mondiale.
+2. Une fenêtre contextuelle apparaîtra, affichant un aperçu du projet. Dans la partie supérieure vous voyez le nom du pays le nombre de FOSA (l'ensemble des formations sanitaires) évalué et le nombre total des contributeurs
+La partie inférieure monte des informations sur la répartition du type de structure sanitaire, la fonctionnalité et la disponibilité des sérvices.
+3. Pour plu
+
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_worldview.png" alt="HeRAMS Worldview" height="300"></img>
+</p>
+
+
+
+
+
+
+
+
+2. [Afficher les données](#2-afficher-les-donnes)
+	 - [Worldview (vue globale)](#worldview)
+	
+	 - [Le tableau de bord](#le-tableau-de-bord)
+		- [Filtrer les données](#filtrer-les-données)
+		- [Les pages standard du tableau de bord](#les-pages-standard-du-tableau-de-bord)
+	 - [Télécharger des données](#télécharger-des-données)
+		- [Télécharger l'ensemble complet des données](#télécharger-lensemble-complet-des-données)
+		- [L'encodage de données en Excel](#lencodage-de-données-en-excel)
+
+
 
 
 

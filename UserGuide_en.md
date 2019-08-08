@@ -104,7 +104,7 @@ To logout, click the  <img src="https://github.com/luna404/HeRAMS-UserManual/blo
 3. On the page that opens, enter your name, email and passowrd. 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='tip'></img>
 	<i> Note that your email acts as username.</i>
 </span>
 
@@ -116,7 +116,7 @@ To logout, click the  <img src="https://github.com/luna404/HeRAMS-UserManual/blo
 	<i> Tip: If you haven't received your email, make sure to check your spam folder.</i>
 </span>
 
-6. Confirm your registration by clicking on the link in your email shown below.
+6. Confirm your registration by clicking on the link in your email.
 
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_create_account.gif" alt="HeRAMS Register" height="300"/></img>
@@ -124,8 +124,8 @@ To logout, click the  <img src="https://github.com/luna404/HeRAMS-UserManual/blo
 
 #### Update you User Profile 
 
-To update your user profile or account details, click on your username on the top right corner of the screen.  
-This opens your user [profile](https://herams.org/user/settings/profile) and allows you to change your personal information such as your name, organization and contact details. 
+To update your user profile or account details (i.e. email and password), click on your username on the top right corner of the screen.  
+This opens your [user profile](https://herams.org/user/settings/profile) and allows you to change your personal information such as your name, organization and contact details. 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
@@ -134,28 +134,36 @@ This opens your user [profile](https://herams.org/user/settings/profile) and all
 
 #### Add a Profile Picture
 
-You can further personalize your acccount by adding a profile picture. In order for your profile picutre to appear, you will have to register your email address at [Gravatar](https://en.gravatar.com/). 
+You can further personalize your account by adding a profile picture. In order for your profile picutre to appear, you will have to register your email address at [Gravatar](https://en.gravatar.com/). 
 
-1. Click on the Go here to create your Gravatar.
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
+	<i> For more information on Gravatar, click [here](https://fr.gravatar.com/support/what-is-gravatar/)</i>
+</span>
+
+1. Open you user profile by clicking on your name in the upper right corner of your screen.
 2. Click on [Gravatar](https://en.gravatar.com/) link shown in the image below.
+
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/user_profile.png" alt="HeRAMS Register" height="300"/></img>
 </p>
-3. You’ll be prompted to login to your [Worldpress](#https://wordpress.com/log-in) account. If you don't already have a Wroldpress account, follow the instructions to create a new account.
-4. Upload your photo on the **Manage Gravatars** tab.
-5. Add your name and details on the **My Profile** tab.
+
+3. You will be prompted to login to your [Worldpress](https://wordpress.com/log-in) account. If you don't already have a Wroldpress account, follow the instructions to create a new account.
+4. Once logged in, open the **Manage Gavatars** tab and upload your image.
+5. In the **My Gavatars** tab you should now be able to assing the image to your email address.  add your name and details on the **My Profile** tab.
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> Note: It might take a few minutes before your gavatar appears on your HeRAMS profile.</i>
 </span>
 
-
 #### Change Password
 
 1. To alter your password, click on your username on the top right corner of the screen.  
-2. Click on the [account](https://herams.org/user/settings/account) link to switch to your account information. You should now be able to change your email address and enter a new password. 
-3. Make sure to click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_submit_en.png" height="20" align="top" alt="Submit"></img> button to confirm your changes. 
+2. Click on the [account](https://herams.org/user/settings/account) link to access your account information. 
+3. You should now be able to change your email address and enter a new password. 
+4. Make sure to click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_submit_en.png" height="20" align="top" alt="Submit"></img> button to confirm your changes. 
+
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_change_password.gif" alt="HeRAMS Change Password" height="300"/></img>
 </p>
@@ -164,13 +172,12 @@ You can further personalize your acccount by adding a profile picture. In order 
 
 ### Worldview
 
-Upon login in, you should see a world map. Each blue dot on the map represents a single HeRAMS project. On the right you see the navigation pane listing all available projects. In addition, a brief summary on the number of herams projects, contributros and health facilities is shwon on the buttom left corner.
-For more information on how to access individual projects, consult the [Project Summary](#project-summary) [Dashboard](#dashboard) sections.
+Upon login in, you should see a world map. Each blue dot on the map represents a single HeRAMS project. On the right you see the navigation pane listing all available projects. 
+You can also see the list of all available projects in the navigation pane on the left. 
+
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_worldview.png" alt="HeRAMS Worldview" height="300"></img>
 </p>
-
-### Project Summary
 
 1. To learn more about a project, either click on the blue dot on the world map or select the project from the navigation pane on the left. 
 2. You should now see a pop-up window displaying an overview of the selected project. In the upper part of the pop-up you see the project name, the number of health facilities assessed and the number of contributors. In addition, the 
@@ -178,6 +185,11 @@ For more information on how to access individual projects, consult the [Project 
  <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_summary_popup.png" alt="HeRAMS Worldview" height="300"></img>
 </p>
+
+In addition, a brief summary on the number of herams projects, contributros and health facilities is shwon on the buttom left corner.
+
+
+
 
 ### Dashboard
 
