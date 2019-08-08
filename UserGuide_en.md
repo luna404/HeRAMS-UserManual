@@ -179,31 +179,46 @@ In addition, a brief summary on the number of projects availble in HeRAMS, the t
 1. To learn more about a proje.ct, either click on the blue dot on the world map or select the project from the navigation pane on the left. 
 2. You should now see a pop-up window displaying an overview of the selected project. In the upper part of the pop-up you see the project name, the number of health facilities assessed and the number of contributors.
 In the lower part of the pop-up window you cann see a brief summary on the distribution of health facility types, their funcationality and service availability.
-3. For further details, click the details button. This will open the project specific dashboard.
+3. For further details, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_details.png" height="20" align="top" alt="details"></img> button. This will open the project specific dashboard.
 
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_worldview.png" alt="HeRAMS Worldview" height="300"></img>
 </p>
 
-
 ### Dashboard
 
-Each project in HeRAMS has a custom dashbaord that permits yours to gain detailed insights.
-1. To open a project, first open the project summary by selecting your project either form the navigation pane on the left or by clicking on the corresponding dot on the world map.
-2. In the pop-up, click the details button. This will open the project dashbaord.
+Each project in HeRAMS has a custom dashabord that permits yours to gain detailed insights.
+1. To display a dashboard, first open the project summary by selecting your project either form the navigation pane on the left or by clicking on the corresponding dot on the world map.
+2. In the pop-up window, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_details.png" height="20" align="top" alt="details"></img>  button. This will open the project dashbaord.
 3. You should now see a page similar to the one shown below. In the navigation pane on the left you see all available pages of the dashbaord. Click on the name of the page to open the page.
+
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_overview.png" alt="HeRAMS Register" height="300"/></img>
+</p>
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: Some page may contain subpages. This is indicated by a > next to the page name.</i>
+	<i> Tip: Some page may contain subpages, indicated by a **>** next to the page's name.</i>
 </span>
 
-4. To retrun to a previous page, you can either select the page in the navigation pane on the left, or use the breadcrumb trail on top of the dashbaord. For example, the image below displays a sub-page of the Nigera dashboard. To return to the Overivew page, click on *Niveria* in the naviagation pane. 
+4. To retrun to a previous page, you can either select the page in the navigation pane on the left, or use the breadcrumb trail on top of the dashbaord. 
+For example, the image below displays a sub-page of the Nigera dashboard. To return to the first page of the dashbaord, click on *Niveria* in the naviagation pane. 
+
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_navigation_pane.png" alt="HeRAMS Register" height="300"/></img>
 </p>
-4. If you hover over a point on the map or the chart, you will see a pop-up appearing displaying further information.
-5. To gain a better insight in the spatial distribution of health facilities, you can limit the type of structres disyplayed. Click on the circle in the legend. This will remove the slected type. To add it again, simply click the circle again. 
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<i> Tip: If you hover over a point on the map or the chart, you will see a pop-up appearing displaying further information.
+</i>
+</span>
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<i> Tip: To gain a better insight in the spatial distribution of health facilities, you can limit the type of structres disyplayed. Click on the circle in the legend. This will remove the slected type. To add it again, simply click the circle again. 
+</i>
+</span>
 
 #### Apply Filters
 

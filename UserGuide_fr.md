@@ -179,14 +179,44 @@ En outre, un aperçu du nombre total de projets disponible sur HeRAMS, de contri
 1. Pour en savoir plus sur un projet veuillez sélectionner le projet dans le menu de navigation ou cliquer sur le point dans la carte mondiale.
 2. Une fenêtre contextuelle apparaîtra, affichant un aperçu du projet. Dans la partie supérieure vous voyez le nom du pays le nombre de FOSA (l'ensemble des formations sanitaires) évalué et le nombre total des contributeurs
 La partie inférieure monte des informations sur la répartition du type de structure sanitaire, la fonctionnalité et la disponibilité des sérvices.
-3. Pour plu
+3. Pour plus d'information, veuillez clicquer sur le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_details.png" height="20" align="top" alt="details"></img>. Cela ouvrira le tableau de bord.
 
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_worldview.png" alt="HeRAMS Worldview" height="300"></img>
 </p>
 
+### Le tableau de bord
+
+Chaque projet dans HeRAMS possède un tableau de bord personnalisé qui vous permet d’obtenir des informations détaillées.
+1. Pour afficher le tableau de bord, veuillez d'abord choisir votre projet soit par cliquer sur le nom du project dans le menu de naviation, soit en cliquant sur le projet dans sur la carte mondiale.
+2. Dans la fenêtre contextuelle, veuillez cliquer sur le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_details.png" height="20" align="top" alt="details"></img>.
+3. Vous devriez maintenant voir une une page similaire à celle ci-dessous. 
+
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_overview.png" alt="HeRAMS Register" height="300"/></img>
+</p>
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<i> Conseil: Certaines pages peuvent contenir des sous-pages désigné par un **>** à côte du nom de la page</i>
+</span>
+
+4. Pour retourner à à une page présentente, veuillez utiliser le menu de navigation situé à gauche ou le volet de navigation en haut de la page.
+Par exemple, l'image ci-dessous affiche une sous-page du tableau de bord de Nigera. Pour retourner à la premier page du tableau de bord, cliquez sur * Nigeria * dans le volet de navigation.
+
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_navigation_pane.png" alt="HeRAMS Register" height="300"/></img>
+</p>
 
 
+Si vous survolez un point de la carte ou du graphique, une fenêtre contextuelle apparaît pour afficher des informations supplémentaires.
+
+Pour avoir une meilleure idée de la répartition spatiale des formations sanitaires, vous pouvez limiter le type de structures affichées. Cliquez sur le cercle dans la légende. Cela supprimera le type sélectionné. Pour l'ajouter à nouveau, cliquez simplement à nouveau sur le cercle.
+
+
+Vous pouvez ouvrir le tableau de bord en cliquant sur le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_details.png" height="20" align="top" alt="details"></img> ((voir [ci-dessus pour les détails).
+2.
+3.
 
 
 
