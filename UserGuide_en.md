@@ -4,39 +4,44 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 1. [Login & User Profile](#1-login--user-profile)
 	 - [Login](#login)
 	   - [New User](#new-user)
-	   - [Rest Password](#reset-password)
+	   - [Rest Password](#rest-password)
 	   - [Logout](#logout)
 	  - [User Profile](#user-profile)
 		- [Register (Create a User Account)](#register-create-a-user-account)
-		- [Update your Profile](#update-your-profile)
-		- [Add a profile picture](#add-a-profile-picture)
-		- [Change your Password](#change-password)
-2. [Exploring Data](#2-exploring-data)
+		- [Update Profile](#update-profile)
+		- [Add a Profile Picture](#add-a-profile-picture)
+		- [Change Password](#Change-password)
+2. [Explore Data](#2-explore-data)
 	 - [Worldview](#worldview)
 	 - [Project Summary](#project-summary)
 	 - [Dashboard](#dashboard)
-		- [Filtering data](#filtering-data)
+		- [Apply filters](#apply-filters)
 		- [Default Dashboard Pages](#default-dashboard-pages)
 	 - [Downloading data](#downloading-data)
-		-[Set Data Encoding in Excel](#set-data-encoding-in-excel)
-3. [Editing Data](#editing-data)
+		- [Downloading the entire data set](#downloading-the-entire-dataset)
+		- [Data Encoding in Excel](#data-encoding-in-excel)
+3. [Edit Data](#edit-data)
 	- [Accessing the Data Edit Interface](#accessing-the-data-edit-interface)
 	- [Editing a Record](#editing-a-record)
 	- [Updating a Record](#Updating-a-record)
 	- [Creating a New Record](#creating-a-new-record)
 	- [Deleting a Record](#deleting-a-record)
-4. [HeRAMS Administration](#herams-administration)
-	- [Workspace](#)
-		- [Workspace permissions](#)
-		- [Add a user to a workspace](#)
-		- [Remove a user from worksapce](#)
-		- [Alter a user's permission](#)
-		- [Create a new workspace](#)
+4. [HeRAMS Administration](#4-herams-administration)
+	- [Workspaces](#workspaces)
+		- [Workspace Permissions](#workspace-permissions)
+		- [Add a User to a Workspace](#add-a-user-to-a-workspace)
+		- [Remove a User from a worksapce](#remove-a-user-from-a-workspace)
+		- [Alter a user's Permission to a Workspace](#change-a-users-workspace-permission)
+		- [Create New Workspaces](#create-a-new-workspace)
+		- [Import Workspaces](#import-workspaces)
+		- [Delete Workspaces](#delete-workspaces)
 	- [Project](#)
-		- [Project permissions](#)
-		- 
-	- [User Management](#)
-	- [Createing/Editing the dashboard](#)
+		- [Project Permissions](#)
+		- [Add a User to a Project](#add-a-user-to-a-project)
+		- [Remove a User from a Project](#remove-a-user-from-a-project)
+		- [Alter a User's Permisson to a Project](#alter-a-users-permission-to-a-workspace)
+		- [Edit Project Settings](#alter-project-settings)
+		- [Configure the Project Dashboard](#configure-the-project-dashboard)
 5. [FAQ](#)
 
   
@@ -111,7 +116,7 @@ To logout, click the  <img src="https://github.com/luna404/HeRAMS-UserManual/blo
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_create_account.gif" alt="HeRAMS Register" height="300"/></img>
 </p>
 
-#### Update your Profile 
+#### Update Profile 
 
 To update your user profile or account details, click on your username on the top right corner of the screen.  
 This opens your user [profile](https://herams.org/user/settings/profile) and allows you to change your personal information such as your name, organization and contact details. 
@@ -121,7 +126,7 @@ This opens your user [profile](https://herams.org/user/settings/profile) and all
 	<i> Please note that first name, last name and organization are mandatory.</i>
 </span>
 
-#### Add a profile picture
+#### Add a Profile Picture
 
 You can further personalize your acccount by adding a profile picture. In order for your profile picutre to appear, you will have to register your email address at [Gravatar](https://en.gravatar.com/). 
 
@@ -140,7 +145,7 @@ You can further personalize your acccount by adding a profile picture. In order 
 </span>
 
 
-#### Change your Password
+#### Change Password
 
 1. To alter your password, click on your username on the top right corner of the screen.  
 2. Click on the [account](https://herams.org/user/settings/account) link to switch to your account information. You should now be able to change your email address and enter a new password. 
@@ -187,7 +192,7 @@ Each project in HeRAMS has a custom dashbaord that permits yours to gain detaile
 4. If you hover over a point on the map or the chart, you will see a pop-up appearing displaying further information.
 5. To gain a better insight in the spatial distribution of health facilities, you can limit the type of structres disyplayed. Click on the circle in the legend. This will remove the slected type. To add it again, simply click the circle again. 
 
-#### Filtering Data
+#### Apply Filters
 
 To further drill down into the data, you can apply custom filters.
 1. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_filter.png" height="20" align="top" alt='filter'></img>  button in the top right corner of the dashboard.
@@ -344,7 +349,17 @@ For more in-depth analysis, data of individual workspaces can be donwloaded as c
 	<i> Tip: For surveys containing characters (e.g. ب,é,ä) make sure you to define the encoding correctly when opening the data in Excel (see below for details).</i>
 </span>
 
-#### Define data encoding
+#### Downloading the entire dataset
+
+Coming soon
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<i> Note: Users are adviced to downlaod data for individual workspace as outlined above. The ability to download the entire data set is restricted to few users. Contact your system administrator for further information.</i>
+</span>
+
+
+#### Data Encoding in Excel
 
 If you open your data in Excel, you might have to manually set set the encoding to UTF-8 for special characters (e.g. ب,é,ä)  to be read correctly. 
 1. Open a new Excel file.
@@ -355,7 +370,7 @@ If you open your data in Excel, you might have to manually set set the encoding 
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_excel_encoding.gif" alt="data update interface" height="300"></img>
 </p>
 
-# 3. Editing Data
+# 3. Edit Data
 The following section provides an step-by-step guide on how to access the data edit interface, create, edit and delete records.
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
@@ -475,7 +490,7 @@ There are two permission levels that a user can be granted to a workspace. Users
 2. In the navigation pane on the left, click [Projects](https://herams.org/project/index) to open the project overview page.
 2. In the rightmost column of the table, you should see several action buttons. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_workspace.png" height="20" align="top" alt='worksapce'></img>  icon. This will open the workspace of the selected project.  
 3. You should now see a table with all workspaces. For each worksapce the table provides information on the last time data was synced with the underlying database, the number of contributors, health facilities and responses. Alike the project table, the las column contains several action button. 
-4. To add a new user, you have to share the workspace with the user. In the action column of the workspace you would like to share, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_share.png" height="20" align="top" alt='share'></img>  icon
+4. To add a new user, you have to share the workspace with the user. In the **Actions** column of the workspace you would like to share, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_share.png" height="20" align="top" alt='share'></img>  icon
 5. You should now see something similar to the image below. On the buttom half of the screen you can see a list of all users currently having access to this workspace and their permission level. 
 
 <p align="center">
@@ -488,6 +503,7 @@ There are two permission levels that a user can be granted to a workspace. Users
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i>Tip: You can add multiple users add once as shown in the image above.</i>
 </span>
+
 7. Use the checkboxes to assign appropriate permission rights. See the previous section for further details on [Workspace Permissions](#workspace-permissions).
 8. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_share.png" height="20" align="top" alt='share'></img> button to share the access permission with the selected users.
 
@@ -515,7 +531,7 @@ There are two permission levels that a user can be granted to a workspace. Users
 	<i>Note: Adding health facilities to a workspace requires to change the token in the responses. Contact your system administrator for guidance on how to change a record's token.</i>
 </span>
 
-#### Import Worksapace
+#### Import Worksapaces
 
 1. In rare cases, the workspace tokens might have already been create by your administrator. In this case, use the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_workspace_import_white.png" height="20" align="top" alt='import workspaces'></img> import workspace button instead.
 2. Use the **Title** field to select the list of workspace you would like to import the tokens from.
@@ -527,7 +543,7 @@ There are two permission levels that a user can be granted to a workspace. Users
 	<i>Note: Adding health facilities to a workspace requires to change the token in the responses. Contact your system administrator for guidance on how to change a record's token.</i>
 </span>
 
-#### Delete a Worksapce
+#### Delete Worksapces
 
 1. You can remove a workspace by clicking the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_delete_black.png" height="20" align="top" alt='bin'></img> icon in the action column next to the workspace in question.
 
@@ -538,7 +554,7 @@ There are two permission levels that a user can be granted to a workspace. Users
 
 ### Projects
 
-The [projectp](#https://herams.org/project/index) page provides a brief overview of all project available on the HeRAMS platform. 
+The [project](#https://herams.org/project/index) page provides a brief overview of all project available on the HeRAMS platform. 
 
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_projects.png" alt="project page" height="300"></img>
@@ -556,19 +572,6 @@ For each project the number of workspace, contributors, health facilities, and r
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='tip'></img>
 	<i>Note: The number of buttons visible to you depend on your access rights to a specific project is likely to vary from one project to another</i>
 </span>
-
-#### Update a Project's General Settings
-1. To update the general settings of a project, open the admin interfacce by clicking the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_settings.png" height="20" align="top" alt='settings'></img> button in the top right corner of the screen.
-2. In the navigation pane on the left, click [Projects](https://herams.org/project/index) to open the project overview page.
-3. To open the project settings, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_edit.png" height="20" align="top" alt='bin'></img> icon in the last column of your project.
-4. You should now see a page similar to the one displayed below, which permits you to 
-	- Update the project title
-	- Alter the survey linked to this project
-	- Change the centroid (latitude and longitude) used on the world map.
-	- Update the status of the project 
-	- Configure the pop-up information displayed on the main page.
-	- Congifure the project dashboard. Additional information on how to configure the project dashboard is available [here](#configure-dashbaord).
-5. Make sure you save your changes by clicking the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_update_project.png" height="20" align="top" alt='update project'></img>  button.
 
 #### Project Permissions
 Tere are three permission levels that a user can be granted to a project. 
@@ -593,6 +596,7 @@ Tere are three permission levels that a user can be granted to a project.
 
 5. Use the checkboxes to assign appropriate permission rights. See[Project Permissions](#project-permissions) for further information on the different permission levels available.
 6. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_share.png" height="20" align="top" alt='share'></img> button to share the access permission with the selected users.
+
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_project_share.gif" alt="Overview" height="300"></img>
 </p>
@@ -607,7 +611,56 @@ Tere are three permission levels that a user can be granted to a project.
 1. To change a user's permission, remove the user from the project as outlined [above](#remove-a-user-from-a-project).
 2. Now add the user again using the new permission level envisioned (see section [Add a User to a Project](#add-a-user-to-a-project) for details).
 
-### Configure Project Dashboard
+#### Edit Project Settings
+1. To update the general settings of a project, open the admin interfacce by clicking the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_settings.png" height="20" align="top" alt='settings'></img> button in the top right corner of the screen.
+2. In the navigation pane on the left, click [Projects](https://herams.org/project/index) to open the project overview page.
+3. To open the project settings, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_edit.png" height="20" align="top" alt='bin'></img> icon in the last column of your project.
+4. You should now see a page similar to the one displayed below, which permits you to 
+	- Update the project title
+	- Alter the survey linked to this project
+	- Change the centroid (latitude and longitude) used on the world map.
+	- Update the status of the project 
+	- Configure the pop-up information displayed on the main page.
+	- Congifure the project dashboard. Additional information on how to configure the project dashboard is available [here](#configure-dashbaord).
+5. Make sure you save your changes by clicking the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_update_project.png" height="20" align="top" alt='update project'></img>  button.
+
+### Configure the Project Dashboard
+For each project, a dedicated dashbaord is available to provide users an instand an indepth view of the data. To alter a project dashabord, follow the instructions below.
+1. Open the project settings page as outlined above(#edit-project-settings)
+2. In the lower half of the page you see a table if the various dashbaord pages
+
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_dashboard_pages.png" alt="dashboard pages" height="300"></img>
+</p>
+
+#### Add a New Page
+1. To create a new page, return to the project settings page. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_create_page.png" height="20" align="top" alt='create page'></img> button.
+2. You should now see a page similar to the one displayed below. 
+3. Enter the page name in the top field. 
+
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_dashboard_create_page.png" alt="create new page" height="300"></img>
+</p>
+
+4. The **Parent Id** field is only required if you intend to create a sub-page. From the drop-down select the page to which you would like to add a subpage. 
+5. The **Sort** index indicates the position of the new page. E.g. the first page of dashboard should have a sort index of **1**.
+6. Click the button to add the page to the dashboard. 
+7. If you return to the previous page, you will that your page was added to the list of pages. 
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='tip'></img>
+	<i>Note: you only create an empty page. To add elements to your page, see section [Add an Element to a Page](#add-an-elements-to-a-page).</i>
+</span>
+
+### Update a Dashboard Page
+To alter an existing page, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_pencil_black.png" height="20" align="top" alt='pencil '></img> icon next to the page's name. This will open the page's setting page. You are now able to change the title and the order of the page. See [above](#add-a-new-page) for further details. 
+
+#### Add an Element to a Page
+To add an 
+
+#### Remove an elements or pages from the dashboard
+
+
 
 
 
