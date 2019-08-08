@@ -639,7 +639,7 @@ For each project, a dedicated dashbaord is available to provide users an instand
 3. Enter the page name in the top field. 
 
 <p align="center">
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_dashboard_create_page.png" alt="create new page" height="300"></img>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_create_page.png" alt="create new page" height="300"></img>
 </p>
 
 4. The **Parent Id** field is only required if you intend to create a sub-page. From the drop-down select the page to which you would like to add a subpage. 
