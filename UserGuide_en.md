@@ -1,4 +1,5 @@
 # Overview
+
 This user manual aims to help user navigate the [HeRAMS](https://herams.org/login) platform.
 
 1. [Login & User Profile](#1-login--user-profile)
@@ -8,7 +9,7 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 	   - [Logout](#logout)
 	  - [User Profile](#user-profile)
 		- [Register (Create a User Account)](#register-create-a-user-account)
-		- [Update Profile](#update-profile)
+		- [Update your User Profile](#update-your-user-profile)
 		- [Add a Profile Picture](#add-a-profile-picture)
 		- [Change Password](#Change-password)
 2. [Explore Data](#2-explore-data)
@@ -42,13 +43,12 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 		- [Alter a User's Permisson to a Project](#alter-a-users-permission-to-a-workspace)
 		- [Edit Project Settings](#alter-project-settings)
 		- [Configure the Project Dashboard](#configure-the-project-dashboard)
-5. [FAQ](#)
+5. [FAQ](#faq)
 
-  
 #	 1. Login & User Profile
 
 ### Login
-Follow the steps below to access the HeRAMS platform. 
+To access the HeRAMS platfrom, follow the instruction below.
 1. Open the link https://herams.org in your browser. 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -56,9 +56,9 @@ Follow the steps below to access the HeRAMS platform.
 	<i> Tip: It is recommended to user either FireFox or Chrome. </i>
 </span>
 
-2. A pop-up window will appear prompting you to enter your username (email) and password. For new users, please follow the instruction [here](#create-user-account) to create your account. 
+2. A pop-up window will appear prompting you to enter your username (email) and password. For new users, please follow the instruction [here](#register-create-a-user'account) to create your account. 
 3. Enter you username (email) and password in the designated fields and click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_login.png" height="20" align="top" ></img> button. 
-3. Make sure to click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_submit_en.png" height="20" align="top" alt="Submit"></img> button to confirm your changes. 
+4. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_submit_en.png" height="20" align="top" alt="Submit"></img> to login. 
 
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_login.gif" alt="HeRAMS Login" height="300"/></img>
@@ -67,23 +67,27 @@ Follow the steps below to access the HeRAMS platform.
 #### New User
 
 New users without an existing account, will have to create an account before being able to log on to HeRAMS. 
-To create your user account, follow the instruction in section [Create user account](#create-user-account). 
+To create your user account in [HeRAMS](https://herams.org/login), follow the instruction in section [Register](#register-create-a-user'account). 
 
 #### Rest Password
 
-1. In case you need to reset your password,  open the link [https://herams.org](https://herams.org) in your browser.
+1.To reset your password, open the link [https://herams.org](https://herams.org) in your browser.
 2. On the sign in page, click the [Reset password](https://herams.org/user/forgot) link.
-3. Enter your email address in the top field. Type the characters you see in the picture into the lower field.
-4. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_submit_en.png" height="20" align="top" alt="Submit"></img> button.
-5. An email will be sent to your email containing a link that allows you to enter a new password. 
+3. Enter your email address in the top field.
+4. Now type the characters displayed in the image below the *Email* field into the lower field.
+5. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_submit_en.png" height="20" align="top" alt="Submit"></img> button.
+6. An automated email will be sent to your account containing a link that allows you to enter a new password. 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: Make sure to check your spam folder.</i>
+	<i> Tip: If you haven't received your email, make sure to check your spam folder.</i>
 </span>
 
-6. Enter your new password and click the submit button. Your password has now been changed. To login into HeRAMS, return to the sign in page. 
-<p align="center">
+7. Open the link and enter your new password.
+8. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_submit_en.png" height="20" align="top" alt="Submit"></img>  button to confirm your new passowrd. 
+9. To login into HeRAMS, return to the [sign in page](https://herams.org/user/login).
+
+<p align="center">https://googleads.g.doubleclick.net/aclk?sa=l&ai=CGTgb2RNMXeOQCM-CgQeI6IGwBKzw-rdXgtfFjoYJrgIQASCUm94YYPWNu4GYBKAByMnjhAPIAQKpApZlHif3M7E-4AIAqAMByAMIqgSWAk_QoL_7moeib5BiJ2nel15h_qyp35CHTDtSSsI_RcpHftnjeKX73L1OiH2BBxDV_n__l5tf0ffjjVx-rx8SWL3GIbX1irRgLiFLcfUamox-fpzTpRoClSFwzSCZV4huR_1ipbDRIweORz23GeiNh1btpgEL0sMUFMvHwKw1Wp4PlJax9C943usxs0dadyajXwmRjSR31g_-npxkvRQv6jpPmnEEohN8AMFOyrmL8mufAjLZDPhEN7Q_jD8qAvMmQNfV_k9jp_yStuZkDmMQzu-7tBFHH-1XvuLchVOzS3z-6XyTqIvwoP_1zcdliQGhgM6NypBhsliC0PZYVoHz_yOroqERtK_u2VcdzIpY38WePDXCX61G4AQBoAYCgAegtpx7qAeOzhuoB9XJG6gHwdMbqAeF1BuoB4HUG6gHgtQbqAeG1BuoB4TUG6gHk9gbqAfg0xuoB7oGqAfZyxuoB8_MG6gHpr4bqAfz0RuoB-zVG9gHAdIIBwiAYRABGA2xCR8y1iKTydV2gAoD2BMN&ae=1&num=1&sig=AOD64_3sbWMrLguonRXQKPUnZPCfb1AkBw&client=ca-pub-4755039800158255&nx=CLICK_X&ny=CLICK_Y&nb=2&adurl=https://www.carvolution.com/fr%3Futm_term%3D%26utm_medium%3Dadwords%26utm_source%3Dgoogle%26utm_campaign%3D04_GDN_Display%2BZielgruppen%26hsa_grp%3D75009217574%26hsa_mt%3D%26hsa_acc%3D5039806921%26hsa_ad%3D363093739114%26hsa_src%3Dd%26hsa_cam%3D2062055997%26hsa_kw%3D%26hsa_net%3Dadwords%26hsa_tgt%3D%26hsa_ver%3D3%26gclid%3DEAIaIQobChMIo-HvzqHz4wIVT0HgCh0IdABGEAEYASAAEgIUjvD_BwE
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_password_reset.gif" alt="password reset" height="300"/></img>
 </p>
 
@@ -96,27 +100,29 @@ To logout, click the  <img src="https://github.com/luna404/HeRAMS-UserManual/blo
 #### Register (Create a User Account)
 
 1. To regist as a new user, open the link [https://herams.org](https://herams.org) in your browser.
-2. Click on the [sign-up](https://herams.org/user/register) link.
-3. Enter your name, email and passowrd. 
+2. On the sign-in page, click on the [sign-up](https://herams.org/user/register) link.
+3. On the page that opens, enter your name, email and passowrd. 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> Note that your email acts as username.</i>
 </span>
-4. Submit your information by clicking the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_sign_up.png" height="20" align="top"></img> button. A confirmation email will be sent to the email address you use to register with. 
+
+4. Submit your information by clicking the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_sign_up.png" height="20" align="top"></img> button. 
+5. A confirmation email will be sent to the email address you use to register with. 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: Make sure to check your spam folder.</i>
+	<i> Tip: If you haven't received your email, make sure to check your spam folder.</i>
 </span>
 
-5. Confirm your registration by clicking on the link in your email shown below.
+6. Confirm your registration by clicking on the link in your email shown below.
 
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_create_account.gif" alt="HeRAMS Register" height="300"/></img>
 </p>
 
-#### Update Profile 
+#### Update you User Profile 
 
 To update your user profile or account details, click on your username on the top right corner of the screen.  
 This opens your user [profile](https://herams.org/user/settings/profile) and allows you to change your personal information such as your name, organization and contact details. 
