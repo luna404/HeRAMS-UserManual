@@ -205,34 +205,25 @@ Each project in HeRAMS has a custom dashabord that permits yours to gain detaile
 For example, the image below displays a sub-page of the Nigera dashboard. To return to the first page of the dashbaord, click on *Niveria* in the naviagation pane. 
 
 <p align="center">
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_navigation_pane.png" alt="HeRAMS Register" height="50"/></img>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_navigation_pane.png" alt="HeRAMS Register" height="40"/></img>
 </p>
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: If you hover over a point on the map or the chart, you will see a pop-up appearing displaying further information.</i>
-</span>
+#### Customizing the dashboard
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: To gain a better insight in the spatial distribution of health facilities, you can limit the type of structres disyplayed. Click on the circle in the legend. This will remove the slected type. To add it again, simply click the circle again. </i>
-</span>
+This section provides a few tips and tricks on how to cusomize the dashbaord by applying filters or limit the number of structures displayed on a map.
+
+ - ***Pop-ups***: If you hover over a point on the map or the chart, you will see a pop-up appearing displaying further information.
+ - ***Customize the maps***: To gain a better insight in the spatial distribution of health facilities, you can limit the type of structres disyplayed. Click on the circle in the legend. This will remove the slected type. To add it again, simply click the circle again.
+ - ***Apply filters ***: 
+   1. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_filter.png" height="20" align="top" alt='filter'></img>  button in the top right corner of the dashboard.
+   2. You should now see the filter configuration page. Use the drop-down list to select your filter criteria. 
+   3. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_apply_filter.png" height="20" align="top" alt='apply'></img> buton to activate your filter.
+
 
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_dashboard_navigation.gif" alt="dashboard navigation" height="300"/></img>
 </p>
 
-#### Apply Filters
-
-To gain further insights into the data you can apply custom filters to the data displayed in the dashboard.
-1. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_filter.png" height="20" align="top" alt='filter'></img>  button in the top right corner of the dashboard.
-2. You should now see the filter configuration page. Use the drop-down list to select your filter criteria. 
-3. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_apply_filter.png" height="20" align="top" alt='apply'></img> buton to activate your filter.
-
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: You can combine multiple filter as well as selecting multiple items form a drop-down list.</i>
-</span>
 
 #### Default dashboard pages
 
