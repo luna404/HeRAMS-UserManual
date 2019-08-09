@@ -22,11 +22,11 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 		- [Télécharger l'ensemble complet des données](#télécharger-lensemble-complet-des-données)
 		- [L'encodage de données en Excel](#lencodage-de-données-en-excel)
 3. [Modifier les données](#edit-data)
-	- [Accessing the Data Edit Interface](#accessing-the-data-edit-interface)
-	- [Editing a Record](#editing-a-record)
-	- [Updating a Record](#Updating-a-record)
-	- [Creating a New Record](#creating-a-new-record)
-	- [Deleting a Record](#deleting-a-record)
+	- [Accéder l’interface de mise à jour de données](#accéder-linterface-de-mise-a-jour-de-données)
+	- [Modifier un enregistrement](#modifier-un-enregistrement)
+	- [Mise à jour d'un enregistrement](#mise-à-jour-dun-enregistrement)
+	- [Enregistrer une nouvelle Structure de Santé](#enregistrer-une-nouvelle-structure-de-santé)
+	- [Supprimer un enregistrement](#supprimer-un-enregistrement)
 4. [HeRAMS Administration](#4-herams-administration)
 	- [Workspaces](#workspaces)
 		- [Workspace Permissions](#workspace-permissions)
@@ -322,21 +322,155 @@ La page sure la gestion et le soutien affichent des informations concernant la g
 	-Des graphiques en anneau résumant la distribution des catégories de gestion (p.ex. le nombre de FOSA privée, public, géré par des ONG, etc.).
 - Soutien externe :
 	- Un graphique en anneau affichant le niveau de soutien fourni par des partenaires.  
+
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_management_support.png" alt="Management & Support" height="300"></img>
+</p>
+</details>
+
+<details>
+	<summary><b><i>Page 7:</b> Aménagement structurels</i>
+	</summary>
+
+Cette page présente des informations sur les aménagements structurels, y compris 
+- Des graphiques en anneau affichant les sources principales d'eau et d'énergie
+- Des graphiques en anneau affichant le pourcentage de FOSA avec suffisamment de l’eau. 
 	
-2. [Afficher les données](#2-afficher-les-donnes)
-	 - [Worldview (vue globale)](#worldview)
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_basic_amenities.png" alt="Basic Amenitites" height="300"></img>
+</p>
+</details>
+
+<details>
+	<summary><b><i>Page 8:</b> Disponibilité des services</i>
+	</summary>
+
+Des informations sur la disponibilité des services sont composées de plusieurs pages. Pour chaque type de service une page individuelle montre
+- Une carte affichant la distribution des FOSA fournissant les services de santé
+- Des graphiques en anneau résumant 
+	- Le niveau de la disponibilité des services
+	- Les raisons principales en cas d'indisponibilité des services
+- Un tableau avec une liste des domaines prioritaires par indisponibilité du service et les raisons principales. 
 	
-	 - [Le tableau de bord](#le-tableau-de-bord)
-		- [Filtrer les données](#filtrer-les-données)
-		- [Les pages standard du tableau de bord](#les-pages-standard-du-tableau-de-bord)
-	 - [Télécharger des données](#télécharger-des-données)
-		- [Télécharger l'ensemble complet des données](#télécharger-lensemble-complet-des-données)
-		- [L'encodage de données en Excel](#lencodage-de-données-en-excel)
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_service_availability.png" alt="Service Availability" height="300"></img>
+</p>
+</details>	
+	
+### Télécharger des données
+
+Pour des analyses plus approfondies, vous pouvez télécharger les données d'un espace de travail en format CSV. 
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
+	<i>Note: Pour télécharger des données, devez avoir accès à l’espace de travail correspondant. Si nécessaire, veuillez contacter votre administrateur système pour modifier vos droits d'accès.</i>
+</p>
+
+1. Veuillez ouvrir la page des espaces de travail de votre projet. Pour un guide expliquant étape par étape comment àcceder les espace de travail, veuillez consulter les étapes 1 à 4 dans la section [Accéder l’interface de mise à jour de données](#accéder-linterface-de-mise-a-jour-de-données).
+2. Dans la colonne de droite, veuillez cliquer le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_download.png" height="20" align="top" alt='New record'></img>. Cela téléchargera tous les enregistrements de cet espace de travail. 
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<i> Conseil: Pour les enquêtes dans des langues autres que l'anglais, veuillez vous assurer que l'encodage est défini correctement (voir [L'encodage de données en Excel](#lencodage-de-données-en-excel) pour les détails). </i>
+</span>
+
+#### Downloading the entire dataset
+
+à paraître bientôt
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<i> Note: Users are adviced to downlaod data for individual workspace as outlined above. The ability to download the entire data set is restricted to few users. Contact your system administrator for further information.</i>
+</span>
+
+#### Data Encoding in Excel
+
+Quand vous ouvrez les données en Excel, il est important de vous assurer que le encodage des données est défini correctement. 
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<i> Conseil: Un indice d'un encodage mauvais c'est quand vous voyez the caractères comme *Ã©*. Par example, au lieu de *camp de réfugiés* c'est écrit *Camp de rÃ©fugiÃ©s*.</i>
+</span>
 
 
+1. Veuillez ouvrir un nouveau fichier Excel. 
+2. Dans la boîte de dialogue **importer des données** , recherchez et double-cliquez sur le fichier texte que vous voulez importer, puis cliquez sur **Importer**.
+3. Une fenêtre contextuelle devraît apparaître. Dans le coin supérieur gauche, veuillez changer l'encodage vers **UTF-8**.
+4. Cliquez sur le bouton de chargement dans le coin droit pour importer vos données. Puis cliquez sur **Importer**.
+
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_excel_encoding.gif" alt="data update interface" height="300"></img>
+</p>
+	
+# 3. Modifier les données
+La section qui suit contient des détails sur la manière d'accéder à l'interface d'édition de données, de créer, d'éditer et de supprimer des structure de santé.
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
+	<i> Veuillez noter que l'accès à l'interface de modification de données est limité aux gestionnaires de données chargés de mettre à jour les données. 
+	Si le mise à jour des données fait partie de votre rôle, veuillez contactez votre administrateur système afin que vos droits d'accès soient élevés.</i>
+</p>
+
+### Accéder l’interface de mise à jour de données
+Veuillez suivre les étapes ci-dessous pour accéder l'interface de mise à jour des données. 
+
+1. Veuillez cliquer sur le bouton des paramètres situé dans la partie supérieure droite de la fenêtre. Cela ouvrira l’interface d'administration. 
+2. Dans le menu de navigation situé à la gauche de l'écran, cliquez sur [Projects](#https://herams.org/project/index).
+3. Vous devriez maintenant voir un tableau de tous les projets disponibles dans HeRAMS. Pour chaque projet, le tableau montre le nombre des espaces de travail, le nombre des structures de santé et le nombre des contributeurs.
+4. Dans la dernière colonne, veuillez cliquer sur l'icône <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_workspace.png" height="20" align="top" alt='workspace'></img>. Cela ouvrira la liste de tous les espace de travail.
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
+	<i> Note:  Le system d’espace de travail utilisé en HeRAMS pour gérer les droits d’accès et permet d’adapter les droits d’accès à des fonctions distinctes. Pour plus d'informations sur l'espace de travail, veuillez cliquer [ici] (# espace-de-travail). </i>
+	</span>
+
+5. Pour afficher les structures de santé faisant partie d'un espace de travail, veuillez cliquer sur l'icône <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_update_data.png" height="20" align="top" alt='Edit data'></img> dans la colonne **Action**. 
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<i> Conseil: Veuillez noter qu'un espace de travail pouvait contenir plusieurs pages. Veuillez utiliser les bouton  **>>** pour passer à la page suivante. Vous pouvez également filtrer les espaces de travail en tapant le nom dans le champ au dessous de la ligne d'en-tête</i>
+</span>
+
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_workspace_filter.png" alt="HeRAMS Worldview" height="300"></img>
+</p>
+
+6. Vous devriez maintenant voir un tableau qui contiennet tous les FOSA de cet espace de travail.  
+
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_data_update_interface.gif" alt="data update interface" height="300"></img>
+</p>
+
+### Modifier une structure de santé
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
+	<i>Veuillez noter que modifier un enregistrement effacera les information existantes. Si vous souhaitez mettre à jour une FOSA en conservant les informations existantes, veuillez suivre les instruction dans la partie [suivante](#mise-à-jour-dune-structure-de-santé)</i>
+	
+</span>
+
+1. To update a record click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_pencil_blue.png" height="20" align="top" alt='pencil'></img>  icon in the left most column. 
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<i> Tip: Be aware that a table might have multiple pages. Use the button in the button left corner to go to the next page. You can also reduce the number of records displayed by applying filters.</i>
+</span>
+
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_data_update_interface.png" alt="HeRAMS Worldview" height="300"></img>
+</p>
 
 
+### Mise à jour d'une structure de santé 
 
+### Enregistrer une nouvelle structure de santé
+### Supprimer une structure de santé
+3. [Modifier les données](#edit-data)
+	- [Accéder l’interface de mise à jour de données](#accéder-linterface-de-mise-a-jour-de-données)
+	- [Modifier un enregistrement](#modifier-un-enregistrement)
+	- [Mise à jour d'un enregistrement](#mise-à-jour-dun-enregistrement)
+	- [Enregistrer une nouvelle Structure de Santé](#enregistrer-une-nouvelle-structure-de-santé)
+	- [Supprimer un enregistrement](#supprimer-un-enregistrement)
 
 
 

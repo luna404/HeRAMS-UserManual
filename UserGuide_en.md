@@ -18,15 +18,15 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 	 - [Dashboard](#dashboard)
 		- [Apply filters](#apply-filters)
 		- [Default Dashboard Pages](#default-dashboard-pages)
-	 - [Downloading data](#downloading-data)
-		- [Downloading the entire data set](#downloading-the-entire-dataset)
+	 - [Download data](#download-data)
+		- [Download the entire data set](#download-the-entire-dataset)
 		- [Data Encoding in Excel](#data-encoding-in-excel)
 3. [Edit Data](#edit-data)
-	- [Accessing the Data Edit Interface](#accessing-the-data-edit-interface)
-	- [Editing a Record](#editing-a-record)
-	- [Updating a Record](#Updating-a-record)
-	- [Creating a New Record](#creating-a-new-record)
-	- [Deleting a Record](#deleting-a-record)
+	- [Access the Data Edit Interface](#access-the-data-edit-interface)
+	- [Edit a Health Facility](#edite-a-health-facility)
+	- [Update a Health Facility](#update-a-health-facility)
+	- [Register a new Health Facility](#register-a-new-health-facility)
+	- [Delete a Health Facility](#delete-a-health-facility)
 4. [HeRAMS Administration](#4-herams-administration)
 	- [Workspaces](#workspaces)
 		- [Workspace Permissions](#workspace-permissions)
@@ -178,7 +178,7 @@ In addition, a brief summary on the number of projects availble in HeRAMS, the t
 
 1. To learn more about a proje.ct, either click on the blue dot on the world map or select the project from the navigation pane on the left. 
 2. You should now see a pop-up window displaying an overview of the selected project. In the upper part of the pop-up you see the project name, the number of health facilities assessed and the number of contributors.
-In the lower part of the pop-up window you cann see a brief summary on the distribution of health facility types, their funcationality and service availability.
+In the lower part of the pop-up window you cann see a brief summary on the distribution of Health Facility types, their funcationality and service availability.
 3. For further details, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_details.png" height="20" align="top" alt="details"></img> button. This will open the project specific dashboard.
 
 <p align="center">
@@ -335,6 +335,7 @@ The management & support page displays information on the management of the MoSD
 The Basic Amenities page presents a series of donut charts displaying information of core areas such as:
 - The principle source of water and power 
 - Ther percentage of MoDS with sufficient water and power supplies
+
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_basic_amenities.png" alt="Basic Amenitites" height="300"></img>
 </p>
@@ -342,7 +343,7 @@ The Basic Amenities page presents a series of donut charts displaying informatio
 
 <details>
 	<summary><b><i>Page 8:</b> Service Availability</i>
-	</summary>.
+	</summary>
 	
 The Service Availability page displays multiple pages per type of service. Each page displays:
 -	A map to spot the distribution of the MoSDs providing the selected health service 
@@ -350,27 +351,30 @@ The Service Availability page displays multiple pages per type of service. Each 
 	-	The level of service availability 
 	-	The underlying causes of unavailability of the service 
 -	A table displays the list of priority areas per service unavailability and the main reported underlying cause
+
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_service_availability.png" alt="Service Availability" height="300"></img>
 </p>
 </details>
 
-### Downloading data
+### Download data
 
-For more in-depth analysis, data of individual workspaces can be donwloaded as csv files. 
+For more in-depth analysis, data of individual workspaces can be donwloaded as CSV files. 
+
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> Note: In order to download data, you will require access to the corresponding workspace. Contact your system administrator to change your access rights if needed.</i>
 </p>
-1. Navigate to the workspace page of your project(see [Accessing the data edit interface](#Accessing the data edit interface) steps 1-4 for detailed instructions).
+
+1. Go to the workspace page of your project(see [Access the Data Edit Interface](#Access the Data Edit Interface) steps 1-4 for detailed instructions).
 2. In the rightmost column, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_download.png" height="20" align="top" alt='New record'></img> button. This will download all records (MoDS) of this workspace.
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: For surveys containing characters (e.g. ب,é,ä) make sure you to define the encoding correctly when opening the data in Excel (see below for details).</i>
+	<i> Tip: For surveys that not in English make sure correctly define the encoding when opening the data in Excel (see [Data Encoding in Excel](#data-encoding-in-excel) for details).</i>
 </span>
 
-#### Downloading the entire dataset
+#### Download the entire dataset
 
 Coming soon
 
@@ -379,51 +383,65 @@ Coming soon
 	<i> Note: Users are adviced to downlaod data for individual workspace as outlined above. The ability to download the entire data set is restricted to few users. Contact your system administrator for further information.</i>
 </span>
 
-
 #### Data Encoding in Excel
 
-If you open your data in Excel, you might have to manually set set the encoding to UTF-8 for special characters (e.g. ب,é,ä)  to be read correctly. 
+When you open your data in Excel, it is important to select the correct encoding. 
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<i> Tip: An indication of the wrong encoding is if your data contains weir character such as *Ã©*. For examples instead of *camp de réfugiés* you get *Camp de rÃ©fugiÃ©s*.</i>
+</span>
+
+
 1. Open a new Excel file.
-2. From the ribbon, select the data tab and click **Import from CSV***. 
-3. In the pop-up window that opens change the encoding type to **UTF-8**. 
-4. Click the load button on the butom right corner to import your data.
+2. On the Data tab, in the **Get & Transform Data** group, click **From Text/CSV**.
+3. In the **Import Data** dialog box, locate and double-click the text file that you want to import, and click **Import**.
+4. In the top left corner of the pop-up window that opens, change the encoding type to **UTF-8**, and click Import.
+
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_excel_encoding.gif" alt="data update interface" height="300"></img>
 </p>
 
 # 3. Edit Data
-The following section provides an step-by-step guide on how to access the data edit interface, create, edit and delete records.
+
+The following section provides an step-by-step guide on how to access the data edit interface, create, edit and delete health facilities.
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
-	<i> Please not that access to the administrator pages of HeRAMS is restricted to specific users. Should your role require you to contusct any of the functions described in this sections, contact your system administrator in order for your premissions to be adjusted accordingly.</i>
+	<i> Please not that access to the data edit interface is limited to data data managers responsible to update the data.  
+	Should your role require you to contact any of the functions described in this sections, contact your system administrator in order for your permissions to be adjusted accordingly.</i>
 </p>
 
-### Accessing the Data Edit Interface
-The below steps guide through though the admin interface to acc
+### Access the Data Edit Interface
+The below steps guide through though the admin interface to access the data editing interface. 
 
 1. Open the admin interface, by clicking the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_settings.png" height="20" align="top" alt='settings'></img> button on the top right corner next to your name. 
 2. From the navigation pane on the left, select [Projects](#https://herams.org/project/index)
-3. You should now see a table of all available projects. For each project, the table displays the number workspaces, contributors, and health facilities. In the rightmost column, click the workspace <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_workspace.png" height="20" align="top" alt='workspace'></img> icon. This will open the list of available workspace.
+3. You should now see a table of all available projects. For each project, the table displays the number workspaces, contributors, and health facilities. 
+4. In the rightmost column, click the workspace <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_workspace.png" height="20" align="top" alt='workspace'></img> icon. This will open the list of available workspace.
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
-	<i> Note: HeRAMS uses a system of workspaces that allow to control access to the data at granualr levels. A workspace might for example constitute a specific organization or a geographic region. For more information on workspace click [here](#workspace).</i>
+	<i> Note:Workspace are used in HeRAMS to manage access permission to data. A workspace might for example constitute a specific organization or a geographic region. This system allows to tailor access rights for individual purposes. For more information on workspace click [here](#workspace).</i>
 </span>
-4. To open a workspace, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_pencil_black.png" height="20" align="top" alt='Edit data'></img>  icon in the action colon. 
+
+5. To view the health facilities that are part of a specific workspace, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_update_data.png" height="20" align="top" alt='Edit data'></img> icon in the *Action* column. 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: Be aware that a workspace might have multiple pages. Use the >> to move to the next page or filter the workspaces by typing the name in the field below the workspace title.</i>
+	<i> Tip: Be aware that a workspace might have multiple pages. Use the **>>** to move to the next page or filter the workspaces by typing the workspace name in the field below the header row.</i>
 </span>
+
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_workspace_filter.png" alt="HeRAMS Worldview" height="300"></img>
 </p>
-5. You should now see a table with all the health facilities of the selected workspace. 
+
+6. You should now see a table with all the health facilities of the selected workspace. 
+
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_data_update_interface.gif" alt="data update interface" height="300"></img>
 </p>
 
-### Editing a Record
+### Edit a Health Facility
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
@@ -445,7 +463,7 @@ The below steps guide through though the admin interface to acc
 3. To save your changes, navigate to the last page **Validate** and click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_submit_en.png" height="20" align="top" alt='send'></img>.
 4. If you would like to discard your edits, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_clear.png" height="20" align="top" alt='exit'></img>  button. 
 
-### Updating a Record
+### Update a Health Facility
 
 If HeRAMS is used as a monitoring tool, you can update the record without loosing the records history. 
 
@@ -454,19 +472,19 @@ If HeRAMS is used as a monitoring tool, you can update the record without loosin
 	<i> Please note that the ability to update records is not enabled in all projects. Contact your system administrator for further information.</i>
 </span>
 
-1. To update the status of a health facility, use the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_update_blue.png" height="20" align="top" alt='update'></img>  button to open the record.
+1. To update the status of a Health Facility, use the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_update_blue.png" height="20" align="top" alt='update'></img>  button to open the record.
 2. Use the two button on the buttom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specfic section of the questionnaire.
 3. To save your changes, navigate to the last page **Validate** and click  <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_submit_en.png" height="20" align="top" alt='submit'></img>.
 4. If you would like to discard your edits, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_clear.png" height="20" align="top" alt='exit'></img>  button 
 
-### Creating a New Record
+### Register a new Health Facility
 
 1. To create a new record, click the button  <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_new_record_en.png" height="20" align="top" alt='new record'></img>.  
 2. Use the two button on the buttom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specfic section of the questionnaire.
 3. To save your changes, navigate to the last page **Validate** and click  <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_send_en.png" height="20" align="top" alt='Edit data'></img>.
 4. If you would like to discard your edits, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_new_record_en.png" height="20" align="top" alt='exit'></img>  button 
 
-### Deleting a record
+### Delete a Health Facility
 
 1. To delete a record, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_delete_blue.png" height="20" align="top" alt='delete'></img> in the actions column. 
 
@@ -507,7 +525,7 @@ There are two permission levels that a user can be granted to a workspace. Users
 2. Full access, includes editing the workspace properties, token and response data
 
 #### Add a User to a Workspace
-1. To grant a user access to a specific workspace, open the admin interfacce by clicking the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_settings.png" height="20" align="top" alt='settings'></img> button in the top right corner of the screen.
+1. To grant a user access to a specific workspace, open the admin interface by clicking the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_settings.png" height="20" align="top" alt='settings'></img> button in the top right corner of the screen.
 2. In the navigation pane on the left, click [Projects](https://herams.org/project/index) to open the project overview page.
 2. In the rightmost column of the table, you should see several action buttons. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_workspace.png" height="20" align="top" alt='worksapce'></img>  icon. This will open the workspace of the selected project.  
 3. You should now see a table with all workspaces. For each worksapce the table provides information on the last time data was synced with the underlying database, the number of contributors, health facilities and responses. Alike the project table, the las column contains several action button. 
@@ -601,7 +619,7 @@ Tere are three permission levels that a user can be granted to a project.
 3. Allow everything
 
 #### Add a User to a Project
-1. To grant a user access to a specific project, open the admin interfacce by clicking the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_settings.png" height="20" align="top" alt='settings'></img> button in the top right corner of the screen.
+1. To grant a user access to a specific project, open the admin interface by clicking the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_settings.png" height="20" align="top" alt='settings'></img> button in the top right corner of the screen.
 2. In the navigation pane on the left, click [Projects](https://herams.org/project/index) to open a page displaying all availble projects.
 2. In the rightmost column of the table, you should see several action buttons. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_share.png" height="20" align="top" alt='share'></img> icon. 
 3. You should now see something similar to the image below. On the buttom half of the screen you can see a list of all users currently having access to this workspace and their permission level. 
@@ -633,7 +651,7 @@ Tere are three permission levels that a user can be granted to a project.
 2. Now add the user again using the new permission level envisioned (see section [Add a User to a Project](#add-a-user-to-a-project) for details).
 
 #### Edit Project Settings
-1. To update the general settings of a project, open the admin interfacce by clicking the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_settings.png" height="20" align="top" alt='settings'></img> button in the top right corner of the screen.
+1. To update the general settings of a project, open the admin interface by clicking the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_settings.png" height="20" align="top" alt='settings'></img> button in the top right corner of the screen.
 2. In the navigation pane on the left, click [Projects](https://herams.org/project/index) to open the project overview page.
 3. To open the project settings, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_edit.png" height="20" align="top" alt='bin'></img> icon in the last column of your project.
 4. You should now see a page similar to the one displayed below, which permits you to 
