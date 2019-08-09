@@ -449,37 +449,53 @@ Veuillez suivre les étapes ci-dessous pour accéder l'interface de mise à jour
 	
 </span>
 
-1. To update a record click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_pencil_blue.png" height="20" align="top" alt='pencil'></img>  icon in the left most column. 
+1. Pour modifier une FOSA veuillez cliquer sur l'icône <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_pencil_blue.png" height="20" align="top" alt='pencil'></img> dans le permière colonne.  
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: Be aware that a table might have multiple pages. Use the button in the button left corner to go to the next page. You can also reduce the number of records displayed by applying filters.</i>
+	<i> Conseil: Veuillez noter que le tableau pouvait contenir plusieurs pages.Veuillez utiliser les bouton  **>>** pour passer à la page suivante ou limiter le nombre d'enregistrements affichés en  utilisant des filtres.</i> 
 </span>
 
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_data_update_interface.png" alt="HeRAMS Worldview" height="300"></img>
 </p>
 
+2. Pour passer à la page suivante ou revenir à une page précédente, veuillez utiliser les boutons <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_new_record_fr.png" height="20" align="top" alt='next'></img>  situés dans le coin en bas à droite. Vous pouvez également utiliser le panneau de navigation située à gauche.
+3. Assurez-vous que vous avez validé et enregistré vos changements avant de sortir. Veuillez avancer jusqu’à la dernière page **Valider**  et cliquez sur le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_submit_fr.png" height="20" align="top" alt='send'></img>. 
+4. Si vous souhaitez annuler vos modifications, veuillez cliquer sur le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_exit_fr.png" height="20" align="top" alt='exit'></img>.
 
-### Mise à jour d'une structure de santé 
+### Mise à jour d'une FOSA
 
-### Enregistrer une nouvelle structure de santé
+Si vous souhaitez mettre à jour une FOSA en conservant les informations existantes, veuillez suivre les instruction ci-dessous.
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
+	<i> Veuillez noter que l'option de mettre les à jour les doonées en conservant les information existantes n'est pas activée dans touls les enquêtes. Pour obtenir plus d'informations veuillez contacter votre administrateur système.</i> 
+</span>
+
+1. Pour actualiser le statut d'une FOSA, veuillez cliquer sur le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_update_blue.png" height="20" align="top" alt='update'></img>.
+2. Pour passer à la page suivante ou revenir à une page précédente, veuillez utiliser les boutons <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_new_record_fr.png" height="20" align="top" alt='next'></img>  situés dans le coin en bas à droite. Vous pouvez également utiliser le panneau de navigation située à gauche.
+3. Assurez-vous que vous avez validé et enregistré vos changements avant de sortir. Veuillez avancer jusqu’à la dernière page **Valider**  et cliquez sur le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_submit_fr.png" height="20" align="top" alt='send'></img>. 
+4. Si vous souhaitez annuler vos modifications, veuillez cliquer sur le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_exit_fr.png" height="20" align="top" alt='exit'></img>.
+
+### Enregistrer une nouvelle FOSA
+
+1. Pour enregistrer une nouvelle FOSA, veuillez cliquer sur le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_new_record_fr.png" height="20" align="top" alt='new record'></img>.  
+2. Pour passer à la page suivante ou revenir à une page précédente, veuillez utiliser les boutons <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_new_record_fr.png" height="20" align="top" alt='next'></img>  situés dans le coin en bas à droite. Vous pouvez également utiliser le panneau de navigation située à gauche.
+3. Assurez-vous que vous avez validé et enregistré vos changements avant de sortir. Veuillez avancer jusqu’à la dernière page **Valider**  et cliquez sur le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_submit_fr.png" height="20" align="top" alt='send'></img>. 
+4. Si vous souhaitez annuler vos modifications, veuillez cliquer sur le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_exit_fr.png" height="20" align="top" alt='exit'></img>.
+If you would like to discard your edits, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_new_record_en.png" height="20" align="top" alt='exit'></img>  button 
+
 ### Supprimer une structure de santé
-3. [Modifier les données](#edit-data)
-	- [Accéder l’interface de mise à jour de données](#accéder-linterface-de-mise-a-jour-de-données)
-	- [Modifier un enregistrement](#modifier-un-enregistrement)
-	- [Mise à jour d'un enregistrement](#mise-à-jour-dun-enregistrement)
-	- [Enregistrer une nouvelle Structure de Santé](#enregistrer-une-nouvelle-structure-de-santé)
-	- [Supprimer un enregistrement](#supprimer-un-enregistrement)
 
+1. Pour supprimer une FOSA, veuillez cliquer sur le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_delete_blue.png" height="20" align="top" alt='delete'></img>.
 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_warning.png" height="20" align="top" alt='warning'></img>
+	<i> Note: La suppression d'enregistrements ne peut pas être annulée. Soyez prudent lorsque vous supprimez un enregistrement.</i>
+</span>
 
-
-
-
-
-
-
+# 4. HeRAMS Administration
 
 
 

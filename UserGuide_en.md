@@ -448,7 +448,7 @@ The below steps guide through though the admin interface to access the data edit
 	<i> Please note that editing a record will override the existing record. If you would like to update the status of a MoDS while keeping a record of the changes might, follow the instructions in the section below.</i>
 </span>
 
-1. To update a record click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_pencil_blue.png" height="20" align="top" alt='pencil'></img>  icon in the left most column. 
+1. To edit a record click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_pencil_blue.png" height="20" align="top" alt='pencil'></img>  icon in the left most column. 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
@@ -459,13 +459,13 @@ The below steps guide through though the admin interface to access the data edit
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_data_update_interface.png" alt="HeRAMS Worldview" height="300"></img>
 </p>
 
-2. Use the two button on the buttom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specfic section of the questionnaire.
+2. Use the two buttons on the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_new_record_en.png" height="20" align="top" alt='next'></img> buttons on the lower right to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specfic section of the questionnaire.
 3. To save your changes, navigate to the last page **Validate** and click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_submit_en.png" height="20" align="top" alt='send'></img>.
 4. If you would like to discard your edits, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_clear.png" height="20" align="top" alt='exit'></img>  button. 
 
 ### Update a Health Facility
 
-If HeRAMS is used as a monitoring tool, you can update the record without loosing the records history. 
+If HeRAMS is used as a monitoring tool, you can update the record without losing the records history. 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
@@ -486,7 +486,7 @@ If HeRAMS is used as a monitoring tool, you can update the record without loosin
 
 ### Delete a Health Facility
 
-1. To delete a record, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_delete_blue.png" height="20" align="top" alt='delete'></img> in the actions column. 
+1. To delete a record, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_delete_blue.png" height="20" align="top" alt='delete'></img>. 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_warning.png" height="20" align="top" alt='warning'></img>
