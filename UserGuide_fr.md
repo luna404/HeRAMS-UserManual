@@ -208,18 +208,43 @@ Par exemple, l'image ci-dessous affiche une sous-page du tableau de bord de Nige
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_navigation_pane.png" alt="HeRAMS Register" height="300"/></img>
 </p>
 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<i> Conseil: Lorsque vous passez la souris sur un point sur la carte ou le graphique, une fenêtre contextuelle apparaît, affichant des informations supplémentaires.
+ </i>
+</span>
 
-Si vous survolez un point de la carte ou du graphique, une fenêtre contextuelle apparaît pour afficher des informations supplémentaires.
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<i> Conseil: Pour mieux comprendre la répartition spatiale des FOSAs, vous pouvez limiter le type de structures affichées en cliquant sur le cercle à côté du nom du type de structure. Cela supprimera tous les FOSAs de ce type.</i>
+</span>
 
-Pour avoir une meilleure idée de la répartition spatiale des formations sanitaires, vous pouvez limiter le type de structures affichées. Cliquez sur le cercle dans la légende. Cela supprimera le type sélectionné. Pour l'ajouter à nouveau, cliquez simplement à nouveau sur le cercle.
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_dashboard_navigation.gif" alt="dashboard navigation" height="300"/></img>
+</p>
+#### Filtrer les données
+
+Découvrez plus de détails en appliquant des filtres personnalisés. 
+1. Veuillez clicquer sur le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_filter.png" height="20" align="top" alt='filter'></img> dans le coin supérieur droit du tableau de bord.
+2. Vous devrez maintenant voir la fenêtre de configuration de filtre. Veuillez sélectionner vos critères de filtre et cliquer sur le bouton dans le coin en haut à droite pour appliquer votre filtre.
+3. Veuillez cliquer le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_apply_filter.png" height="20" align="top" alt='apply'></img>  pour appliquer vos filtres.
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<i> Conseil: Veuillez noter que le système vous permet d’appliquer plusieurs filtres en même temps.</i>
+</span>
 
 
-Vous pouvez ouvrir le tableau de bord en cliquant sur le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_details.png" height="20" align="top" alt="details"></img> ((voir [ci-dessus pour les détails).
-2.
-3.
 
 
+Vous devriez maintenant voir You should now see the filter configuration page. Use the drop-down list to select your filter criteria. 
+3. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_apply_filter.png" height="20" align="top" alt='apply'></img> buton to activate your filter.
 
+
+Pour Découvrez des informations supplémentaires sur les données, vous pouvez appliquer des filtres personnalisés aux données affichées dans le tableau de bord
+Pour approfondir l'exploration des données, 
+
+ous pouvez filtrer les données
 
 
 2. [Afficher les données](#2-afficher-les-donnes)

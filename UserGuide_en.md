@@ -210,19 +210,21 @@ For example, the image below displays a sub-page of the Nigera dashboard. To ret
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: If you hover over a point on the map or the chart, you will see a pop-up appearing displaying further information.
-</i>
+	<i> Tip: If you hover over a point on the map or the chart, you will see a pop-up appearing displaying further information.</i>
 </span>
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: To gain a better insight in the spatial distribution of health facilities, you can limit the type of structres disyplayed. Click on the circle in the legend. This will remove the slected type. To add it again, simply click the circle again. 
-</i>
+	<i> Tip: To gain a better insight in the spatial distribution of health facilities, you can limit the type of structres disyplayed. Click on the circle in the legend. This will remove the slected type. To add it again, simply click the circle again. </i>
 </span>
+
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_dashboard_navigation.gif" alt="dashboard navigation" height="300"/></img>
+</p>
 
 #### Apply Filters
 
-To further drill down into the data, you can apply custom filters.
+To gain further insights into the data you can apply custom filters to the data displayed in the dashboard.
 1. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_filter.png" height="20" align="top" alt='filter'></img>  button in the top right corner of the dashboard.
 2. You should now see the filter configuration page. Use the drop-down list to select your filter criteria. 
 3. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_apply_filter.png" height="20" align="top" alt='apply'></img> buton to activate your filter.
