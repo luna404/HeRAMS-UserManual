@@ -210,20 +210,18 @@ For example, the image below displays a sub-page of the Nigera dashboard. To ret
 
 #### Customizing the dashboard
 
-This section provides a few tips and tricks on how to cusomize the dashbaord by applying filters or limit the number of structures displayed on a map.
+This section provides a few tips and tricks on how to customize the dashboard (e.g. by applying filters or limit the number of structures displayed on a map).
 
  - ***Pop-ups***: If you hover over a point on the map or the chart, you will see a pop-up appearing displaying further information.
  - ***Customize the maps***: To gain a better insight in the spatial distribution of health facilities, you can limit the type of structres disyplayed. Click on the circle in the legend. This will remove the slected type. To add it again, simply click the circle again.
- - ***Apply filters ***: 
+ - ***Apply filters***: Further explore the data by applying custom filters.
    1. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_filter.png" height="20" align="top" alt='filter'></img>  button in the top right corner of the dashboard.
    2. You should now see the filter configuration page. Use the drop-down list to select your filter criteria. 
    3. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_apply_filter.png" height="20" align="top" alt='apply'></img> buton to activate your filter.
 
-
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_dashboard_navigation.gif" alt="dashboard navigation" height="300"/></img>
 </p>
-
 
 #### Default dashboard pages
 
@@ -232,7 +230,7 @@ Each page refers to a HeRAMS standard information pillar. However, adapdation mi
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
-	<i> Note: All registered users for a certain project can access its dashboards.</i>
+	<i> Please note that the order and the content of dashbaords is customized based on the needs for individual projects. Your dashbaord might therefore by substantially different from the example pages displayed below. </i>
 </span>
 
 <details>
@@ -240,9 +238,9 @@ Each page refers to a HeRAMS standard information pillar. However, adapdation mi
 	</summary>
 
 The overview page provides a summary, in form of: 
--  A map to spot the distribution and number of MoSDs (i.e., health facilities) by level of care (e.g. 
+-  A map to spot the distribution and number of health facilities by level of care (e.g. 
 	- secondary and tertiary care: hospitals
-	- primary health Care: health centres, clinics and health posts, camp and mobile clinic
+	- primary health Care: health centres, clinics and health posts, camp and mobile clinic)
 -  Donut charts to summarize different indicators, such as level of damage, functionality status, accessibility and service availability in the assessed MoSDs, which is country specific
 
 <p align="center">
@@ -255,7 +253,7 @@ The overview page provides a summary, in form of:
 	</summary>
 
 The Infrastructure page, displays a descriptive analysis, including:
--  A map to spot the distribution and number of MoSDs (i.e., health facilities) by type
+-  A map to spot the distribution and number of health facilities by type
 -  Donut charts to illustrate 
 	- MoSDs per type
 	- The modality of the building structure (permanent vs. temporary)
@@ -282,7 +280,6 @@ The condition page displays the level of reported damage to MoDS buildings follo
 </p>
 </details>
 
-
 <details>
 	<summary><b><i>Page 4:</b> Functionality</i>
 	</summary>
@@ -293,6 +290,7 @@ The functionality page displays the level of functionality status of the MoSDs f
 	- The level of functionality 
 	- Main causes of non-functinality
 -	A table displays the list of priority areas in terms of non-functional health facilities and reported causes. 
+
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_functionality.png" alt="Functionality" height="300"></img>
 </p>
@@ -308,6 +306,7 @@ The accessibility page displays the level of accessibility to the MoSDs followin
 	-	The level of accessibility per number of MoSDs
 	-	The reported causes of inaccessibility per number of MoSDs
 -	A table displays the list of priority areas with inaccessible MoSDs and the main reported cause of inaccessibility  
+
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_accessability.png" alt="Accessability" height="300"></img>
 </p>
@@ -323,6 +322,7 @@ The management & support page displays information on the management of the MoSD
 	-  A donut chart to highlighting the categories of ownership as a percentage of the total number of MoSDs
 - External support:
 	-  A donut chart to illustrate the level of support provided by partners
+
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_management_support.png" alt="Management & Support" height="300"></img>
 </p>

@@ -205,44 +205,124 @@ Chaque projet dans HeRAMS possède un tableau de bord personnalisé qui vous per
 Par exemple, l'image ci-dessous affiche une sous-page du tableau de bord de Nigera. Pour retourner à la premier page du tableau de bord, cliquez sur * Nigeria * dans le volet de navigation.
 
 <p align="center">
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_navigation_pane.png" alt="HeRAMS Register" height="50"/></img>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_navigation_pane.png" alt="HeRAMS Register" height="40"/></img>
 </p>
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Conseil: Lorsque vous passez la souris sur un point sur la carte ou le graphique, une fenêtre contextuelle apparaît, affichant des informations supplémentaires.
- </i>
-</span>
+### Personnaliser le tableau de bord
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Conseil: Pour mieux comprendre la répartition spatiale des FOSAs, vous pouvez limiter le type de structures affichées en cliquant sur le cercle à côté du nom du type de structure. Cela supprimera tous les FOSAs de ce type.</i>
-</span>
+Cette section fournit quelques conseils et astuces sur la façon de personnaliser le tableau de bord par exemple en appliquant des filtres ou en limitant le nombre de structures affichées sur une carte.
+
+ - ***Pop-ups***: Lorsque vous passez la souris sur un point sur la carte ou le graphique, une fenêtre contextuelle apparaît, affichant des informations supplémentaires.
+ - ***Personnaliser les cartes***: Pour mieux comprendre la répartition spatiale des FOSAs, vous pouvez limiter le type de structures affichées en cliquant sur le cercle à côté du nom du type de structure. Cela supprimera tous les FOSAs de ce type.
+ - ***Filtrer les données***: Découvrez plus de détails en appliquant des filtres personnalisés. 
+	1. Veuillez clicquer sur le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_filter.png" height="20" align="top" alt='filter'></img> dans le coin supérieur droit du tableau de bord.
+	2. Vous devrez maintenant voir la fenêtre de configuration de filtre. Veuillez sélectionner vos critères de filtre et cliquer sur le bouton dans le coin en haut à droite pour appliquer votre filtre.
+	3. Veuillez cliquer le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_apply_filter.png" height="20" align="top" alt='apply'></img>  pour appliquer vos filtres.
 
 <p align="center">
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/videos/HeRAMS_dashboard_navigation.gif" alt="dashboard navigation" height="300"/></img>
 </p>
-#### Filtrer les données
-
-Découvrez plus de détails en appliquant des filtres personnalisés. 
-1. Veuillez clicquer sur le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_filter.png" height="20" align="top" alt='filter'></img> dans le coin supérieur droit du tableau de bord.
-2. Vous devrez maintenant voir la fenêtre de configuration de filtre. Veuillez sélectionner vos critères de filtre et cliquer sur le bouton dans le coin en haut à droite pour appliquer votre filtre.
-3. Veuillez cliquer le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_apply_filter.png" height="20" align="top" alt='apply'></img>  pour appliquer vos filtres.
-
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Conseil: Veuillez noter que le système vous permet d’appliquer plusieurs filtres en même temps.</i>
-</span>
 
 #### Les pages standard du tableau de bord
+La section suivante fournit une vue d'ensemble des pages standard présentes dans chaque tableau de bord.
+Chaque page fait référence à un pilier d’information standard de HeRAMS. Cependant, une adaptation aurait pu être faite en fonction des besoins locaux. Votre tableau de bord peut être si différent des pages présentées ici.
 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
+	<i> Note: Veuillez noter que l’ordre et le contenu dans votre projet pourraient différer de l’exemple présente ci-dessous. La liste des pages disponibles dans votre projet se trouve dans le menu de navigation situé sur la partie gauche de l’écran.
+</i>
+</span>
 
+<details>
+	<summary><b><i>Page 1:</b> Vue d'ensemble</i>
+	</summary>
+	
+La page d'accueil affiche une vue d'ensemble sur le projet, y compris
+ - Une carte affichant les localisations et la distribution des FOSA par type. Les diffèrent couleurs indiquent le type (p. ex. 
+	- les soins secondaires et tertiaires: des hôpitaux
+	- les soins primaires: des centres de santé, des cliniques et postes de santé, des cliniques mobiles et les cliniques situées dans les camps de PDIP)
+ - Des graphiques en anneau résumant des indicateurs différents comme le niveau de dégâts, le niveau de fonctionnalité et la disponibilité des services. Veuillez noter que l’évaluation sur la disponibilité des services varie selon les pays. Lorsqu’une comparaison directe entre pays ne sera pas toujours possible.
 
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_overview.png" alt="Overview" height="300"></img>
+</p>
+</details>
 
+<details>
+	<summary><b><i>Page 2:</b> Infrastructure</i>
+	</summary>
+	
+La page d’infrastructure affiche une analyse descriptive, y compris
+- Une carte affichant la distribution des FOSA par type
+- Des graphiques en anneau illustrant 
+	- les FOSA par type
+    - le matériau structure (durable ou temporaire)
+-	Un tableau énumérant des obstacles d'accessibilité rapporté.
+	
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_infastructure.png" alt="Infastructure" height="300"></img>
+</p>
+</details>
 
+<details>
+	<summary><b><i>Page 3:</b> Etat structurel</i>
+	</summary>	
 
+Cette page affiche le niveau des dégâts causés aux établissements de santé fondé sur une classification et échelle standard (d’intacte à détruite). Les données sont visualisées par
+- Une carte affichant la distribution des structures sanitaires par niveau de dégâts
+- Des graphiques en anneau résumant 
+    - Le niveau de dégâts infligés aux bâtiments 
+	- Le type d’établissements sanitaires
+- Un tableau donnant les noms des localités prioritaires en matière de dégâts et les causes principales.
+	
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_condition.png" alt="Condition" height="300"></img>
+</p>
+</details>	
 
+<details>
+	<summary><b><i>Page 4:</b> Fonctionnalité</i>
+	</summary>	
 
+La page de fonctionnalité affiche le statut des structures de santé fondé sur une classification et échelle standard (de fonctionnelle à non fonctionnelle) visualisées par
+- Une carte affichant la distribution et nombre des FOSA par niveau de fonctionnalité
+- Des graphiques en anneau résumant 
+	- Le niveau de fonctionnalité par type de FOSA 
+	- La distribution des causes de non-fonctionnalité principales. 
+- Un tableau donnant une liste des régions prioritaire en niveau des DMPS non-fonctionnelle et des causes rapportées. 
+
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_functionality.png" alt="Functionality" height="300"></img>
+</p>
+</details>
+
+<details>
+	<summary><b><i>Page 5:</b> Accessibilité</i>
+	</summary>
+
+Cette page affiche le niveau d’accessibilité des FOSA fondés sur une classification et échelle standard (accessible à inaccessibilité) visualisées par
+- Une carte pour rapidement identifier les régions avec des FOSA inaccessibles.  
+- Des graphiques en anneau résumant 
+	- Le pourcentage de FOSA inaccessible et 
+	- La distribution des causes d’inaccessibilité.
+- Un tableau donnant une liste des régions prioritaires en niveau des FOSA inaccessibilité et des causes rapportées 
+
+<p align="center">
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_dashboard_accessability.png" alt="Accessability" height="300"></img>
+</p>
+</details>
+
+<details>
+	<summary><b><i>Page 6:</b> Gestion & soutien</i>
+	</summary>
+
+La page sure la gestion et le soutien affichent des informations concernant la gestion des FOSA est le niveau de soutien fourni par des partenaire. Ces informations sont visualisées par
+- Gestion :
+	- Une carte affichant la distribution de FOSA en fonction du type de gestion (p.ex. privée, public, ONG, etc.)
+	-Des graphiques en anneau résumant la distribution des catégories de gestion (p.ex. le nombre de FOSA privée, public, géré par des ONG, etc.).
+- Soutien externe :
+	- Un graphique en anneau affichant le niveau de soutien fourni par des partenaires.  
+	
 2. [Afficher les données](#2-afficher-les-donnes)
 	 - [Worldview (vue globale)](#worldview)
 	
