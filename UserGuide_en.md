@@ -205,7 +205,7 @@ Each project in HeRAMS has a custom dashabord that permits yours to gain detaile
 For example, the image below displays a sub-page of the Nigera dashboard. To return to the first page of the dashbaord, click on *Niveria* in the naviagation pane. 
 
 <p align="center">
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_navigation_pane.png" alt="HeRAMS Register" height="300"/></img>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_navigation_pane.png" alt="HeRAMS Register" height="50"/></img>
 </p>
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

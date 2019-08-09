@@ -205,7 +205,7 @@ Chaque projet dans HeRAMS possède un tableau de bord personnalisé qui vous per
 Par exemple, l'image ci-dessous affiche une sous-page du tableau de bord de Nigera. Pour retourner à la premier page du tableau de bord, cliquez sur * Nigeria * dans le volet de navigation.
 
 <p align="center">
-	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_navigation_pane.png" alt="HeRAMS Register" height="300"/></img>
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/HeRAMS_navigation_pane.png" alt="HeRAMS Register" height="50"/></img>
 </p>
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -234,17 +234,13 @@ Découvrez plus de détails en appliquant des filtres personnalisés.
 	<i> Conseil: Veuillez noter que le système vous permet d’appliquer plusieurs filtres en même temps.</i>
 </span>
 
+#### Les pages standard du tableau de bord
 
 
 
-Vous devriez maintenant voir You should now see the filter configuration page. Use the drop-down list to select your filter criteria. 
-3. Click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_apply_filter.png" height="20" align="top" alt='apply'></img> buton to activate your filter.
 
 
-Pour Découvrez des informations supplémentaires sur les données, vous pouvez appliquer des filtres personnalisés aux données affichées dans le tableau de bord
-Pour approfondir l'exploration des données, 
 
-ous pouvez filtrer les données
 
 
 2. [Afficher les données](#2-afficher-les-donnes)
