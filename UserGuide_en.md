@@ -27,7 +27,7 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 	- [Update a Health Facility](#update-a-health-facility)
 	- [Register a new Health Facility](#register-a-new-health-facility)
 	- [Delete a Health Facility](#delete-a-health-facility)
-4. [HeRAMS Administration](#4-herams-administration)
+4. [Project Administration](#4-herams-administration)
 	- [Workspaces](#workspaces)
 		- [Workspace Permissions](#workspace-permissions)
 		- [Add a User to a Workspace](#add-a-user-to-a-workspace)
@@ -36,7 +36,7 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 		- [Create New Workspaces](#create-a-new-workspace)
 		- [Import Workspaces](#import-workspaces)
 		- [Delete Workspaces](#delete-workspaces)
-	- [Project](#)
+	- [Projects](#)
 		- [Project Permissions](#)
 		- [Add a User to a Project](#add-a-user-to-a-project)
 		- [Remove a User from a Project](#remove-a-user-from-a-project)
@@ -495,28 +495,31 @@ If HeRAMS is used as a monitoring tool, you can update the record without losing
 
 # 4. HeRAMS Administration
 
-This chapter provides a more in-depth description of the admin pages in HeRAMS. Each section is intended provides a brief description of its purpose and includes a step-by-step guide to help local administrators to commit common tasks.
+This chapter aims to provide an overview of the admin pages in HeRMAS and provides step-by-step instruction for common tasks conducted by advanced users and local administrators. 
+The first part of the chapter is dedicated to the concept and management of [Workspaces](#workspaces) while the second part focuses on [project](#projects) level administration as well as the configuration of project specific [dashboards](#configure-the-project-dashboard). 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
-	<i> Note: Access to each of the sub-sections of this chapter are depending on the tasks a users is expected to complete. If you require your permissions to be changed, please contact your system administrator..</i>
+	<i> Note: Access to each of the sub-sections of this chapter are depending on the tasks a users is expected to complete. If you require your permissions to be changed, please contact your system administrator.</i>
 </span>
 
 ### Workspaces
 
-HeRAMS uses the concept of workspaces to manage user permissions. Each workspace traditionally contains several health facilities with a dedicated focal point responsible for updating these records. A workspace might constitue for example a geographical region, health facilities managed by a specfic partner or any other logical category. This system  allows to tightly control access to the underlying data. 
-While most users only have access to a single worksapce, local administrators might have access to several or all workspace and are responsible to add new users to a workspace, change a user's permission or to create additional workspace. 
+HeRAMS uses the concept of workspaces to manage user permissions. Each workspace consists of several health facilities and has a dedicated focal point responsible for updating these records. 
+A workspace might for example include all health facilities of a geographical region, health facilities managed by a specific partner or any other logical category. 
+Thus, the use of workspaces in combination with different levels of permission (see below) assures granular, role-based access control to a project and workspaces. 
+While most users only have access to a single workspace, local administrators might have access to several or all workspace and are responsible to add new users to a workspace, change a user's permission or to create additional workspace.
 
-- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_refresh.png" height="20" align="top" alt='refresh'></img>[](#) 
-- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_edit.png" height="20" align="top" alt='edit'></img>[](#) 
-- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_share.png" height="20" align="top" alt='share'></img>[](#) 
-- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_delete_black.png" height="20" align="top" alt='delete'></img>[](#) 
-- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_download.png" height="20" align="top" alt='download'></img>[](#) 
-- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_pencil_black.png" height="20" align="top" alt='edit data'></img>[](#) 
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_refresh.png" height="20" align="top" alt='refresh'></img> **Data Refresh**: This button enables users to manually refresh the data cache of a given workspace.  
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_edit.png" height="20" align="top" alt='edit'></img> **Update Workspace** allwos to change the title or token of a worksapce.
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_share.png" height="20" align="top" alt='share'></img> **Share Workspace**:Access to workspaces is granted by sharing a workspace with users. For more information on how to add users to a workspace see [here](#add-a-user-to-a-workspace).
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_delete_black.png" height="20" align="top" alt='delete'></img> **Delete Worksapce** See [Delete Worksapces](#delete-workspaces) for further information
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_download.png" height="20" align="top" alt='download'></img>[]**Download Data**: Downloads all data associated with the workspace. See the *chapter 2* for more informatio on [data download](#download-data).  
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_pencil_black.png" height="20" align="top" alt='edit data'></img>**Data Update**: This opens the data edit interface. More infomration on data editing and updating is available in the [previous cha]pter(#edit-data).  
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
-	<i> The number of buttons visible to you depend on your access rights to a specific workspace.</i>
+	<i> The number of buttons visible to you depend on your access rights and might vary from one workspace to another.</i>
 </span>
 
 #### Workspace Permissions

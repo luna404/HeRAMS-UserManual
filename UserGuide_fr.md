@@ -27,22 +27,21 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 	- [Mise à jour d'un enregistrement](#mise-à-jour-dun-enregistrement)
 	- [Enregistrer une nouvelle Structure de Santé](#enregistrer-une-nouvelle-structure-de-santé)
 	- [Supprimer un enregistrement](#supprimer-un-enregistrement)
-4. [HeRAMS Administration](#4-herams-administration)
-	- [Workspaces](#workspaces)
-		- [Workspace Permissions](#workspace-permissions)
-		- [Add a User to a Workspace](#add-a-user-to-a-workspace)
-		- [Remove a User from a worksapce](#remove-a-user-from-a-workspace)
-		- [Alter a user's Permission to a Workspace](#change-a-users-workspace-permission)
-		- [Create New Workspaces](#create-a-new-workspace)
-		- [Import Workspaces](#import-workspaces)
-		- [Delete Workspaces](#delete-workspaces)
-	- [Project](#)
-		- [Project Permissions](#)
-		- [Add a User to a Project](#add-a-user-to-a-project)
-		- [Remove a User from a Project](#remove-a-user-from-a-project)
-		- [Alter a User's Permisson to a Project](#alter-a-users-permission-to-a-workspace)
-		- [Edit Project Settings](#alter-project-settings)
-		- [Configure the Project Dashboard](#configure-the-project-dashboard)
+4. [Gérer un projet](#4-gérer-un-projet)
+	- [Les espaces de travail (Workspace)](#espace-de-travail-workspaces)
+		- [Les niveau d'autorisation d'accès aux espace de travail](#les-niveau-dautorisation-daccès-aux-espace-de-travail)
+		- [Ajouter un ultilisateur à un espace de travail](#ajouter-un-ultilisateur-à-un-espace-de-travail)
+		- [Supprimer un utulisateur d'un espace de travail](#supprimer-un-utulisateur-dun-espace-de-travail)
+		- [Modifier les permission d'un utilisateur](#modifier-les-permission-dun-utilisateur)
+		- [Créer un espace de travail](#créer-un-espace-de-travail)
+		- [Importer des espaces de travail](#importer-des-espaces-de-travail)
+		- [Supprimer des espaces de travail](#supprimer-des-espaces-de-travail)
+	- [Les projets](#les-projets)
+		- [Les niveau d'autorisation d'accès au projet](#les-niveau-dautorisation-daccès-au-projet)
+		- [Ajouter un ultilisateur à un projet](#ajouter-un-ultilisateur-à-un-projet)
+		- [Supprimer un utulisateur d'un projet](#supprimer-un-utulisateur-dun-projet)
+		- [Modifier des paramètres de projet](#modifier-des-paramètres-de-projet)
+		- [Configurer le tableau de bord](#configurer-le-tableau-de-bord)
 5. [FAQ](#faq)
 
 # 1. Se connecter & profil de l'utilisateur
@@ -484,7 +483,6 @@ Si vous souhaitez mettre à jour une FOSA en conservant les informations existan
 2. Pour passer à la page suivante ou revenir à une page précédente, veuillez utiliser les boutons <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_new_record_fr.png" height="20" align="top" alt='next'></img>  situés dans le coin en bas à droite. Vous pouvez également utiliser le panneau de navigation située à gauche.
 3. Assurez-vous que vous avez validé et enregistré vos changements avant de sortir. Veuillez avancer jusqu’à la dernière page **Valider**  et cliquez sur le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_submit_fr.png" height="20" align="top" alt='send'></img>. 
 4. Si vous souhaitez annuler vos modifications, veuillez cliquer sur le bouton <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_exit_fr.png" height="20" align="top" alt='exit'></img>.
-If you would like to discard your edits, click the <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/bt_new_record_en.png" height="20" align="top" alt='exit'></img>  button 
 
 ### Supprimer une structure de santé
 
@@ -495,11 +493,54 @@ If you would like to discard your edits, click the <img src="https://github.com/
 	<i> Note: La suppression d'enregistrements ne peut pas être annulée. Soyez prudent lorsque vous supprimez un enregistrement.</i>
 </span>
 
-# 4. HeRAMS Administration
+# 4. Gérer un projet
+
+Le présent chapitre offre un bref aperçu sur les pages d’administration de la plateforme HeRAMS, y compris des instructions étape par étape pour les utilisateurs avancés et les administrateurs locaux. 
+La première partie du chapitre est consacrée au concept et à la gestion des [espaces de travail] (#espaces-de-travail), tandis que la seconde partie fournit des informations sur l’administration au niveau du [projet] (# projets) ainsi qu'à la configuration du [tableaux de bord](#configurer-le-tableau-de-bord)).
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
+	<i> Note: L’Access à chacune des sections ou sous-sections présenté dans ce chapitre est déterminée en fonction du rôle de l’utilisateur. Si vous souhaitez que vos autorisations d'accès soient modifiées, veuillez contacter votre administrateur système.</i>
+</span>
+
+### Les espaces de travail (Workspace)
+
+HeRAMS utilise un concept d’espace de travail pour gérer les permissions des utilisateurs. Chaque espace de travail est composé de plusieurs FOSAs et dispose d’un point focal dédié à la mise à jour de ces enregistrements. 
+Un espace de travail peut par exemple inclure tous les FOSAs d'une région géographique, les établissements de santé gérés par un partenaire, ou toute autre catégorie logique. 
+Ainsi, l'utilisation d'espaces de travail en combinaison avec différents niveaux d'autorisation (voir ci-dessous) assure un contrôle d'accès granulaire à un projet, basé sur les rôles des utilisateurs. 
+Tandis que la plupart des utilisateurs ont accès à un seul espace de travail, les administrateurs locaux puissent avoir accès à plusieurs. En plus, les administrateurs locaux sont responsables d'ajouter des nouveaux utilisateurs à un espace de travail, de modifier les droits d’accès d'un utilisateur ou de créer des nouveaux espaces de travail 
+
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_refresh.png" height="20" align="top" alt='refresh'></img> 
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_pencil_black.png" height="20" align="top" alt='edit'></img>[](#) 
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_share.png" height="20" align="top" alt='share'></img>[](#) 
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_delete_black.png" height="20" align="top" alt='delete'></img>[](#) 
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_download.png" height="20" align="top" alt='download'></img>[](#) 
+- <img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_pencil_black.png" height="20" align="top" alt='edit data'></img>[](#) 
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/luna404/HeRAMS-UserManual/blob/master/media/images/icon_info.png" height="20" align="top" alt='info'></img>
+	<i> Le nombre de boutons visibles dépend de vos droits d'accès et peut varier d'un espace de travail à un autre..</i>
+</span>
 
 
 
 
+4. [Gérer un projet](#4-gérer-un-projet)
+	- [Les espaces de travail (Workspace)](#espace-de-travail-workspaces)
+		- [Les niveau d'autorisation d'accès aux espace de travail](#les-niveau-dautorisation-daccès-aux-espace-de-travail)
+		- [Ajouter un ultilisateur à un espace de travail](#ajouter-un-ultilisateur-à-un-espace-de-travail)
+		- [Supprimer un utulisateur d'un espace de travail](#supprimer-un-utulisateur-dun-espace-de-travail)
+		- [Modifier les permission d'un utilisateur](#modifier-les-permission-dun-utilisateur)
+		- [Créer un espace de travail](#créer-un-espace-de-travail)
+		- [Importer des espaces de travail](#importer-des-espaces-de-travail)
+		- [Supprimer des espaces de travail](#supprimer-des-espaces-de-travail)
+	- [Les projets](#les-projets)
+		- [Les niveau d'autorisation d'accès au projet](#les-niveau-dautorisation-daccès-au-projet)
+		- [Ajouter un ultilisateur à un projet](#ajouter-un-ultilisateur-à-un-projet)
+		- [Supprimer un utulisateur d'un projet](#supprimer-un-utulisateur-dun-projet)
+		- [Modifier des paramètres de projet](#modifier-des-paramètres-de-projet)
+		- [Configurer le tableau de bord](#configurer-le-tableau-de-bord)
+5. [FAQ](#faq)
 
 
 
