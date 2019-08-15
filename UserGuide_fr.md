@@ -2,17 +2,17 @@
 
 This user manual aims to help user navigate the [HeRAMS](https://herams.org/login) platform. 
 
-1. [Se connecter & profil de l'utilisateur](#1-se-connecter--profil-de-utilisateur)
+1. [Se connecter & profil de l'utilisateur](#1-se-connecter--profil-de-lutilisateur)
 	 - [Se connecter](#se-connecter)
-	   - [Nouvel utilisatuer](#nouvel-utilisateur)
+	   - [Nouvel utilisatuer](#nouvel-utilisatuer)
 	   - [Réinitialiser le mot de passe](#réinitialiser-le-mot-de-passe)
 	   - [Se déconnecter](#se-déconnecter)
 	  - [Profil de l'utilisateur](#profil-de-utilisateur)
 		- [S'inscrire (créer un compte)](#sinscrire-créer-un-compte)
-		- [Actualiser le profil de l'utilisateur](#actualiser-le-profil-de-lutilisateur)
+		- [Actualiser votre profil de l'utilisateur](#actualiser-votre-profil-de-lutilisateur)
 		- [Ajouter une photo au profil](#ajouter-une-photo-au-profil)
 		- [Modifier le mot de passe](#modifier-le-mot-de-passe)
-2. [Afficher les données](#2-afficher-les-donnes)
+2. [Afficher les données](#2-afficher-les-données)
 	 - [Vue globale (Worldview)](#worldview)
 	 - [l'aperçu du projet](#laperçu-du-projet)
 	 - [Le tableau de bord](#le-tableau-de-bord)
