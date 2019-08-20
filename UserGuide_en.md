@@ -40,7 +40,7 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 		- [Project Permissions](#)
 		- [Add a User to a Project](#add-a-user-to-a-project)
 		- [Remove a User from a Project](#remove-a-user-from-a-project)
-		- [Alter a User's Permisson to a Project](#alter-a-users-permission-to-a-workspace)
+		- [Alter a User's Permission to a Project](#alter-a-users-permission-to-a-workspace)
 		- [Edit Project Settings](#alter-project-settings)
 		- [Configure the Project Dashboard](#configure-the-project-dashboard)
 5. [FAQ](#faq)
@@ -48,7 +48,7 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 #	 1. Login & User Profile
 
 ### Login
-To access the HeRAMS platfrom, follow the instruction below.
+To access the HeRAMS platform, follow the instruction below.
 1. Open the link https://herams.org in your browser. 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -84,7 +84,7 @@ To create your user account in [HeRAMS](https://herams.org/login), follow the in
 </span>
 
 7. Open the link and enter your new password.
-8. Click the <img src=" images/bt_submit_en.png" height="20" align="top" alt="Submit"></img>  button to confirm your new passowrd. 
+8. Click the <img src=" images/bt_submit_en.png" height="20" align="top" alt="Submit"></img>  button to confirm your new password. 
 9. To login into HeRAMS, return to the [sign in page](https://herams.org/user/login).
 
 <p align="center">
@@ -99,9 +99,9 @@ To logout, click the  <img src=" images/bt_logout.png" height="20" align="top" a
 
 #### Register (Create a User Account)
 
-1. To regist as a new user, open the link [https://herams.org](https://herams.org) in your browser.
+1. To register as a new user, open the link [https://herams.org](https://herams.org) in your browser.
 2. On the sign-in page, click on the [sign-up](https://herams.org/user/register) link.
-3. On the page that opens, enter your name, email and passowrd. 
+3. On the page that opens, enter your name, email and password. 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src=" images/icon_info.png" height="20" align="top" alt='tip'></img>
@@ -134,7 +134,7 @@ This opens your [user profile](https://herams.org/user/settings/profile) and all
 
 #### Add a Profile Picture
 
-You can further personalize your account by adding a profile picture. In order for your profile picutre to appear, you will have to register your email address at [Gravatar](https://en.gravatar.com/). 
+You can further personalize your account by adding a profile picture. In order for your profile picture to appear, you will have to register your email address at [Gravatar](https://en.gravatar.com/). 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src=" images/icon_info.png" height="20" align="top" alt='info'></img>
@@ -148,9 +148,9 @@ You can further personalize your account by adding a profile picture. In order f
 	<img src=" images/user_profile.png" alt="HeRAMS Register" height="300"/></img>
 </p>
 
-3. You will be prompted to login to your [Worldpress](https://wordpress.com/log-in) account. If you don't already have a Wroldpress account, follow the instructions to create a new account.
-4. Once logged in, open the **Manage Gavatars** tab and upload your image.
-5. In the **My Gavatars** tab you should now be able to assing the image to your email address.  add your name and details on the **My Profile** tab.
+3. You will be prompted to login to your [Worldpress](https://wordpress.com/log-in) account. If you don't already have a Worldpress account, follow the instructions to create a new account.
+4. Once logged in, open the **Manage Gravatars** tab and upload your image.
+5. In the **My Gravatars** tab you should now be able to assign the image to your email address.  add your name and details on the **My Profile** tab.
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src=" images/icon_info.png" height="20" align="top" alt='info'></img>
@@ -174,11 +174,11 @@ You can further personalize your account by adding a profile picture. In order f
 
 Upon login in, you should see a world map. Each blue dot on the map represents a single HeRAMS project. On the right you see the navigation pane listing all available projects. 
 You can also see the list of all available projects in the navigation pane on the left.
-In addition, a brief summary on the number of projects availble in HeRAMS, the total number contributros and health facilities is shown on the buttom left corner.
+In addition, a brief summary on the number of projects available in HeRAMS, the total number contributros and health facilities is shown on the bottom left corner.
 
-1. To learn more about a proje.ct, either click on the blue dot on the world map or select the project from the navigation pane on the left. 
+1. To learn more about a project, either click on the blue dot on the world map or select the project from the navigation pane on the left. 
 2. You should now see a pop-up window displaying an overview of the selected project. In the upper part of the pop-up you see the project name, the number of health facilities assessed and the number of contributors.
-In the lower part of the pop-up window you cann see a brief summary on the distribution of Health Facility types, their funcationality and service availability.
+In the lower part of the pop-up window you can see a brief summary on the distribution of Health Facility types, their functinality and service availability.
 3. For further details, click the <img src=" images/bt_details.png" height="20" align="top" alt="details"></img> button. This will open the project specific dashboard.
 
 <p align="center">
@@ -187,7 +187,7 @@ In the lower part of the pop-up window you cann see a brief summary on the distr
 
 ### Dashboard
 
-Each project in HeRAMS has a custom dashabord that permits yours to gain detailed insights.
+Each project in HeRAMS has a custom dashboard that permits yours to gain detailed insights.
 1. To display a dashboard, first open the project summary by selecting your project either form the navigation pane on the left or by clicking on the corresponding dot on the world map.
 2. In the pop-up window, click the <img src=" images/bt_details.png" height="20" align="top" alt="details"></img>  button. This will open the project dashbaord.
 3. You should now see a page similar to the one shown below. In the navigation pane on the left you see all available pages of the dashbaord. Click on the name of the page to open the page.
@@ -198,11 +198,11 @@ Each project in HeRAMS has a custom dashabord that permits yours to gain detaile
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src=" images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: Some page may contain subpages, indicated by a **>** next to the page's name.</i>
+	<i> Tip: Some page may contain sub-pages, indicated by a **>** next to the page's name.</i>
 </span>
 
-4. To retrun to a previous page, you can either select the page in the navigation pane on the left, or use the breadcrumb trail on top of the dashbaord. 
-For example, the image below displays a sub-page of the Nigera dashboard. To return to the first page of the dashbaord, click on *Niveria* in the naviagation pane. 
+4. To return to a previous page, you can either select the page in the navigation pane on the left, or use the breadcrumb trail on top of the dashbaord. 
+For example, the image below displays a sub-page of the Nigera dashboard. To return to the first page of the dashbaord, click on *Nigeria* in the navigation pane. 
 
 <p align="center">
 	<img src=" images/HeRAMS_navigation_pane.png" alt="HeRAMS Register" height="40"/></img>
@@ -213,11 +213,14 @@ For example, the image below displays a sub-page of the Nigera dashboard. To ret
 This section provides a few tips and tricks on how to customize the dashboard (e.g. by applying filters or limit the number of structures displayed on a map).
 
  - ***Pop-ups***: If you hover over a point on the map or the chart, you will see a pop-up appearing displaying further information.
- - ***Customize the maps***: To gain a better insight in the spatial distribution of health facilities, you can limit the type of structres disyplayed. Click on the circle in the legend. This will remove the slected type. To add it again, simply click the circle again.
+ - ***Customize the maps/charts***: 
+	- Remove elemenets
+	- To gain a better insight in the spatial distribution of health facilities, you can limit the type of structure displayed. Click on the circle in the legend. This will remove the selected type. To add it again, simply click the circle again.
  - ***Apply filters***: Further explore the data by applying custom filters.
    1. Click the <img src=" images/bt_filter.png" height="20" align="top" alt='filter'></img>  button in the top right corner of the dashboard.
    2. You should now see the filter configuration page. Use the drop-down list to select your filter criteria. 
-   3. Click the <img src=" images/bt_apply_filter.png" height="20" align="top" alt='apply'></img> buton to activate your filter.
+   3. Click the <img src=" images/bt_apply_filter.png" height="20" align="top" alt='apply'></img> button to activate your filter.
+- ***Reorder map elements***
 
 <p align="center">
 	<img src=" videos/HeRAMS_dashboard_navigation.gif" alt="dashboard navigation" height="300"/></img>
@@ -225,8 +228,8 @@ This section provides a few tips and tricks on how to customize the dashboard (e
 
 #### Default dashboard pages
 
-The below section provides an overivew of the standard pages that are present in each dashboard. 
-Each page refers to a HeRAMS standard information pillar. However, adapdation might have been made based on local needs. Your dashboard might therefore be substantially different from the default pages presented here. 
+The below section provides an overview of the standard pages that are present in each dashboard. 
+Each page refers to a HeRAMS standard information pillar. However, adaptation might have been made based on local needs. Your dashboard might therefore be substantially different from the default pages presented here. 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src=" images/icon_info.png" height="20" align="top" alt='info'></img>
@@ -473,20 +476,20 @@ If HeRAMS is used as a monitoring tool, you can update the record without losing
 </span>
 
 1. To update the status of a Health Facility, use the <img src=" images/icon_update_blue.png" height="20" align="top" alt='update'></img>  button to open the record.
-2. Use the two button on the buttom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specfic section of the questionnaire.
+2. Use the two button on the bottom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specfic section of the questionnaire.
 3. To save your changes, navigate to the last page **Validate** and click  <img src=" images/bt_submit_en.png" height="20" align="top" alt='submit'></img>.
 4. If you would like to discard your edits, click the <img src=" images/bt_clear.png" height="20" align="top" alt='exit'></img>  button 
 
 ### Register a new Health Facility
 
 1. To create a new record, click the button  <img src=" images/bt_new_record_en.png" height="20" align="top" alt='new record'></img>.  
-2. Use the two button on the buttom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specfic section of the questionnaire.
+2. Use the two button on the bottom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specfic section of the questionnaire.
 3. To save your changes, navigate to the last page **Validate** and click  <img src=" images/bt_send_en.png" height="20" align="top" alt='Edit data'></img>.
 4. If you would like to discard your edits, click the <img src=" images/bt_new_record_en.png" height="20" align="top" alt='exit'></img>  button 
 
 ### Delete a Health Facility
 
-1. To delete a record, click the <img src=" images/icon_delete_blue.png" height="20" align="top" alt='delete'></img>. 
+1. To delete a record, click the <img src=" images/icon_delete_blue.png" height="20" align="top" alt='delete'></img> icon in the first column. 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src=" images/icon_warning.png" height="20" align="top" alt='warning'></img>
@@ -535,7 +538,7 @@ There are two permission levels that a user can be granted to a workspace. Users
 3. In the rightmost column of the table, you should see several action buttons. Click the <img src=" images/icon_workspace.png" height="20" align="top" alt='workspace'></img>  icon. This will open the workspace of the selected project.  
 4. You should now see a table with all workspaces. For each workspace the table provides information on the last time data was synced with the underlying database, the number of contributors, health facilities and responses. Alike the project table, the las column contains several action button. 
 5. To add a new user, you have to share the workspace with the user. In the **Actions** column of the workspace you would like to share, click the <img src=" images/icon_share.png" height="20" align="top" alt='share'></img>  icon
-6. You should now see something similar to the image below. On the buttom half of the screen you can see a list of all users currently having access to this workspace and their permission level. 
+6. You should now see something similar to the image below. On the bottom half of the screen you can see a list of all users currently having access to this workspace and their permission level. 
 
 <p align="center">
 	<img src=" images/HeRAMS_workspace_share.png alt="share workspace" height="300"></img>
@@ -623,9 +626,9 @@ Tere are three permission levels that a user can be granted to a project.
 #### Add a User to a Project
 
 1. To grant a user access to a specific project, open the admin interface by clicking the <img src=" images/icon_settings.png" height="20" align="top" alt='settings'></img> button in the top right corner of the screen.
-2. In the navigation pane on the left, click [Projects](https://herams.org/project/index) to open a page displaying all availble projects.
+2. In the navigation pane on the left, click [Projects](https://herams.org/project/index) to open a page displaying all available projects.
 3. In the rightmost column of the table, you should see several action buttons. Click the <img src=" images/icon_share.png" height="20" align="top" alt='share'></img> icon. 
-4. You should now see something similar to the image below. On the buttom half of the screen you can see a list of all users currently having access to this workspace and their permission level. 
+4. You should now see something similar to the image below. On the bottom half of the screen you can see a list of all users currently having access to this workspace and their permission level. 
 
 <p align="center">
 	<img src=" images/HeRAMS_project_share.png alt="share workspace" height="300"></img>
@@ -698,20 +701,73 @@ Individually configured dashboards are available for each project, providing an 
 </span>
 
 ### Update a Dashboard Page
+
 1. To alter an existing page, click the <img src=" images/icon_pencil_black.png" height="20" align="top" alt='pencil '></img> icon next to the page's name. This will open the page's setting page. You are now able to change the title and the order of the page. See [above](#add-a-new-page) for further details. 
 2. On the page that opens you should now be able to alter the page name, and display order.
 
 ### Delete a Dashboard Page
-To remove a dashbaord page, cli
-#### Add an Element to a Page
-To add an 
 
-#### Modifz an Element on a page
+To delete a dashbaord page, click the <img src=" images/icon_delete_black.png" height="20" align="top" alt='pencil '></img> icon.
+
+#### Add an Element to a Page
+
+After creating a page, you should now be able to add elements (charts, maps or tables) to a dashboard page. For more information on how add a dashboard page see [above](#add-a-new-page). 
+1. Open the page you would like to modify using the <img src=" images/icon_pencil_black.png" height="20" align="top" alt='pencil '></img> icon next to the page's name.
+2. In the bottom half of the page you should see a button labelled **Create element**.
+3. Click the <img src=" images/bt_create_element_white.png" height="20" align="top" alt='pencil '></img>. This will open a new page allowing you to create a new element.
+4. You should now see a page similar to the one displayed below. 
+5. First you will have to select whether to transpose elements and allow to switch between aggregating data at the health facility and service level. 
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src=" images/icon_info.png" height="20" align="top" alt='tip'></img>Changing this will reload the making you lose all other unsaved edits.</i>
+</span>
+
+6. Use the **Code** dropdown list to select which field you would like to display on your element.
+7. Now select the element type from the **Type** dropdown list.
+8. Click the <img src=" images/bt_create_element_blue.png" height="20" align="top" alt='create element'></img> button to add create the element.
+9. You should now see a sample of the new element in the top right corner.
+
+**Maps and charts:**
+10. Upon saving the element, the list of unique values should appear. 
+11. To change the color of a category, click on the color displayed. This will open a color picker allowing to select custom colors.
+12. Click the <img src=" images/bt_update_element.png" height="20" align="top" alt='pencil '></img> button so save your changes. You should now see your changes in the preview on the top right corner of the page.
+
+<p align="center">
+	<img src=" videos/HeRAMS_create_dashboard_element.png" alt="dashboard pages" height="300"></img>
+</p>
+
+**Tables:**
+13. A table requires three variables. The 
+
+For charts, you can increase/decrese the marker size by changing the **Marker Radius**. 
+
+#### Modify an Element on a page
+
+Users with the permissions to edit dashbaords can modify charts and maps directly from within the dashboard. 
+1. Open the dashboard and navigate to the element you would like to change. 
+2. Click the <img src=" images/icon_edit_dashboard.png" height="20" align="top" alt='pencil '></img> icon in the top right corner of the card element.
+3. In the page that appears you will be able to change the chart or map settings.
+4. Save your changes by clicking the <img src=" images/bt_update_element.png" height="20" align="top" alt='share'></img> button.
+
+<p align="center">
+	<img src=" videos/HeRAMS_edit_dashboard_element.gif" alt="create new page" height="300"></img>
+</p>
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src=" images/icon_info.png" height="20" align="top" alt='tip'></img>
+	<i>Note: Dashboard elements can also be edited from the  [Add an Element to a Page](#add-an-elements-to-a-page).</i>
+</span>
+
 
 #### Remove an elements or pages from the dashboard
-To remove elements form a page 
+To remove elements form a page, return to the dashbo
+2. In the lower half of the page you will see the list of all items displayed on the selected page. 
+3. Use the <img src=" images/icon_delete_black.png" height="20" align="top" alt='delete '></img> to permanently delete the element.
 
-
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src=" images/icon_info.png" height="20" align="top" alt='tip'></img>
+	<i>Note: Be careful deleting dashbaord elements. Deleted elements cannot be restore.</i>
+</span>
 
 
 # 5. FAQ

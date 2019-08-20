@@ -14,7 +14,6 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 		- [Modifier le mot de passe](#modifier-le-mot-de-passe)
 2. [Afficher les données](#2-afficher-les-données)
 	 - [Vue globale (Worldview)](#worldview)
-	 - [l'aperçu du projet](#laperçu-du-projet)
 	 - [Le tableau de bord](#le-tableau-de-bord)
 		- [Filtrer les données](#filtrer-les-données)
 		- [Les pages standard du tableau de bord](#les-pages-standard-du-tableau-de-bord)
@@ -40,9 +39,15 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 		- [Les niveaux d'autorisation du projet](#les-niveaux-dautorisation-du-projet)
 		- [Ajouter un utilisateur à un projet](#ajouter-un-utilisateur-à-un-projet)
 		- [Supprimer un utilisateur d'un projet](#supprimer-un-utilisateur-dun-projet)
+		- [Modifier l'autorisation d'un utilisateur à un projet](#Modifier-lautorisation-dun-utilisateur-à-un-projet)
+		- [Modifier les permission d'un utilisateur](#modifier-les-permission-dun-utilisateur)
 		- [Modifier des paramètres de projet](#modifier-les-paramètres-de-projet)
-		- [Configurer le tableau de bord](#configurer-le-tableau-de-bord)
-
+	- [Configurer le tableau de bord](#configurer-le-tableau-de-bord)
+		- [Ajouter une nouvelle page](#ajouter-une-nouvelle-page)
+		- [Mettre à jour une page de tableau de bord](#mettre-à-jour-une-page-de-tableau-de-bord)
+		- [Ajouter un élément à une page](#ajouter-un-élément-à-une-page)
+		- [](#)
+		- [](#)
 5. [FAQ](#faq)
 
 # 1. Se connecter & profil de l'utilisateur
@@ -644,12 +649,12 @@ Il exist trois niveau d'authorisation qui peuvent être accordés à un utilisat
 	<img src=" videos/HeRAMS_project_share.gif" alt="share project" height="300"></img>
 </p>
 
-#### Remove a User from a Project
+#### Supprimer un utilisateur d'un projet
 
 1. Pour supprimer un utilisateur d'un projet, veuillez suivre les étapes 1 à 4 décrites dans la [section précédente] (#ajouter-un-utilisateur-dun-projet)
 2. Dans la partie inférieure de l'écran vous voyez la liste de tous les utilisateurs ayant accès à ce projet. Pour supprimer un utilisateur, veuillez cliquer sur l’icône <img src=" images/icon_delete_red.png" height="20" align="top" alt='bin'></img>.
 
-#### Change a User's Project Permission
+#### Modifier l'autorisation d'un utilisateur à un projet
 
 1. Pour changes les droits d’un utilisateur existant, veuillez supprimer la personne comme expliquer [ci-dessus](#supprimer-un-utilisateur-dun-espace-de-travail).
 2. Maintenant, veuillez ajouter l'utilisateur de nouveau en utilisant les nouveaux droits d'accès.(Consultez la section [Ajouter un utilisateur d'un projet](#ajouter-un-utilisateur-dun-projet) pour en savoir plus.)
@@ -668,7 +673,7 @@ Il exist trois niveau d'authorisation qui peuvent être accordés à un utilisat
 	- Configurer le tableau de bord. Des informations supplémentaires sur la configuration du tableau de bord se trouve [ici](#configurer-le-tableau-de-bord).
 5. Pour enregistrer vos changements, veuillez cliquer sur le bouton <img src=" images/bt_update_project.png" height="20" align="top" alt='update project'></img>.
 
-### Modifier les paramètres de projet
+### Modifier le tableau du bord
 
 Des tableaux de bord configurés individuellement sont disponibles pour chaque projet, fournissant instantanément des informations détaillées sur le projet. Pour modifier le tableau de bord, veuillez suivrer les instructions ci-dessous.
 1. Veuillez ouvrir la page des paramètres du projet comme indiqué [ci-dessus](#modifier-les-paramètres-de-projet).
@@ -697,11 +702,11 @@ Des tableaux de bord configurés individuellement sont disponibles pour chaque p
 	<i>Remarque: Vous avez seulement créé une page vide. Pour ajouter des éléments à votre page, voir la section [ajouter des éléments à une page](#ajouter-des-éléments-à-une-page).</i>
 </span>
 
-### Update a Dashboard Page
+### Mettre à jour une page de tableau de bord
 1. Pour modifier une page existante, veuillez cliquer sur l'icône <img src=" images/icon_pencil_black.png" height="20" align="top" alt='pencil '></img>. 
 2. Dans la page qui saffiche vous pouvez modifier le nom de la page et l'ordre de la page.
 
-#### Add an Element to a Page
+#### Ajouter un élément à une page
 To add an
 
 4. [Gérer un projet](#4-gérer-un-projet)
