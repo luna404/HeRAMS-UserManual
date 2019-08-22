@@ -1,34 +1,32 @@
 # I. Introductions
-Welcome to the HeRMAS User Manual. This manual was designed for users of the [HeRAMS plateform](https://herams.org/login) and aims to proivde essential information
-on key components of the plateform. The first two chapters are intended for any user and include step-by-step description on how
-to access the platfrom and brief overview on the HeRMAS project dashboards. Chapter three provides a brief introduction on data editing. 
-The remaining chapters of this guide are intendet for in-country administrators of HeRAMS project and cover topics such as user management,
+Welcome to the **HeRAMS User Manual**. This manual was designed for users of the [HeRAMS platform](https://herams.org/login) and aims to proivde essential information
+on key components of the platform. The first two chapters are intended for all users and include step-by-step descriptions on how
+to [access the HeRAMS platform](#1-login--user-profile) as well as a brief overview on the HeRAMS project [dashboards](#2-explore-data). [Chapter 3](#3-edit-data) provides a brief introduction on data editing. 
+[Chapter 4](#4-herams-administration) of this guide is intended for in-country administrators of HeRAMS projects and covers topics such as user management,
 dashboard configuration and other functionalities expected to be carried out by administrators. 
 
 # II. Table of Content
 
 1. [Login & User Profile](#1-login--user-profile)
 	 - [Login](#login)
-	   - [New User](#new-user)
 	   - [Rest Password](#rest-password)
 	   - [Logout](#logout)
 	  - [User Profile](#user-profile)
 		- [Register (Create a User Account)](#register-create-a-user-account)
 		- [Update your User Profile](#update-your-user-profile)
-		- [Change Password](#Change-password)
+		- [Change Password](#change-password)
 		- [Add a Profile Picture](#add-a-profile-picture)	
 2. [Explore Data](#2-explore-data)
 	 - [Worldview](#worldview)
-	 - [Project Summary](#project-summary)
 	 - [Dashboard](#dashboard)
-		- [Apply filters](#apply-filters)
+		- [Customizing the dashboard](#customizing-the-dashboard)
 		- [Default Dashboard Pages](#default-dashboard-pages)
 	 - [Download data](#download-data)
 		- [Download the entire data set](#download-the-entire-dataset)
 		- [Data Encoding in Excel](#data-encoding-in-excel)
-3. [Edit Data](#edit-data)
+3. [Edit Data](#3-edit-data)
 	- [Access the Data Edit Interface](#access-the-data-edit-interface)
-	- [Edit a Health Facility](#edite-a-health-facility)
+	- [Edit a Health Facility](#edit-a-health-facility)
 	- [Update a Health Facility](#update-a-health-facility)
 	- [Register a new Health Facility](#register-a-new-health-facility)
 	- [Delete a Health Facility](#delete-a-health-facility)
@@ -38,16 +36,21 @@ dashboard configuration and other functionalities expected to be carried out by 
 		- [Add a User to a Workspace](#add-a-user-to-a-workspace)
 		- [Remove a User from a workspace](#remove-a-user-from-a-workspace)
 		- [Alter a user's Permission to a Workspace](#change-a-users-workspace-permission)
-		- [Create New Workspaces](#create-a-new-workspace)
-		- [Import Workspaces](#import-workspaces)
-		- [Delete Workspaces](#delete-workspaces)
-	- [Projects](#)
-		- [Project Permissions](#)
+		- [Create a New Worksapce](#create-a-new-worksapce)
+		- [Delete a Workspaces](#delete-a-workspace)
+	- [Projects](#projects)
+		- [Project Permissions](#project-permissions)
 		- [Add a User to a Project](#add-a-user-to-a-project)
 		- [Remove a User from a Project](#remove-a-user-from-a-project)
-		- [Alter a User's Permission to a Project](#alter-a-users-permission-to-a-workspace)
-		- [Edit Project Settings](#alter-project-settings)
-		- [Configure the Project Dashboard](#configure-the-project-dashboard)
+		- [Change a User's Project Permissions](#change-a-users-project-permissions)
+		- [Modify a Project](#modify-a-project)
+	- [Configure the Project Dashboard](#configure-the-project-dashboard)
+		- [Add a New Dashboard Page](#add-a-new-dashboard-page)
+		- [Update a Dashboard Page](#update-a-dashboard-page)
+		- [Delete a Dashboard Page](#delete-a-dashboard-page)
+		- [Add an Element to a Page](#add-an-element-to-a-page)
+		- [Modify an Element on a page](#modify-an-element-on-a-page)
+		- [Remove an elements or pages from the dashboard](#)
 5. [FAQ](#faq)
 
 #	 1. Login & User Profile
@@ -127,7 +130,7 @@ To logout, click the  <img src="media/images/bt_logout.png" height="20" align="t
 	<img src="media/videos/HeRAMS_create_account.gif" alt="HeRAMS Register" height="300"/></img>
 </p>
 
-#### Update you User Profile 
+#### Update your User Profile
 Each user has a profile associated with their account. This permits you do make any changes to your account (e.g. change your email address or password) without additional support.
 
 1. To update your user profile or account details (i.e. email and password), click on your username on the top right corner of the screen.  
@@ -514,7 +517,7 @@ If HeRAMS is used as a monitoring tool, you can update the record without losing
 
 # 4. HeRAMS Administration
 
-This chapter aims to provide an overview of the admin pages in HeRMAS and provides step-by-step instruction for common tasks conducted by advanced users and local administrators. 
+This chapter aims to provide an overview of the admin pages in HeRAMS and provides step-by-step instruction for common tasks conducted by advanced users and local administrators. 
 The first part of the chapter is dedicated to the concept and management of [Workspaces](#workspaces) while the second part focuses on [project](#projects) level administration as well as the configuration of project specific [dashboards](#configure-the-project-dashboard). 
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -668,12 +671,12 @@ Tere are three permission levels that a user can be granted to a project.
 1. To remove a user from a Project, follow the steps 1-4 outlined in the [previous section](#add-a-user-to-a-project) to access the project from which you would like to remove a user.
 2. On the second half of the screen you should now see a list of all users having access to the workspace. Click the <img src="media/images/icon_delete_red.png" height="20" align="top" alt='bin'></img> icon to remove the user permanently. 
 
-#### Change a User's Project Permission
+#### Change a User's Project Permissions
 
 1. To change a user's permission, remove the user from the project as outlined [above](#remove-a-user-from-a-project).
 2. Now add the user again using the new permission level envisioned (see section [Add a User to a Project](#add-a-user-to-a-project) for details).
 
-#### Edit Project Settings
+#### Modify a Project
 
 1. To update the general settings of a project, open the admin interface by clicking the <img src="media/images/icon_settings.png" height="20" align="top" alt='settings'></img> button in the top right corner of the screen.
 2. In the navigation pane on the left, click [Projects](https://herams.org/project/index) to open the project overview page.
@@ -697,7 +700,7 @@ Individually configured dashboards are available for each project, providing an 
 	<img src="media/videos/HeRAMS_dashboard_pages.png" alt="dashboard pages" height="300"></img>
 </p>
 
-#### Add a New Page
+#### Add a New Dashboard Page
 1. To create a new page, open the [project's settings](#edit-project-settings) page and click the <img src="media/images/bt_create_page.png" height="20" align="top" alt='create page'></img> button.
 2. You should now see a page similar to the one displayed below. 
 
@@ -724,6 +727,11 @@ Individually configured dashboards are available for each project, providing an 
 ### Delete a Dashboard Page
 
 To delete a dashbaord page, click the <img src="media/images/icon_delete_black.png" height="20" align="top" alt='pencil '></img> icon.
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="media/images/icon_warning.png" height="20" align="top" alt='tip'></img>
+	<i>Note: Deleting dashboard pages and elements cannot be undone. Be careful when deleting pages or elements.</i>
+</span>
 
 #### Add an Element to a Page
 
@@ -769,7 +777,7 @@ Users with the permissions to edit dashbaords can modify charts and maps directl
 	<img src="media/videos/HeRAMS_edit_dashboard_element.gif" alt="create new page" height="300"></img>
 </p>
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
 	<i>Note: Dashboard elements can also be edited from the  [Add an Element to a Page](#add-an-elements-to-a-page).</i>
 </span>
