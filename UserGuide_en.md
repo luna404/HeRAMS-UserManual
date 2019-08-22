@@ -54,10 +54,12 @@ dashboard configuration and other functionalities expected to be carried out by 
 5. [FAQ](#faq)
 
 #	 1. Login & User Profile
-
+This chapter provides step-by-step instructions on how to access the HeRAMS platform, create a user acount and update your user profile. 
 ### Login
-To access the HeRAMS platform, follow the instruction below.
-1. Open the link https://herams.org in your browser of choice. 
+New users without an existing account, will have to create an account before being able to log on to HeRAMS. 
+To create your user account in [HeRAMS](https://herams.org/login), follow the instruction in section [Register](#register-create-a-user'account) further below. 
+
+1. To access the HeRAMS platform, open the link https://herams.org in your browser of choice. 
 
 <p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
@@ -65,8 +67,6 @@ To access the HeRAMS platform, follow the instruction below.
 </p>
 
 2. A pop-up window will appear prompting you to enter your username (email) and password. 
-New users without an existing account, will have to create an account before being able to log on to HeRAMS. 
-To create your user account in [HeRAMS](https://herams.org/login), follow the instruction in section [Register](#register-create-a-user'account). 
 3. Enter you username (email) and password in the designated fields and click the <img src="media/images/bt_login.png" height="20" align="top" ></img> button. 
 4. Click the <img src="media/images/bt_submit_en.png" height="20" align="top" alt="Submit"></img> to login. 
 
@@ -76,15 +76,15 @@ To create your user account in [HeRAMS](https://herams.org/login), follow the in
 
 #### Rest Password
 
-In case you forgot your password, follow the instructions below to reset your password. 
+In case you forgot your password, the instruction below will guide through the steps to reset your password. 
 
 1. To reset your password, open the link [https://herams.org](https://herams.org) in your browser.
-2. On the sign in page, click the [Reset password](https://herams.org/user/forgot) link.
+2. On the sign in page, click the [Reset password](https://herams.org/user/forgot) link located below field to enter your password.
 3. Enter your email address in the top field.
 4. Below the email field, you should see a Captcha image similar to the one displayed here <img src="media/images/img_captcha.png" height="20" align="top" alt="Submit"></img>.
 Enter the the characters displayed into the field below. 
 5. Click the <img src="media/images/bt_submit_en.png" height="20" align="top" alt="Submit"></img> button.
-6. An automated email will be sent to your account containing a link that allows you to enter a new password. 
+6. An automated email will be sent to you, containing a link that allows you to enter a new password. 
 
 <p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
@@ -104,11 +104,13 @@ Enter the the characters displayed into the field below.
 To logout, click the  <img src="media/images/bt_logout.png" height="20" align="top" alt="Log out"></img> button in the top right corner of your screen. 
 
 ### User Profile
+Each user has a profile associated with their account. This permits you do make any changes to your account (e.g. change your email address or password) without additional support.
+
 
 #### Register (Create a User Account)
 
 1. To register as a new user, open the link [https://herams.org](https://herams.org) in your browser.
-2. On the sign-in page, click the [sign-up](https://herams.org/user/register) link.
+2. On the sign-in page, click the [sign-up](https://herams.org/user/register) link located just above the <img src="media/images/bt_login.png" height="20" align="top" ></img> button.
 3. On the page that opens, enter your name, email and password. 
 
 <p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -131,7 +133,6 @@ To logout, click the  <img src="media/images/bt_logout.png" height="20" align="t
 </p>
 
 #### Update your User Profile
-Each user has a profile associated with their account. This permits you do make any changes to your account (e.g. change your email address or password) without additional support.
 
 1. To update your user profile or account details (i.e. email and password), click on your username on the top right corner of the screen.  
 2. This opens your [user profile](https://herams.org/user/settings/profile) and allows you to change your personal information such as your name, organization and contact details. 
@@ -170,7 +171,7 @@ You can further personalize your account by adding a profile picture. In order f
 
 3. You will be prompted to login to your [Worldpress](https://wordpress.com/log-in) account. If you don't already have a Worldpress account, follow the instructions to create a new account.
 4. Once logged in, open the **Manage Gravatars** tab and upload your image.
-5. In the **My Gravatars** tab you should now be able to assign the image to email address you used to register on the HeRAMS platform.  add your name and details on the **My Profile** tab.
+5. In the **My Gravatars** tab you should now be able to assign the image to email address you used to register on the HeRAMS platform. 
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
@@ -183,12 +184,12 @@ You can further personalize your account by adding a profile picture. In order f
 
 ### Worldview
 
-Upon login in, you should see a world map. Each blue dot on the map represents a single HeRAMS project.You can also see the list of all available projects in the navigation pane on the left.
-In addition, a brief summary on the number of projects available in HeRAMS, the total number of contributors and health facilities is shown on the bottom left corner.
+Upon login in, you should see a world map with several blue dots. Each of these dots represents a HeRAMS project.You can also see the list of all available projects in the navigation pane on the left.
+In addition, a brief summary on the number of projects available in HeRAMS, the total number of contributors and health facilities is shown in the bottom left corner.
 
 1. To learn more about a project, either click on the blue dot on the world map or select the project from the navigation pane on the left. 
-2. You should now see a pop-up window displaying an overview of the selected project. In the upper part of the pop-up you see the project name, the number of health facilities assessed and the number of contributors, 
-while the lower half of the pop-up window displays a brief summary on the distribution of health facility types, their functinality and service availability.
+2. You should now see a pop-up window displaying an overview of the selected project. In the upper part of the pop-up you can see the project name, the number of health facilities assessed and the number of contributors, 
+while the lower half of the pop-up window displays a brief summary of the distribution of health facility types, their functionality and service availability.
 3. For further details, click the <img src="media/images/bt_details.png" height="20" align="top" alt="details"></img> button. This will open the project dashboard.
 
 <p align="center">
@@ -197,10 +198,11 @@ while the lower half of the pop-up window displays a brief summary on the distri
 
 ### Dashboard
 
-Each project in HeRAMS has a custom dashboard that enabiling users to explore the availabile information in depth.
-1. To display a dashboard, first open the project summary by selecting your project either form the navigation pane on the left or by clicking on the corresponding dot on the world map.
-2. In the pop-up window, click the <img src="media/images/bt_details.png" height="20" align="top" alt="details"></img>  button. This will open the project dashbaord.
-3. You should now see a page similar to the one shown below. In the navigation pane on the left you see all available pages of the dashbaord. Click on the name of the page to open the page.
+Each project in HeRAMS has a custom dashboard that enabeling users to explore the available data in more depth.
+1. To view a project dashboard, open the project summary by selecting your project form the navigation pane on the left. Alternatively you can open the project summary by clicking the corresponding blue dot on the world map.
+2. In the pop-up window, click the <img src="media/images/bt_details.png" height="20" align="top" alt="details"></img>  button. This will open the project dashboard.
+3. You should now see a page similar to the one shown below. In the navigation pane on the left you will find a list of all available pages. 
+4. To open a page, click the page name in the navigation pane. 
 
 <p align="center">
 	<img src="media/images/HeRAMS_dashboard_overview.png" alt="HeRAMS Register" height="300"/></img>
@@ -208,11 +210,11 @@ Each project in HeRAMS has a custom dashboard that enabiling users to explore th
 
 <p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: Some page may contain sub-pages, indicated by a **>** next to the page's name.</i>
+	<i> Tip: Some page may contain sub-pages, indicated by a <b>>*</b> next to the page's name.</i>
 </p>
 
-4. To return to a previous page, you can either select the page in the navigation pane on the left, or use the breadcrumb trail on top of the dashbaord. 
-For example, the image below displays a sub-page of the Nigera dashboard. To return to the first page of the dashbaord, click on *Nigeria* in the navigation pane. 
+5. To return to a previous page, you can either select the page in the navigation pane on the left, or use the breadcrumb trail on top of the dashboard. 
+For example, the image below displays a sub-page of the Nigera dashboard. To return to the first page of the dashboard, click on *Nigeria* in the navigation pane. 
 
 <p align="center">
 	<img src="media/images/HeRAMS_navigation_pane.png" alt="HeRAMS Register" height="40"/></img>
@@ -225,7 +227,6 @@ For example, the image below displays a sub-page of the Nigera dashboard. To ret
 #### Customizing the dashboard
 
 This section provides a few tips and tricks on how to customize the dashboard (e.g. by applying filters or limit the number of structures displayed on a map).
-
 
  - ***Pop-ups***: If you hover over a point on the map or the chart, you will see a pop-up appearing displaying further information.
  - ***Remove items for charts or maps***: By clicking on the icons in the legends, you can remove items from a chart or map.  To add it again, simply click the circle again.
@@ -252,7 +253,7 @@ Each page refers to a HeRAMS standard information pillar. However, adaptation mi
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
-	<i> Please note that the order and the content of dashbaords is customized based on the needs for individual projects. Your dashbaord might therefore by substantially different from the example pages displayed below. </i>
+	<i> Please note that the order and the content of dashboards is customized based on the needs for individual projects. Your dashboard might therefore by substantially different from the example pages displayed below. </i>
 </p>
 
 <details>
@@ -310,7 +311,7 @@ The functionality page displays the level of functionality status of the MoSDs f
 -	A map to spot the distribution and number of MoSDs according to the functionality status
 -	Donut charts to summarize 
 	- The level of functionality 
-	- Main causes of non-functinality
+	- Main causes of non-functionality
 -	A table displays the list of priority areas in terms of non-functional health facilities and reported causes. 
 
 <p align="center">
@@ -624,7 +625,7 @@ The [project](#https://herams.org/project/index) page provides a brief overview 
 For each project the number of workspace, contributors, health facilities, and responses is displayed. The last column provides a series of action buttons. 
 
 - <img src="media/images/icon_workspace.png" height="20" align="top" alt='workspace'></img>**Workspaces**: For more information on workspaces click [here](#workspace).
-- <img src="media/images/icon_dashboard.png" height="20" align="top" alt='dashboard'></img>**Dashboard**: By clicking the icon, the project [dashboard](#dashbaord) will be opened. If the button is not visible, you do not have the necessary permissions to access the dashboard where it has not yet been created. [Dashboard](#dashbaord) 
+- <img src="media/images/icon_dashboard.png" height="20" align="top" alt='dashboard'></img>**Dashboard**: By clicking the icon, the project [dashboard](#dashboard) will be opened. If the button is not visible, you do not have the necessary permissions to access the dashboard where it has not yet been created. [Dashboard](#dashboard) 
 - <img src="media/images/icon_pencil_black.png" height="20" align="top" alt='update project'></img>**Edit**: Permits users with appropriate permission to update a project's [general settings](#project-settings) as well as to configure the project [dashboard](#configure-the-project-dashboard). 
 - <img src="media/images/icon_check_data.png" height="20" align="top" alt='check data'></img>**Check Data**: Can be used for a quick review of the data to identify invalid responses.
 - <img src="media/images/icon_share.png" height="20" align="top" alt='share'></img>**Share**: The sharing function is used to grant users access to a project. See [below](#add-a-user-to-a-project) for further details [Share](#) the entire project.
@@ -687,7 +688,7 @@ Tere are three permission levels that a user can be granted to a project.
 	- Change the centroids (latitude and longitude) used on the world map.
 	- Update the status of the project 
 	- Configure the pop-up information displayed on the main page.
-	- Congifure the project dashboard. Additional information on how to configure the project dashboard is available [here](#configure-dashbaord).
+	- Congifure the project dashboard. Additional information on how to configure the project dashboard is available [here](#configure-dashboard).
 5. Make sure you save your changes by clicking the <img src="media/images/bt_update_project.png" height="20" align="top" alt='update project'></img>  button.
 
 ### Configure the Project Dashboard
@@ -726,7 +727,7 @@ Individually configured dashboards are available for each project, providing an 
 
 ### Delete a Dashboard Page
 
-To delete a dashbaord page, click the <img src="media/images/icon_delete_black.png" height="20" align="top" alt='pencil '></img> icon.
+To delete a dashboard page, click the <img src="media/images/icon_delete_black.png" height="20" align="top" alt='pencil '></img> icon.
 
 <p align="center">
 	<img src="media/images/icon_warning.png" height="20" align="top" alt='tip'></img>
@@ -767,7 +768,7 @@ For charts, you can increase/decrese the marker size by changing the **Marker Ra
 
 #### Modify an Element on a page
 
-Users with the permissions to edit dashbaords can modify charts and maps directly from within the dashboard. 
+Users with the permissions to edit dashboards can modify charts and maps directly from within the dashboard. 
 1. Open the dashboard and navigate to the element you would like to change. 
 2. Click the <img src="media/images/icon_edit_dashboard.png" height="20" align="top" alt='pencil '></img> icon in the top right corner of the card element.
 3. In the page that appears you will be able to change the chart or map settings.
@@ -790,7 +791,7 @@ To remove elements form a page, return to the dashbo
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i>Note: Be careful deleting dashbaord elements. Deleted elements cannot be restore.</i>
+	<i>Note: Be careful deleting dashboard elements. Deleted elements cannot be restore.</i>
 </p>
 
 
