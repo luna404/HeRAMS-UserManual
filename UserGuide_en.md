@@ -608,10 +608,10 @@ There are two permission levels that a user can be granted to a workspace. Users
 
 1. You can remove a workspace by clicking the <img src="media/images/icon_delete_black.png" height="20" align="top" alt='bin'></img> icon in the action column next to the workspace in question.
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
 	<i>Note: Deleting workspace will not affect the underlying data. See the previous chapter to learn how to permanently delete health facilities)= on deleting record for details on how to permanently [remove health facilities](#delete-a-health-facility).</i>
-</span>
+</p>
 
 ### Projects
 
