@@ -210,14 +210,14 @@ Each project in HeRAMS has a custom dashboard that enabeling users to explore th
 
 <p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: Some page may contain sub-pages, indicated by a <b>>*</b> next to the page's name.</i>
+	<i> Tip: Some page may contain sub-pages, indicated by a <img src="media/images/icon_forward.png" height="20" align="top" alt="forward"></img> icon next to the page's name.</i>
 </p>
 
 5. To return to a previous page, you can either select the page in the navigation pane on the left, or use the breadcrumb trail on top of the dashboard. 
-For example, the image below displays a sub-page of the Nigera dashboard. To return to the first page of the dashboard, click on *Nigeria* in the navigation pane. 
+For example, the image below displays a sub-page of the Nigeria dashboard. To return to the first page of the dashboard, click on *Nigeria* in the navigation pane. 
 
 <p align="center">
-	<img src="media/images/HeRAMS_navigation_pane.png" alt="HeRAMS Register" height="40"/></img>
+	<img src="media/images/HeRAMS_navigation_pane.png" alt="HeRAMS Register" height="30"/></img>
 </p>
 
 <p align="center">
@@ -228,28 +228,39 @@ For example, the image below displays a sub-page of the Nigera dashboard. To ret
 
 This section provides a few tips and tricks on how to customize the dashboard (e.g. by applying filters or limit the number of structures displayed on a map).
 
- - ***Pop-ups***: If you hover over a point on the map or the chart, you will see a pop-up appearing displaying further information.
+ - ***Mouseover messages***: If you hover with your mouse over a point on the map or the chart, you will see a small pop-up message appearing displaying further information.
+ - ***Adjust the map zoom level and focus area***: You can adjsut the zoom level of the maps using the scroll button on your mouse. In addtion, you can change the focus area of the map. 
+ Make sure your mouse is located in the map element. Right click and then drag the map in the desired direction. This will move the map focus area.
  - ***Remove items for charts or maps***: By clicking on the icons in the legends, you can remove items from a chart or map.  To add it again, simply click the circle again.
- - ***Reorder map elements***: If the map is zoomed out, it might happen that several points lay on top of each other. To bring a specific category to the front, un-check the category in the legend.
+ - ***Reorder map elements***: If the map is zoomed out, it might happen that several points lay on top of each other. To bring a specific category to the front, uncheck the category in the legend. This will remove the category from the map. If you add the category back (click the now empty circle), the category will be added on top of the other points.
  
  <p align="center">
-	<img src="media/videos/HeRAMS_dashboard_remove_reorder_items.gif" alt="remove/reoder items" height="40"/></img>
+	<img src="media/videos/HeRAMS_dashbaord_remove_add.gif" alt="remove/reoder items" height="40"/></img>
 </p>
  
- This will remove the category from the map. Now click the legend icon again to add the category again. This will add the category as the top layer.
- - ***Apply filters***: Further explore the data by applying custom filters.
-   1. Click the <img src="media/images/bt_filter.png" height="20" align="top" alt='filter'></img>  button in the top right corner of the dashboard.
-   2. You should now see the filter configuration page. Use the drop-down list to select your filter criteria. 
+ - ***Apply filters***: You can further customize the dashboard and explore the data by applying filters.
+   1. In the top right corner of the dashboard, click the <img src="media/images/bt_filter.png" height="20" align="top" alt='filter'></img>  button.
+   2. You should now see the filter configuration page. Use the drop-down list to select your filter criteria. Repeat this process until you have added all the desired filter criteria.
+
+   <p align="center">
+	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
+	<i> Note: If you apply multiple search criteria, only results that contain all terms will be shown.</i>
+</p>   
+
+<p align="center">
+	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
+	<i> Note: You can limit the number of fields displayed using the search filed on top of the page.</i>
+</p>
+
    3. Click the <img src="media/images/bt_apply_filter.png" height="20" align="top" alt='apply'></img> button to activate your filter.
 
 <p align="center">
-	<img src="media/videos/HeRAMS_dashboard_filters.gif" alt="dashboard navigation" height="300"/></img>
+	<img src="media/videos/HeRAMS_dashbaord_filters.gif" alt="dashboard filters" height="300"/></img>
 </p>
 
 #### Default dashboard pages
 
-The below section provides an overview of the standard pages that are present in each dashboard. 
-Each page refers to a HeRAMS standard information pillar. However, adaptation might have been made based on local needs. Your dashboard might therefore be substantially different from the default pages presented here. 
+The below section provides an overview of the standard pages available in a dashboard. Each page refers to a HeRAMS standard information pillar.
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
@@ -262,9 +273,14 @@ Each page refers to a HeRAMS standard information pillar. However, adaptation mi
 
 The overview page provides a summary, in form of: 
 -  A map to spot the distribution and number of health facilities by level of care (e.g. 
-	- secondary and tertiary care: hospitals
-	- primary health Care: health centres, clinics and health posts, camp and mobile clinic)
--  Donut charts to summarize different indicators, such as level of damage, functionality status, accessibility and service availability in the assessed MoSDs, which is country specific
+	- secondary and tertiary care (i.e. hospitals)
+	- primary health care faciltiies such as health centers, clinics and health posts, camp and mobile clinic).
+-  Donut charts to summarize different indicators, such as level of damage, functionality status, accessibility and service availability in the assessed health facility.
+
+<p align="center">
+	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
+	<i> Note: Note that service availability is country specific. Thus, direct comparisons form one country to another should be avoided.</i>
+</p>
 
 <p align="center">
 	<img src="media/images/HeRAMS_dashboard_overview.png" alt="Overview" height="300"></img>
