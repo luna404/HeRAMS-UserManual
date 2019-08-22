@@ -59,10 +59,10 @@ dashboard configuration and other functionalities expected to be carried out by 
 To access the HeRAMS platform, follow the instruction below.
 1. Open the link https://herams.org in your browser of choice. 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> Tip: It is recommended to user either FireFox or Chrome. </i>
-</span>
+</p>
 
 2. A pop-up window will appear prompting you to enter your username (email) and password. 
 New users without an existing account, will have to create an account before being able to log on to HeRAMS. 
@@ -599,16 +599,16 @@ There are two permission levels that a user can be granted to a workspace. Users
 4. Enter the name of the workspace into the title field. 
 5. Use the dropdown list to select the corresponding **Token** or select *Create new token* in order to create a new token.
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
 	<i>Note: Tokens are unique identifiers that link health facilities to workspaces. To add a health facility to a workspace the token of the record in question has to be manually changed. Contact your system administrator for guidance on how to change a record's token.</i>
-</span>
+</p>
 
 #### Delete Worksapces
 
 1. You can remove a workspace by clicking the <img src="media/images/icon_delete_black.png" height="20" align="top" alt='bin'></img> icon in the action column next to the workspace in question.
 
-<p align="center">
+<p align="center"
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
 	<i>Note: Deleting workspace will not affect the underlying data. See the previous chapter to learn how to permanently delete health facilities)= on deleting record for details on how to permanently [remove health facilities](#delete-a-health-facility).</i>
 </p>
