@@ -86,10 +86,10 @@ Enter the the characters displayed into the field below.
 5. Click the <img src="media/images/bt_submit_en.png" height="20" align="top" alt="Submit"></img> button.
 6. An automated email will be sent to your account containing a link that allows you to enter a new password. 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> Tip: If you haven't received an email, make sure to check your spam folder.</i>
-</span>
+</p>
 
 7. Open the link and enter your new password.
 8. Click the <img src="media/images/bt_submit_en.png" height="20" align="top" alt="Submit"></img>  button to confirm your new password. 
@@ -111,18 +111,18 @@ To logout, click the  <img src="media/images/bt_logout.png" height="20" align="t
 2. On the sign-in page, click the [sign-up](https://herams.org/user/register) link.
 3. On the page that opens, enter your name, email and password. 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
 	<i> Please note that your email acts as username.</i>
-</span>
+</p>
 
 4. Submit your information by clicking the <img src="media/images/bt_sign_up.png" height="20" align="top"></img> button. 
 5. A confirmation email will be sent to the email address you use to register with. 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> Tip: If you haven't received a confirmation email, make sure to check your spam folder.</i>
-</span>
+</p>
 
 6. Confirm your registration by clicking on the link in your email.
 
@@ -136,10 +136,10 @@ Each user has a profile associated with their account. This permits you do make 
 1. To update your user profile or account details (i.e. email and password), click on your username on the top right corner of the screen.  
 2. This opens your [user profile](https://herams.org/user/settings/profile) and allows you to change your personal information such as your name, organization and contact details. 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> Please note that first name, last name and organization are mandatory.</i>
-</span>
+</p>
 
 #### Change Password
 
@@ -156,10 +156,10 @@ Each user has a profile associated with their account. This permits you do make 
 
 You can further personalize your account by adding a profile picture. In order for your profile picture to appear, you will have to register your email address at [Gravatar](https://en.gravatar.com/). 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> For more information on Gravatar, click [here](https://fr.gravatar.com/support/what-is-gravatar/).</i>
-</span>
+</p>
 
 1. Open you user profile by clicking on your name in the upper right corner of your screen.
 2. Click on [Gravatar](https://en.gravatar.com/) link shown in the image below.
@@ -172,10 +172,10 @@ You can further personalize your account by adding a profile picture. In order f
 4. Once logged in, open the **Manage Gravatars** tab and upload your image.
 5. In the **My Gravatars** tab you should now be able to assign the image to email address you used to register on the HeRAMS platform.  add your name and details on the **My Profile** tab.
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> Note: It might take a few minutes before your gavatar appears on your HeRAMS profile.</i>
-</span>
+</p>
 
 
 
@@ -206,10 +206,10 @@ Each project in HeRAMS has a custom dashboard that enabiling users to explore th
 	<img src="media/images/HeRAMS_dashboard_overview.png" alt="HeRAMS Register" height="300"/></img>
 </p>
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> Tip: Some page may contain sub-pages, indicated by a **>** next to the page's name.</i>
-</span>
+</p>
 
 4. To return to a previous page, you can either select the page in the navigation pane on the left, or use the breadcrumb trail on top of the dashbaord. 
 For example, the image below displays a sub-page of the Nigera dashboard. To return to the first page of the dashbaord, click on *Nigeria* in the navigation pane. 
@@ -250,10 +250,10 @@ This section provides a few tips and tricks on how to customize the dashboard (e
 The below section provides an overview of the standard pages that are present in each dashboard. 
 Each page refers to a HeRAMS standard information pillar. However, adaptation might have been made based on local needs. Your dashboard might therefore be substantially different from the default pages presented here. 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> Please note that the order and the content of dashbaords is customized based on the needs for individual projects. Your dashbaord might therefore by substantially different from the example pages displayed below. </i>
-</span>
+</p>
 
 <details>
 	<summary><b><i>Page 1:</b> Overview</i>
@@ -391,28 +391,28 @@ For more in-depth analysis, data of individual workspaces can be donwloaded as C
 1. Go to the workspace page of your project(see [Access the Data Edit Interface](#Access the Data Edit Interface) steps 1-4 for detailed instructions).
 2. In the rightmost column, click the <img src="media/images/icon_download.png" height="20" align="top" alt='New record'></img> button. This will download all records (MoDS) of this workspace.
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> Tip: For surveys that not in English make sure correctly define the encoding when opening the data in Excel (see [Data Encoding in Excel](#data-encoding-in-excel) for details).</i>
-</span>
+</p>
 
 #### Download the entire dataset
 
 Coming soon
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> Note: Users are adviced to downlaod data for individual workspace as outlined above. The ability to download the entire data set is restricted to few users. Contact your system administrator for further information.</i>
-</span>
+</p>
 
 #### Data Encoding in Excel
 
 When you open your data in Excel, it is important to select the correct encoding. 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> Tip: An indication of the wrong encoding is if your data contains weir character such as *Ã©*. For examples instead of *camp de réfugiés* you get *Camp de rÃ©fugiÃ©s*.</i>
-</span>
+</p>
 
 
 1. Open a new Excel file.
@@ -441,17 +441,17 @@ The below steps guide through though the admin interface to access the data edit
 3. You should now see a table of all available projects. For each project, the table displays the number workspaces, contributors, and health facilities. 
 4. In the rightmost column, click the workspace <img src="media/images/icon_workspace.png" height="20" align="top" alt='workspace'></img> icon. This will open the list of available workspace.
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> Note:Workspace are used in HeRAMS to manage access permission to data. A workspace might for example constitute a specific organization or a geographic region. This system allows to tailor access rights for individual purposes. For more information on workspace click [here](#workspace).</i>
-</span>
+</p>
 
 5. To view the health facilities that are part of a specific workspace, click the <img src="media/images/icon_update_data.png" height="20" align="top" alt='Edit data'></img> icon in the *Action* column. 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> Tip: Be aware that a workspace might have multiple pages. Use the **>>** to move to the next page or filter the workspaces by typing the workspace name in the field below the header row.</i>
-</span>
+</p>
 
 <p align="center">
 	<img src="media/images/HeRAMS_workspace_filter.png" alt="HeRAMS Worldview" height="300"></img>
@@ -465,17 +465,17 @@ The below steps guide through though the admin interface to access the data edit
 
 ### Edit a Health Facility
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> Please note that editing a record will override the existing record. If you would like to update the status of a MoDS while keeping a record of the changes might, follow the instructions in the section below.</i>
-</span>
+</p>
 
 1. To edit a record click the <img src="media/images/icon_pencil_blue.png" height="20" align="top" alt='pencil'></img>  icon in the left most column. 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> Tip: Be aware that a table might have multiple pages. Use the button in the button left corner to go to the next page. You can also reduce the number of records displayed by applying filters.</i>
-</span>
+</p>
 
 <p align="center">
 	<img src="media/images/HeRAMS_data_update_interface.png" alt="HeRAMS Worldview" height="300"></img>
@@ -489,10 +489,10 @@ The below steps guide through though the admin interface to access the data edit
 
 If HeRAMS is used as a monitoring tool, you can update the record without losing the records history. 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> Please note that the ability to update records is not enabled in all projects. Contact your system administrator for further information.</i>
-</span>
+</p>
 
 1. To update the status of a Health Facility, use the <img src="media/images/icon_update_blue.png" height="20" align="top" alt='update'></img>  button to open the record.
 2. Use the two button on the bottom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specfic section of the questionnaire.
@@ -510,20 +510,20 @@ If HeRAMS is used as a monitoring tool, you can update the record without losing
 
 1. To delete a record, click the <img src="media/images/icon_delete_blue.png" height="20" align="top" alt='delete'></img> icon in the first column. 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_warning.png" height="20" align="top" alt='warning'></img>
 	<i> Note: Deleting records cannot be undone. Be careful when deleting a record.</i>
-</span>
+</p>
 
 # 4. HeRAMS Administration
 
 This chapter aims to provide an overview of the admin pages in HeRAMS and provides step-by-step instruction for common tasks conducted by advanced users and local administrators. 
 The first part of the chapter is dedicated to the concept and management of [Workspaces](#workspaces) while the second part focuses on [project](#projects) level administration as well as the configuration of project specific [dashboards](#configure-the-project-dashboard). 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> Note: Access to each of the sub-sections of this chapter are depending on the tasks a users is expected to complete. If you require your permissions to be changed, please contact your system administrator.</i>
-</span>
+</p>
 
 ### Workspaces
 
@@ -542,7 +542,7 @@ While most users only have access to a single workspace, local administrators mi
 <span align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> The number of buttons visible to you depend on your access rights and might vary from one workspace to another.</i>
-</span>
+</p>
 
 #### Workspace Permissions
 
@@ -565,10 +565,10 @@ There are two permission levels that a user can be granted to a workspace. Users
 
 7. In the top half the page you have the option to add a user. Start typing the users name in the top field. You will notice that the list of users is dynamically filtering. Select the user you would like to add.
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i>Tip: You can add multiple users add once as shown in the image above.</i>
-</span>
+</p>
 
 <p align="center">
 	<img src="media/images/HeRAMS_workspace_share.png" alt="Overview" height="300"></img>
@@ -608,7 +608,7 @@ There are two permission levels that a user can be granted to a workspace. Users
 
 1. You can remove a workspace by clicking the <img src="media/images/icon_delete_black.png" height="20" align="top" alt='bin'></img> icon in the action column next to the workspace in question.
 
-<p align="center"
+<p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
 	<i>Note: Deleting workspace will not affect the underlying data. See the previous chapter to learn how to permanently delete health facilities)= on deleting record for details on how to permanently [remove health facilities](#delete-a-health-facility).</i>
 </p>
@@ -632,7 +632,7 @@ For each project the number of workspace, contributors, health facilities, and r
 <span align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
 	<i>Note: The number of buttons visible to you depend on your access rights to a specific project is likely to vary from one project to another</i>
-</span>
+</p>
 
 #### Project Permissions
 
@@ -654,10 +654,10 @@ Tere are three permission levels that a user can be granted to a project.
 </p>
 5. In the top half the page you have the option to add a user. Start typing the users name in the top field. You will notice that the list of users is dynamically filtering. Select the user you would like to add.
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i>Tip: You can add multiple users add once as shown in the image above.</i>
-</span>
+</p>
 
 6. Use the checkboxes to assign appropriate permission rights. See[Project Permissions](#project-permissions) for further information on the different permission levels available.
 7. Click the <img src="media/images/bt_share.png" height="20" align="top" alt='share'></img> button to share the project with the selected users.
@@ -714,10 +714,10 @@ Individually configured dashboards are available for each project, providing an 
 6. Click the <img src="media/images/bt_create_page_blue.png" height="20" align="top" alt='share'></img> button to add the page to the dashboard. 
 7. If you return to the previous page, you will that your page was added to the list of pages. 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
 	<i>Note: you only created an empty page. To add elements to your page, see section [Add an Element to a Page](#add-an-elements-to-a-page).</i>
-</span>
+</p>
 
 ### Update a Dashboard Page
 
@@ -728,10 +728,10 @@ Individually configured dashboards are available for each project, providing an 
 
 To delete a dashbaord page, click the <img src="media/images/icon_delete_black.png" height="20" align="top" alt='pencil '></img> icon.
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_warning.png" height="20" align="top" alt='tip'></img>
 	<i>Note: Deleting dashboard pages and elements cannot be undone. Be careful when deleting pages or elements.</i>
-</span>
+</p>
 
 #### Add an Element to a Page
 
@@ -742,9 +742,9 @@ After creating a page, you should now be able to add elements (charts, maps or t
 4. You should now see a page similar to the one displayed below. 
 5. First you will have to select whether to transpose elements and allow to switch between aggregating data at the health facility and service level. 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>Changing this will reload the making you lose all other unsaved edits.</i>
-</span>
+</p>
 
 6. Use the **Code** dropdown list to select which field you would like to display on your element.
 7. Now select the element type from the **Type** dropdown list.
@@ -780,7 +780,7 @@ Users with the permissions to edit dashbaords can modify charts and maps directl
 <span align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
 	<i>Note: Dashboard elements can also be edited from the  [Add an Element to a Page](#add-an-elements-to-a-page).</i>
-</span>
+</p>
 
 
 #### Remove an elements or pages from the dashboard
@@ -788,10 +788,10 @@ To remove elements form a page, return to the dashbo
 2. In the lower half of the page you will see the list of all items displayed on the selected page. 
 3. Use the <img src="media/images/icon_delete_black.png" height="20" align="top" alt='delete '></img> to permanently delete the element.
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
 	<i>Note: Be careful deleting dashbaord elements. Deleted elements cannot be restore.</i>
-</span>
+</p>
 
 
 # 5. FAQ
