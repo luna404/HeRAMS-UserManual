@@ -539,7 +539,7 @@ While most users only have access to a single workspace, local administrators mi
 - <img src="media/images/icon_download.png" height="20" align="top" alt='download'></img>**Download Data**: Downloads all data associated with the workspace. See *chapter 2* for more informatio on [data download](#download-data).  
 - <img src="media/images/icon_pencil_black.png" height="20" align="top" alt='edit data'></img>**Data Update**: This opens the data edit interface. More infomration on data editing and updating is available in the [previous chapter](#edit-data).  
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> The number of buttons visible to you depend on your access rights and might vary from one workspace to another.</i>
 </span>
@@ -629,7 +629,7 @@ For each project the number of workspace, contributors, health facilities, and r
 - <img src="media/images/icon_check_data.png" height="20" align="top" alt='check data'></img>**Check Data**: Can be used for a quick review of the data to identify invalid responses.
 - <img src="media/images/icon_share.png" height="20" align="top" alt='share'></img>**Share**: The sharing function is used to grant users access to a project. See [below](#add-a-user-to-a-project) for further details [Share](#) the entire project.
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
 	<i>Note: The number of buttons visible to you depend on your access rights to a specific project is likely to vary from one project to another</i>
 </span>
