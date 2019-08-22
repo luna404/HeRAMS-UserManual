@@ -235,7 +235,7 @@ This section provides a few tips and tricks on how to customize the dashboard (e
  - ***Reorder map elements***: If the map is zoomed out, it might happen that several points lay on top of each other. To bring a specific category to the front, uncheck the category in the legend. This will remove the category from the map. If you add the category back (click the now empty circle), the category will be added on top of the other points.
  
  <p align="center">
-	<img src="media/videos/HeRAMS_dashbaord_remove_add.gif" alt="remove/reoder items" height="300"/></img>
+	<img src="media/videos/HeRAMS_dashboard_customize_maps.gif" alt="remove/reoder items" height="300"/></img>
 </p>
  
  - ***Apply filters***: You can further customize the dashboard and explore the data by applying filters.
@@ -272,9 +272,7 @@ The below section provides an overview of the standard pages available in a dash
 	</summary>
 
 The **Overview** page provides a summary, in form of: 
--  A map to spot the distribution and number of health facilities by level of care (e.g. 
-	- secondary and tertiary care (i.e. hospitals)
-	- primary health care faciltiies such as health centers, clinics and health posts, camp and mobile clinic).
+-  A map to spot the distribution and number of health facilities by level of care (i.e. primary, secondary and tertiary health care facilities); and
 -  Doughnut  charts to summarize different indicators, such as level of damage, functionality status, accessibility and service availability in the assessed health facility.
 
 <p align="center">
@@ -292,11 +290,9 @@ The **Overview** page provides a summary, in form of:
 	</summary>
 
 The **Infrastructure** page, displays a descriptive analysis, including:
--  A map to spot the distribution and number of health facilities by type
--  Doughnut  charts to illustrate 
-	- **Mo**des of **S**ervice **D**elivery (MoSDs) by type
-	- The modality of the building structure (permanent vs. temporary)
--  A table to illustrate reported accessibility barriers 
+-  a map to spot the distribution and number of health facilities by type; 
+-  doughnut charts to illustrate **Mo**des of **S**ervice **D**elivery (MoSDs) by type as well as the modality of the building structure (permanent vs. temporary); and
+-  a table to illustrate reported accessibility barriers.
 
 <p align="center">
 	<img src="media/images/HeRAMS_dashboard_infastructure.png" alt="Infrastructure" height="300"></img>
@@ -307,12 +303,10 @@ The **Infrastructure** page, displays a descriptive analysis, including:
 	<summary><b><i>Page 3:</b> Condition</i>
 	</summary>
 
-The **Condition** page displays the level of reported damage to MoDS buildings following a standard classification and scale (Not Damaged to Fully Damaged). Information is visualised as: 
--	A map to spot the distribution and number of health facilities according to the level of builduing damage (i.e. condition) 
--	Doughnut  charts summarizing 
-	- The reported level of builduing damage by level of severity 
-	- The distribution of MoDS by type
--	A table to provide the name of the prioritized localities in terms of damage and their main causes
+The **Condition** page displays the level of reported damage to MoDS buildings following a standard classification and scale (Not Damaged to Fully Damaged). Information is visualized as: 
+-	a map to spot the distribution and number of health facilities according to the level of builduing damage (i.e. condition);
+-	doughnut charts summarizing the reported level of builduing damage by level of severity as well as the distribution of MoDS by type; and
+-	a table to provide the name of the prioritized localities in terms of damage and their main causes.
 
 <p align="center">
 	<img src="media/images/HeRAMS_dashboard_condition.png" alt="Condition" height="300"></img>
@@ -323,12 +317,10 @@ The **Condition** page displays the level of reported damage to MoDS buildings f
 	<summary><b><i>Page 4:</b> Functionality</i>
 	</summary>
 	
-The **Functionality** page displays the level of functionality status of the MoSDs following a standard classification and scale (Fully Functioning to Not Functioning) respresented as:
--	A map to spot the distribution and number of MoSDs according to the functionality status
--	Doughnut  charts to summarize 
-	- The level of functionality 
-	- Main causes of non-functionality
--	A table displays the list of priority areas in terms of non-functional health facilities and reported causes. 
+The **Functionality** page displays the level of functionality of the MoSDs following a standard classification and scale (Fully Functioning to Not Functioning) represented as:
+-	a map to spot the distribution and number of MoSDs according to the functionality status;
+-	doughnut charts to summarize the level of functionality as well as main causes of non-functionality; and
+-	a table displays the list of priority areas in terms of non-functional health facilities and reported causes. 
 
 <p align="center">
 	<img src="media/images/HeRAMS_dashboard_functionality.png" alt="Functionality" height="300"></img>
@@ -336,15 +328,13 @@ The **Functionality** page displays the level of functionality status of the MoS
 </details>
 
 <details>
-	<summary><b><i>Page 5:</b> Accessability</i>
+	<summary><b><i>Page 5:</b> Accessibility</i>
 	</summary>
 	
-The **Accessibility** page displays the level of accessibility to the MoSDs following a standard classification and scale (Fully Accessible to Not Accessible) in the form of:
--	A map to spot the distribution and number of MoSDs according to the accessibility status
--	Doughnut  charts to summarize 
-	-	The level of accessibility per number of MoSDs
-	-	The reported causes of inaccessibility per number of MoSDs
--	A table displays the list of priority areas with inaccessible MoSDs and the main reported cause of inaccessibility  
+The **Accessibility** page displays the level of accessibility to MoSDs following a standard classification and scale (Fully Accessible to Not Accessible) in the form of:
+-	a map to spot the distribution and number of MoSDs according to the accessibility status;
+-	doughnut charts to summarize the level of accessibility per number of MoSDs as well as the reported causes of inaccessibility per number of MoSDs; and
+-	a table displays the list of priority areas with inaccessible MoSDs and the main reported cause of inaccessibility. 
 
 <p align="center">
 	<img src="media/images/HeRAMS_dashboard_accessability.png" alt="Accessability" height="300"></img>
@@ -357,10 +347,10 @@ The **Accessibility** page displays the level of accessibility to the MoSDs foll
 	
 The **Management & support** page displays information on the management of the MoSDs and the level of support provided by partners. Ths information is illustrated in terms of: 
 - Ownership
-	-  A map to spot the distribution of MoSDs according to their ownership (i.e., public, private, private-faith-based, NGO/iNGO)
-	-  A doughnut  chart to highlighting the categories of ownership as a percentage of the total number of MoSDs
+	-  A map to spot the distribution of MoSDs according to their ownership (i.e., public, private, private-faith-based, NGO/iNGO).
+	-  A doughnut  chart to highlighting the categories of ownership as a percentage of the total number of MoSDs.
 - External support:
-	-  A doughnut  chart to illustrate the level of support provided by partners
+	-  A doughnut  chart to illustrate the level of support provided by partners.
 
 <p align="center">
 	<img src="media/images/HeRAMS_dashboard_management_support.png" alt="Management & Support" height="300"></img>
@@ -372,8 +362,8 @@ The **Management & support** page displays information on the management of the 
 	</summary>
 	
 The **Basic Amenities** page presents a series of doughnut  charts displaying information of core areas such as:
-- The principle source of water and power 
-- Ther percentage of MoDS with sufficient water and power supplies
+- the principle source of water and power; and
+- the percentage of MoDS with sufficient water and power supplies
 
 <p align="center">
 	<img src="media/images/HeRAMS_dashboard_basic_amenities.png" alt="Basic Amenitites" height="300"></img>
@@ -385,11 +375,9 @@ The **Basic Amenities** page presents a series of doughnut  charts displaying in
 	</summary>
 	
 The **Service Availability** page displays multiple pages per type of service. Each page displays:
--	A map to spot the distribution of the MoSDs providing the selected health service 
--	Doughnut  charts to summarize 
-	-	The level of service availability 
-	-	The underlying causes of unavailability of the service 
--	A table displays the list of priority areas per service unavailability and the main reported underlying cause
+-	a map to spot the distribution of the MoSDs providing the selected health service;
+-	doughnut charts to summarize the level of service availability as well as the underlying causes of unavailability of the service; and
+-	a table displays the list of priority areas per service unavailability and the main reported underlying cause.
 
 <p align="center">
 	<img src="media/images/HeRAMS_dashboard_service_availability.png" alt="Service Availability" height="300"></img>
