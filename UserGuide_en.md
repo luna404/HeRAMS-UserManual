@@ -707,16 +707,16 @@ Tere are three permission levels which can be used to grant a user access to a p
 	- to change the centroids (latitude and longitude) used on the world map;
 	- to update the status of the project;
 	- to configure the pop-up information displayed on the main page; and
-	- to congifure the project dashboard (Additional information on how to configure the project dashboard is available [here](#configure-dashboard)).
+	- to configure the project dashboard (Additional information on how to configure the project dashboard is available [here](#configure-dashboard)).
 5. Make sure you save your changes by clicking the <img src="media/images/bt_update_project.png" height="25" align="middle" alt='update project'></img> button.
 
 ### Configure the Project Dashboard
 
 For each HeRAMS Project, an interactive dashboard has been configured providing users with an indepth overview of the project and summarizing key indicators. 
 This section provides project administrators with detailed description on how to edit these dashboards. 
-An overivew of the standard dashboard pages is available in [Chapter 2](##default-dashboard-pages). 
+An overview of the standard dashboard pages is available in [Chapter 2](##default-dashboard-pages). 
 
-#### Modify an Existing Dashbaord Element
+#### Modify an Existing Dashboard Element
 
 Users with the permissions to edit dashboards can modify charts and maps directly from within the dashboard. 
 
@@ -726,18 +726,24 @@ Users with the permissions to edit dashboards can modify charts and maps directl
 	- to change the colors of a map or a chart;
 	- to rename the element; and
 	- to change the element type.
+	
+<p align="center">
+	<img src="media/images/icon_info.png" height="20" align="top" alt='note'></img>
+	<i> See the section <a href="#create-a-new-dashboard-element">below</a> for further details no how to create an modify dashboard elements.</i>
+</p>
+
 4. Save your changes by clicking the <img src="media/images/bt_update_element.png" height="20" align="top" alt='share'></img> button.
 
 <p align="center">
 	<img src="media/videos/HeRAMS_edit_dashboard_element.gif" alt="create new page" height="300"></img>
 </p>
 
-<span align="center">
+<p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i> Dashboard elements can also be edited from the  [Add an Element to a Page](#add-an-elements-to-a-page).</i>
+	<i> Dashboard elements can also be edited from the  <a href="#add-an-elements-to-a-page">Add an Element to a Page</a>.</i>
 </p>
 
-#### Add an Element to a Page
+#### Create a New Dashboard Element
 
 After creating a page, you should now be able to add elements (charts, maps or tables) to a dashboard page. For more information on how add a dashboard page see [above](#add-a-new-page). 
 1. Open the page you would like to modify using the <img src="media/images/icon_pencil_black.png" height="20" align="top" alt='pencil '></img> icon next to the page's name.
