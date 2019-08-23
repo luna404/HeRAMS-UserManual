@@ -747,8 +747,7 @@ Users with the permissions to edit dashboards can modify charts and maps directl
 
 This section covers the steps required to add a new element to an existing dashboard page. 
 If you would like to extend your dashboard by adding additional pages, please see the section below on how to add a page to a dashboard.
-
- For more information on how add a dashboard page see [above](#add-a-new-page). 
+For more information on how add a dashboard page see [above](#add-a-new-page). 
 1. Open the page you would like to modify using the <img src="media/images/icon_pencil_black.png" height="20" align="top" alt='pencil '></img> icon next to the page's name.
 2. In the bottom half of the page, click the <img src="media/images/bt_create_element_white.png" height="20" align="top" alt='create element'></img> button 
 3. You should now see a page similar to the one displayed below. 
@@ -782,38 +781,33 @@ If you would like to extend your dashboard by adding additional pages, please se
 12. Click the <img src="media/images/bt_create_element_blue.png" height="20" align="top" alt='create element'></img> button to add create the element.
 13. Upon saving the record you should see two new filed appearing labelled **Reason Code** and **Group Code**. Select the appropiriate questions codes from the dropdown list as shown in the example below.
 
-<p align="center">
-	<img src="media/images/HeRAMS_dashboard_create_table.png" alt="dashboard pages" height="300"></img>
-	<br><i>The table displays the percentage of health facilities that are functioning and the main causes of disfunctionality by district.</i>
-</p>
-
-
-
-#### Add a New Page to a Dashbaord
-
-1. To edit a projectOpen the project settings page as outlined above(#edit-project-settings)
-2. In the lower half of the page you see a table listing all available pages of the dashboard. 
-
-<p align="center">
-	<img src="media/videos/HeRAMS_dashboard_pages.png" alt="dashboard pages" height="300"></img>
-</p>
-
-1. To create a new page, open the [project's settings](#edit-project-settings) page and click the <img src="media/images/bt_create_page.png" height="20" align="top" alt='create page'></img> button.
-2. You should now see a page similar to the one displayed below. 
-
-<p align="center">
-	<img src="media/images/HeRAMS_dashboard_create_page.png" alt="create new page" height="300"></img>
-</p>
-
-3. Enter the page name in the top field. 
-4. The **Parent Id** field is only required if you intend to create a sub-page. From the drop-down select the page to which you would like to add a subpage. 
-5. The **Sort** index indicates the position of the new page. E.g. the first page of dashboard should have a sort index of **1**.
-6. Click the <img src="media/images/bt_create_page_blue.png" height="20" align="top" alt='share'></img> button to add the page to the dashboard. 
-7. If you return to the previous page, you will that your page was added to the list of pages. 
+#### Remove an elements or pages from the dashboard
+1. Open the dashboard page you would like to modify using the <img src="media/images/icon_pencil_black.png" height="20" align="top" alt='pencil '></img> icon next to the page's name.
+2. In the lower half of the page you will see the list of all items displayed on the selected page. 
+3. Use the <img src="media/images/icon_delete_black.png" height="20" align="top" alt='delete '></img> to permanently delete the element.
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i> you only created an empty page. To add elements to your page, see section [Add an Element to a Page](#add-an-elements-to-a-page).</i>
+	<i> Be careful deleting dashboard elements. Deleted elements cannot be restore.</i>
+</p>
+#### Add a New Page to a Dashboard
+
+1. To ass a new page to a dashboard, open the [project's settings](#edit-project-settings) page and click the <img src="media/images/bt_create_page_blue.png" height="20" align="top" alt='create page'></img> button.
+2. You should now see a page similar to the one displayed below. 
+
+<p align="center">
+	<img src="media/images/HeRAMS_dashboard_create_page.png" alt="create new page" height="250"></img>
+</p>
+
+3. Enter the page name in the top field. 
+4. For sub-pages, select a the Parent page from the **Parent Id** drop-down list. For all other pages select **No parent**.
+5. Define the page order by entering a **Sort** index. Increment the index by 1 for each new page, starting with **0** for the first page. 
+6. Click the <img src="media/images/bt_create_page_blue.png" height="20" align="top" alt='create page'></img> button to add the page to the dashboard. 
+7. If you return to the previous page, you will see the page appearing in the list of available pages. 
+
+<p align="center">
+	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
+	<i> You only created an empty page. To add elements to your page, see section <a href="#create-a-new-element-to-a-aashboard">Create a New Element to a Dashboard</a>.</i>
 </p>
 
 ### Update a Dashboard Page
@@ -823,7 +817,8 @@ If you would like to extend your dashboard by adding additional pages, please se
 
 ### Delete a Dashboard Page
 
-To delete a dashboard page, click the <img src="media/images/icon_delete_black.png" height="20" align="top" alt='pencil '></img> icon.
+1. To delete a dashboard page, navigate the [project's settings](#edit-project-settings) page.
+2. In the list of available page, click the <img src="media/images/icon_delete_black.png" height="20" align="top" alt='pencil '></img> icon next to the page you would like to delete.
 
 <p align="center">
 	<img src="media/images/icon_warning.png" height="20" align="top" alt='tip'></img>
@@ -832,16 +827,6 @@ To delete a dashboard page, click the <img src="media/images/icon_delete_black.p
 
 
 
-
-#### Remove an elements or pages from the dashboard
-To remove elements form a page, return to the dashbo
-2. In the lower half of the page you will see the list of all items displayed on the selected page. 
-3. Use the <img src="media/images/icon_delete_black.png" height="20" align="top" alt='delete '></img> to permanently delete the element.
-
-<p align="center">
-	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i> Be careful deleting dashboard elements. Deleted elements cannot be restore.</i>
-</p>
 
 
 # 5. FAQ
@@ -874,30 +859,10 @@ If open your data in Excel, you might experience an issue with special character
 
 <details>
 	<summary><b>How can see if I have access to a specific dashboard</b></summary>
-		coming soon
+		*coming soon*
 </details>
 
 <details>
 	<summary><b>Where can I see the list of workspaces</b></summary>
-		coming soon
-</details>
-
-<details>
-	<summary><b>Title</b></summary>
-		coming soon
-</details>
-
-<details>
-	<summary><b>Title</b></summary>
-		coming soon
-</details>
-
-<details>
-	<summary><b>Title</b></summary>
-		coming soon
-</details>
-
-<details>
-	<summary><b>Title</b></summary>
-		coming soon
+		*coming soon*
 </details>
