@@ -712,45 +712,29 @@ Tere are three permission levels which can be used to grant a user access to a p
 
 ### Configure the Project Dashboard
 
-Individually configured dashboards are available for each project, providing an instant an in-depth information on the project. To alter a project dashboard, follow the instructions below.
-1. Open the project settings page as outlined above(#edit-project-settings)
-2. In the lower half of the page you see a table listing all available pages of the dashboard. 
+For each HeRAMS Project, an interactive dashboard has been configured providing users with an indepth overview of the project and summarizing key indicators. 
+This section provides project administrators with detailed description on how to edit these dashboards. 
+An overivew of the standard dashboard pages is available in [Chapter 2](##default-dashboard-pages). 
+
+#### Modify an Existing Dashbaord Element
+
+Users with the permissions to edit dashboards can modify charts and maps directly from within the dashboard. 
+
+1. Open the dashboard and navigate to the element you would like to change. 
+2. In the top right corner of the element you should see a <img src="media/images/icon_edit_dashboard.png" height="20" align="top" alt='pencil '></img> icon. Click it to open the element's configuration page.
+3. You should now be able
+	- to change the colors of a map or a chart;
+	- to rename the element; and
+	- to change the element type.
+4. Save your changes by clicking the <img src="media/images/bt_update_element.png" height="20" align="top" alt='share'></img> button.
 
 <p align="center">
-	<img src="media/videos/HeRAMS_dashboard_pages.png" alt="dashboard pages" height="300"></img>
+	<img src="media/videos/HeRAMS_edit_dashboard_element.gif" alt="create new page" height="300"></img>
 </p>
 
-#### Add a New Dashboard Page
-1. To create a new page, open the [project's settings](#edit-project-settings) page and click the <img src="media/images/bt_create_page.png" height="20" align="top" alt='create page'></img> button.
-2. You should now see a page similar to the one displayed below. 
-
-<p align="center">
-	<img src="media/images/HeRAMS_dashboard_create_page.png" alt="create new page" height="300"></img>
-</p>
-
-3. Enter the page name in the top field. 
-4. The **Parent Id** field is only required if you intend to create a sub-page. From the drop-down select the page to which you would like to add a subpage. 
-5. The **Sort** index indicates the position of the new page. E.g. the first page of dashboard should have a sort index of **1**.
-6. Click the <img src="media/images/bt_create_page_blue.png" height="20" align="top" alt='share'></img> button to add the page to the dashboard. 
-7. If you return to the previous page, you will that your page was added to the list of pages. 
-
-<p align="center">
+<span align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i> you only created an empty page. To add elements to your page, see section [Add an Element to a Page](#add-an-elements-to-a-page).</i>
-</p>
-
-### Update a Dashboard Page
-
-1. To alter an existing page, click the <img src="media/images/icon_pencil_black.png" height="20" align="top" alt='pencil '></img> icon next to the page's name. This will open the page's setting page. You are now able to change the title and the order of the page. See [above](#add-a-new-page) for further details. 
-2. On the page that opens you should now be able to alter the page name, and display order.
-
-### Delete a Dashboard Page
-
-To delete a dashboard page, click the <img src="media/images/icon_delete_black.png" height="20" align="top" alt='pencil '></img> icon.
-
-<p align="center">
-	<img src="media/images/icon_warning.png" height="20" align="top" alt='tip'></img>
-	<i> Deleting dashboard pages and elements cannot be undone. Be careful when deleting pages or elements.</i>
+	<i> Dashboard elements can also be edited from the  [Add an Element to a Page](#add-an-elements-to-a-page).</i>
 </p>
 
 #### Add an Element to a Page
@@ -785,22 +769,50 @@ After creating a page, you should now be able to add elements (charts, maps or t
 
 For charts, you can increase/decrese the marker size by changing the **Marker Radius**. 
 
-#### Modify an Element on a page
 
-Users with the permissions to edit dashboards can modify charts and maps directly from within the dashboard. 
-1. Open the dashboard and navigate to the element you would like to change. 
-2. Click the <img src="media/images/icon_edit_dashboard.png" height="20" align="top" alt='pencil '></img> icon in the top right corner of the card element.
-3. In the page that appears you will be able to change the chart or map settings.
-4. Save your changes by clicking the <img src="media/images/bt_update_element.png" height="20" align="top" alt='share'></img> button.
+
+#### Add a New Dashboard Page
+
+1. To edit a projectOpen the project settings page as outlined above(#edit-project-settings)
+2. In the lower half of the page you see a table listing all available pages of the dashboard. 
 
 <p align="center">
-	<img src="media/videos/HeRAMS_edit_dashboard_element.gif" alt="create new page" height="300"></img>
+	<img src="media/videos/HeRAMS_dashboard_pages.png" alt="dashboard pages" height="300"></img>
 </p>
 
-<span align="center">
-	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i> Dashboard elements can also be edited from the  [Add an Element to a Page](#add-an-elements-to-a-page).</i>
+1. To create a new page, open the [project's settings](#edit-project-settings) page and click the <img src="media/images/bt_create_page.png" height="20" align="top" alt='create page'></img> button.
+2. You should now see a page similar to the one displayed below. 
+
+<p align="center">
+	<img src="media/images/HeRAMS_dashboard_create_page.png" alt="create new page" height="300"></img>
 </p>
+
+3. Enter the page name in the top field. 
+4. The **Parent Id** field is only required if you intend to create a sub-page. From the drop-down select the page to which you would like to add a subpage. 
+5. The **Sort** index indicates the position of the new page. E.g. the first page of dashboard should have a sort index of **1**.
+6. Click the <img src="media/images/bt_create_page_blue.png" height="20" align="top" alt='share'></img> button to add the page to the dashboard. 
+7. If you return to the previous page, you will that your page was added to the list of pages. 
+
+<p align="center">
+	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
+	<i> you only created an empty page. To add elements to your page, see section [Add an Element to a Page](#add-an-elements-to-a-page).</i>
+</p>
+
+### Update a Dashboard Page
+
+1. To alter an existing page, click the <img src="media/images/icon_pencil_black.png" height="20" align="top" alt='pencil '></img> icon next to the page's name. This will open the page's setting page. You are now able to change the title and the order of the page. See [above](#add-a-new-page) for further details. 
+2. On the page that opens you should now be able to alter the page name, and display order.
+
+### Delete a Dashboard Page
+
+To delete a dashboard page, click the <img src="media/images/icon_delete_black.png" height="20" align="top" alt='pencil '></img> icon.
+
+<p align="center">
+	<img src="media/images/icon_warning.png" height="20" align="top" alt='tip'></img>
+	<i> Deleting dashboard pages and elements cannot be undone. Be careful when deleting pages or elements.</i>
+</p>
+
+
 
 
 #### Remove an elements or pages from the dashboard
