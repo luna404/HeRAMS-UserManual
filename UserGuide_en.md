@@ -720,6 +720,11 @@ An overview of the standard dashboard pages is available in [Chapter 2](##defaul
 
 Users with the permissions to edit dashboards can modify charts and maps directly from within the dashboard. 
 
+<p align="center">
+	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
+	<i> To modfiy the order of dashboard pages or rename a page, click <a href="#update a Dashboard Page">here</a>.</i>
+</p>
+
 1. Open the dashboard and navigate to the element you would like to change. 
 2. In the top right corner of the element you should see a <img src="media/images/icon_edit_dashboard.png" height="20" align="top" alt='pencil '></img> icon. Click it to open the element's configuration page.
 3. You should now be able
@@ -738,46 +743,52 @@ Users with the permissions to edit dashboards can modify charts and maps directl
 	<img src="media/videos/HeRAMS_edit_dashboard_element.gif" alt="create new page" height="300"></img>
 </p>
 
-<p align="center">
-	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i> Dashboard elements can also be edited from the  <a href="#add-an-elements-to-a-page">Add an Element to a Page</a>.</i>
-</p>
+#### Create a New Element to a Dashbaord
 
-#### Create a New Dashboard Element
+This section covers the steps required to add a new element to an existing dashboard page. 
+If you would like to extend your dashbaord by adding additional pages, please see the section below on how to add a page to a dashboard.
 
-After creating a page, you should now be able to add elements (charts, maps or tables) to a dashboard page. For more information on how add a dashboard page see [above](#add-a-new-page). 
+ For more information on how add a dashboard page see [above](#add-a-new-page). 
 1. Open the page you would like to modify using the <img src="media/images/icon_pencil_black.png" height="20" align="top" alt='pencil '></img> icon next to the page's name.
-2. In the bottom half of the page you should see a button labelled **Create element**.
-3. Click the <img src="media/images/bt_create_element_white.png" height="20" align="top" alt='pencil '></img>. This will open a new page allowing you to create a new element.
-4. You should now see a page similar to the one displayed below. 
-5. First you will have to select whether to transpose elements and allow to switch between aggregating data at the health facility and service level. 
+2. In the bottom half of the page, click the <img src="media/images/bt_create_element_white.png" height="20" align="top" alt='create element'></img> button 
+3. You should now see a page similar to the one displayed below. 
 
 <p align="center">
-	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>Changing this will reload the making you lose all other unsaved edits.</i>
+	<img src="media/videos/HeRAMS_dashboard_create_element.png" alt="dashboard pages" height="300"></img>
 </p>
 
-6. Use the **Code** dropdown list to select which field you would like to display on your element.
-7. Now select the element type from the **Type** dropdown list.
-8. Click the <img src="media/images/bt_create_element_blue.png" height="20" align="top" alt='create element'></img> button to add create the element.
-9. You should now see a sample of the new element in the top right corner.
+5. The **Transpose** feature allows to switch between aggregating data at the health facility and the health service level. Set the feature to **No** to displaay data aggregated at the health facility level. 
+6. Now use the **Code** dropdown list to select which field you would like to display on your element.
+
+<p align="center">
+	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img> Transposing the element or changing the question code or will reload the making you lose all other unsaved edits.</i>
+</p>
+
+7. Adjust the element type by selecting the desired option form the **Type** dropdown list.
 
 **Maps and charts:**
-10. Upon saving the element, the list of unique values should appear. 
-11. To change the color of a category, click on the color displayed. This will open a color picker allowing to select custom colors.
-12. Click the <img src="media/images/bt_update_element.png" height="20" align="top" alt='pencil '></img> button so save your changes. You should now see your changes in the preview on the top right corner of the page.
+
+8. To change the color of a category, click on the color displayed. This will open a color picker allowing to select custom colors.
+9. You can increase/decrese the marker size for maps by changing the **Marker Radius**. 
+10. Click the <img src="media/images/bt_create_element_blue.png" height="20" align="top" alt='create element'></img> button to add create the element.
+
+11. You should now see a sample of the new element in the top right corner.
 
 <p align="center">
-	<img src="media/videos/HeRAMS_create_dashboard_element.png" alt="dashboard pages" height="300"></img>
+	<img src="media/videos/HeRAMS_create_dashboard_element.gif" alt="dashboard pages" height="300"></img>
 </p>
 
 **Tables:**
-13. A table requires three variables. The 
 
-For charts, you can increase/decrese the marker size by changing the **Marker Radius**. 
+12. Click the <img src="media/images/bt_create_element_blue.png" height="20" align="top" alt='create element'></img> button to add create the element.
+13. Upon saving the record you should see two new filed appearing labelled **Reason Code** and the **Group Code**. Select appropiriate questions codes from the dropdown list as shown in the example below.
+The table displays the percentage of health facilities that are functioning and the main causes of disfunctionality by district.
 
+<p align="center">
+	<img src="media/videos/HeRAMS_create_dashboard_table.png" alt="dashboard pages" height="300"></img>
+</p>
 
-
-#### Add a New Dashboard Page
+#### Add a New Page to a Dashbaord
 
 1. To edit a projectOpen the project settings page as outlined above(#edit-project-settings)
 2. In the lower half of the page you see a table listing all available pages of the dashboard. 
