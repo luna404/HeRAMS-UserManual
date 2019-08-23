@@ -255,7 +255,7 @@ This section provides a few tips and tricks on how to customize the dashboard (e
    3. Click the <img src="media/images/bt_apply_filter.png" height="20" align="top" alt='apply'></img> button to activate your filter.
 
 <p align="center">
-	<img src="media/videos/HeRAMS_dashbaord_filters.gif" alt="dashboard filters" height="300"/></img>
+	<img src="media/videos/HeRAMS_dashboard_filters.gif" alt="dashboard filters" height="300"/></img>
 </p>
 
 #### Default dashboard pages
@@ -743,10 +743,10 @@ Users with the permissions to edit dashboards can modify charts and maps directl
 	<img src="media/videos/HeRAMS_edit_dashboard_element.gif" alt="create new page" height="300"></img>
 </p>
 
-#### Create a New Element to a Dashbaord
+#### Create a New Element to a Dashboard
 
 This section covers the steps required to add a new element to an existing dashboard page. 
-If you would like to extend your dashbaord by adding additional pages, please see the section below on how to add a page to a dashboard.
+If you would like to extend your dashboard by adding additional pages, please see the section below on how to add a page to a dashboard.
 
  For more information on how add a dashboard page see [above](#add-a-new-page). 
 1. Open the page you would like to modify using the <img src="media/images/icon_pencil_black.png" height="20" align="top" alt='pencil '></img> icon next to the page's name.
@@ -761,7 +761,7 @@ If you would like to extend your dashbaord by adding additional pages, please se
 6. Now use the **Code** dropdown list to select which field you would like to display on your element.
 
 <p align="center">
-	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img> Transposing the element or changing the question code or will reload the making you lose all other unsaved edits.</i>
+	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img> <i> Transposing the element or changing the question code or will reload the making you lose all other unsaved edits.</i>
 </p>
 
 7. Adjust the element type by selecting the desired option form the **Type** dropdown list.
@@ -771,7 +771,6 @@ If you would like to extend your dashbaord by adding additional pages, please se
 8. To change the color of a category, click on the color displayed. This will open a color picker allowing to select custom colors.
 9. You can increase/decrease the marker size for maps by changing the **Marker Radius**. 
 10. Click the <img src="media/images/bt_create_element_blue.png" height="20" align="top" alt='create element'></img> button to add create the element.
-
 11. You should now see a sample of the new element in the top right corner.
 
 <p align="center">
