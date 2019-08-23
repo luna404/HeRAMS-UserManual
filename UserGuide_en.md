@@ -491,7 +491,7 @@ The following section provides a step-by-step guide on how to access the data ed
 </p>
 
 <p align="center">
-	<img src="media/images/HeRAMS_data_update_table.png.png" alt="HeRAMS Worldview" height="300"></img>
+	<img src="media/images/HeRAMS_data_update_table.png" alt="HeRAMS Worldview" height="300"></img>
 </p>
 
 2. You should now be able to edit the selected record. Use the  <img src="media/images/bt_next_en.png" height="20" align="top" alt='next'></img> buttons in the lower right corner to move to the next page of the questionnaire or return to the previous page. 
@@ -508,10 +508,10 @@ If HeRAMS is used as a monitoring tool, you can update health facility without w
 	<i> Please note that the ability to update records is not enabled in all projects. Contact your system administrator for further information.</i>
 </p>
 
-1. To update the status of a Health Facility, use the <img src="media/images/icon_update_blue.png" height="20" align="top" alt='update'></img>  button to open the record.
+1. To update the status of a Health Facility, use the <img src="media/images/icon_data_update_blue.png" height="20" align="top" alt='update'></img>  button to open the record.
 2. Use the two button on the bottom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specfic section of the questionnaire.
-3. To save your changes, navigate to the last page **Validate** and click  <img src="media/images/bt_submit_en.png" height="20" align="top" alt='submit'></img>.
-4. If you would like to discard your edits, click the <img src="media/images/bt_clear.png" height="20" align="top" alt='exit'></img>  button 
+3. To save your changes, open the last page (**Validate**) and click  <img src="media/images/bt_submit_en.png" height="20" align="top" alt='submit'></img>.
+4. If you would like to discard your edits, click the <img src="media/images/bt_clear.png" height="20" align="top" alt='exit'></img>  button.
 
 ### Register a new Health Facility
 
@@ -585,7 +585,7 @@ There are two permission levels that a user can be granted to a workspace. Users
 </p>
 <p align="center">
 	<img src="media/images/icon_info.png" height="30" align="top" alt='tip'></img>
-	<i>If you cannot find a users, it means the user has not create an account. Ask the user to greate an account by registering on the [HeRAMS platform](https://herams.org) and then retry. Should the issue persist, contact your system administrator.</i>
+	<i>If you cannot find a users, it means the user has not create an account. Ask the user to greate an account by registering on the <a href="https://herams.org">HeRAMS platform</a> and then retry. Should the issue persist, contact your system administrator.</i>
 </p>
 
 
@@ -599,7 +599,7 @@ There are two permission levels that a user can be granted to a workspace. Users
 #### Remove a User from a Workspace
 
 1. To remove a user from a workspace, navigate to the workspace from which you would like to remove a user. Follow steps 1 - 6 outlined [above](#add-a-user-to-a-workspace) to access the workspace.
-2. On the second half of the screen you should now see a list of all users having access to the workspace. Click the <img src="media/images/icon_delete_red.png" height="20" align="top" alt='bin'></img> icon to remove the user permanently. 
+2. On the second half of the screen you should now see a list of all users having access to the workspace. Click the <img src="media/images/icon_delete_black.png" height="20" align="top" alt='bin'></img> icon to remove the user permanently. 
 
 #### Change a User's Workspace Permission
 
@@ -609,14 +609,14 @@ There are two permission levels that a user can be granted to a workspace. Users
 #### Create a New Worksapce
 
 1. To create a new workspace, access the workspace page of your project (Follow steps 1 - 6 in the [Add a User to a Workspace](#add-a-user-to-a-workspace) section).
-2. On the upper left corner, you should see a button labelled <img src="media/images/bt_create_worksapce.png" height="20" align="top" alt='create workspace'></img>
+2. On the upper left corner, you should see a button labelled <img src="media/images/bt_create_worksapce.png" height="20" align="top" alt='create workspace'></img>.
 3. On the page that opens, you should now be able to create a new workspace. 
 
 <p align="center">
-	<img src="media/image/HeRAMS_workspace_create.png" alt="create workspace" height="300"></img>
+	<img src="media/images/HeRAMS_workspace_create.png" alt="create workspace" height="300"></img>
 </p>
 
-4. Enter the name of the workspace into the title field. 
+4. Enter the workspace name into the title field. 
 5. Use the dropdown list to select the corresponding **Token** or create a new token by selecting *Create new token*.
 
 <p align="center">
@@ -630,12 +630,12 @@ There are two permission levels that a user can be granted to a workspace. Users
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i> Deleting workspace will not affect the underlying data. See the previous chapter to learn how to permanently [remove health facilities](#delete-a-health-facility) from your project.</i>
+	<i> Deleting workspace will not affect the underlying data. See the previous chapter to learn how to permanently <a href="#delete-a-health-facility">remove health facilities</a> from your project.</i>
 </p>
 
 ### Projects
 
-The [project](#https://herams.org/project/index) page provides a brief overview of all projects available on the HeRAMS platform. 
+The <a href="https://herams.org/project/index">Projects</a> page provides a brief overview of all projects available on the HeRAMS platform. 
 
 <p align="center">
 	<img src="media/images/HeRAMS_projects.png" alt="project page" height="300"></img>
@@ -651,7 +651,7 @@ For each project the number of workspace, contributors, health facilities, and r
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i> The number of buttons visible to you depends on your access rights to a specific project is likely to vary from one project to another</i>
+	<i> The number of buttons visible to you depends on your access rights to a specific project is likely to vary from one project to another.</i>
 </p>
 
 #### Project Permissions
@@ -665,12 +665,12 @@ Tere are three permission levels which can be used to grant a user access to a p
 #### Add a User to a Project
 
 1. To grant a user access to a specific project, open the admin interface by clicking the <img src="media/images/icon_settings.png" height="20" align="top" alt='settings'></img> button in the top right corner of the screen.
-2. In the navigation pane on the left, click [Projects](https://herams.org/project/index) to open a page displaying all available projects.
+2. In the navigation pane on the left, click [Projects](https://herams.org/project/index) to display the list of all available projects.
 3. In the rightmost column of the table, you should see several action buttons. Click the <img src="media/images/icon_share.png" height="20" align="top" alt='share'></img> icon. 
 4. You should now see something similar to the image below. On the bottom half of the screen you can see a list of all users currently having access to this workspace and their permission level. 
 
 <p align="center">
-	<img src="media/images/HeRAMS_project_share.png alt="share workspace" height="300"></img>
+	<img src="media/images/HeRAMS_project_share.png" alt="share workspace" height="300"></img>
 </p>
 5. In the top half the page you have the option to add a user. Start typing the users name in the top field. You will notice that the list of users is dynamically filtering. Select the user you would like to add.
 
@@ -679,7 +679,7 @@ Tere are three permission levels which can be used to grant a user access to a p
 	<i>You can add multiple users add once as shown in the image above.</i>
 </p>
 
-6. Use the checkboxes to assign appropriate permission rights. See[Project Permissions](#project-permissions) for further information on the different permission levels available.
+6. Use the checkboxes to assign appropriate permission rights. See [Project Permissions](#project-permissions) for further information on the different permission levels.
 7. Click the <img src="media/images/bt_share.png" height="20" align="top" alt='share'></img> button to share the project with the selected users.
 
 <p align="center">
@@ -688,27 +688,27 @@ Tere are three permission levels which can be used to grant a user access to a p
 
 #### Remove a User from a Project
 
-1. To remove a user from a Project, follow the steps 1-4 outlined in the [previous section](#add-a-user-to-a-project) to access the project from which you would like to remove a user.
-2. On the second half of the screen you should now see a list of all users having access to the workspace. Click the <img src="media/images/icon_delete_red.png" height="20" align="top" alt='bin'></img> icon to remove the user permanently. 
+1. To remove a user from a Project, follow steps 1-4 outlined in the [previous section](#add-a-user-to-a-project) to access the project from which you would like to remove a user.
+2. On the second half of the page you should now see a list of all users having access to the workspace. Click the <img src="media/images/icon_delete_black.png" height="20" align="top" alt='bin'></img> icon to remove the user permanently. 
 
 #### Change a User's Project Permissions
 
 1. To change a user's permission, remove the user from the project as outlined [above](#remove-a-user-from-a-project).
-2. Now add the user again using the new permission level envisioned (see section [Add a User to a Project](#add-a-user-to-a-project) for details).
+2. Now add the user again using the new permission level (see section [Add a User to a Project](#add-a-user-to-a-project) for details).
 
 #### Modify a Project
 
-1. To update the general settings of a project, open the admin interface by clicking the <img src="media/images/icon_settings.png" height="20" align="top" alt='settings'></img> button in the top right corner of the screen.
-2. In the navigation pane on the left, click [Projects](https://herams.org/project/index) to open the project overview page.
-3. To open the project settings, click the <img src="media/images/icon_edit.png" height="20" align="top" alt='bin'></img> icon in the last column of your project.
-4. You should now see a page similar to the one displayed below, which permits you to 
-	- Update the project title
-	- Alter the survey linked to this project
-	- Change the centroids (latitude and longitude) used on the world map.
-	- Update the status of the project 
-	- Configure the pop-up information displayed on the main page.
-	- Congifure the project dashboard. Additional information on how to configure the project dashboard is available [here](#configure-dashboard).
-5. Make sure you save your changes by clicking the <img src="media/images/bt_update_project.png" height="20" align="top" alt='update project'></img>  button.
+1. To update the general settings of a project, open the admin interface by clicking the <img src="media/images/icon_settings.png" height="20" align="top" alt='settings'></img> button in the top right corner of the page.
+2. Open the Projects's overview table by selecting [Projects](https://herams.org/project/index) in the navigation pane on the lefts to open the project overview page.
+3. Click the <img src="media/images/icon_pencil_black.png" height="20" align="top" alt='edit'></img> icon in the **Actions** column of your project. This will open the general settings page.
+4. You should now see a page similar to the one displayed below, which permits you
+	- to update the project title;
+	- to alter the survey linked to this project;
+	- to change the centroids (latitude and longitude) used on the world map;
+	- to update the status of the project;
+	- to configure the pop-up information displayed on the main page; and
+	- to congifure the project dashboard (Additional information on how to configure the project dashboard is available [here](#configure-dashboard)).
+5. Make sure you save your changes by clicking the <img src="media/images/bt_update_project.png" height="20" align="middle" alt='update project'></img> button.
 
 ### Configure the Project Dashboard
 
