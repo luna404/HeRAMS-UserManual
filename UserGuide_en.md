@@ -754,7 +754,7 @@ If you would like to extend your dashbaord by adding additional pages, please se
 3. You should now see a page similar to the one displayed below. 
 
 <p align="center">
-	<img src="media/videos/HeRAMS_dashboard_create_element.png" alt="dashboard pages" height="300"></img>
+	<img src="media/images/HeRAMS_dashboard_create_element.png" alt="dashboard pages" height="300"></img>
 </p>
 
 5. The **Transpose** feature allows to switch between aggregating data at the health facility and the health service level. Set the feature to **No** to displaay data aggregated at the health facility level. 
@@ -769,7 +769,7 @@ If you would like to extend your dashbaord by adding additional pages, please se
 **Maps and charts:**
 
 8. To change the color of a category, click on the color displayed. This will open a color picker allowing to select custom colors.
-9. You can increase/decrese the marker size for maps by changing the **Marker Radius**. 
+9. You can increase/decrease the marker size for maps by changing the **Marker Radius**. 
 10. Click the <img src="media/images/bt_create_element_blue.png" height="20" align="top" alt='create element'></img> button to add create the element.
 
 11. You should now see a sample of the new element in the top right corner.
@@ -785,7 +785,7 @@ If you would like to extend your dashbaord by adding additional pages, please se
 The table displays the percentage of health facilities that are functioning and the main causes of disfunctionality by district.
 
 <p align="center">
-	<img src="media/videos/HeRAMS_create_dashboard_table.png" alt="dashboard pages" height="300"></img>
+	<img src="media/images/HeRAMS_create_dashboard_table.png" alt="dashboard pages" height="300"></img>
 </p>
 
 #### Add a New Page to a Dashbaord
