@@ -86,7 +86,7 @@ Enter the the characters displayed into the field below.
 5. Click the <img src="media/images/bt_submit_en.png" height="20" align="top" alt="Submit"></img> button.
 6. An automated email will be sent to you, containing a link that allows you to enter a new password. 
 
-<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> If you haven't received an email, make sure to check your spam folder.</i>
 </p>
@@ -113,7 +113,7 @@ Each user has a profile associated with their account. This permits you do make 
 2. On the sign-in page, click the [sign-up](https://herams.org/user/register) link located just above the <img src="media/images/bt_login.png" height="20" align="top" ></img> button.
 3. On the page that opens, enter your name, email and password. 
 
-<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
 	<i> Please note that your email acts as username.</i>
 </p>
@@ -121,7 +121,7 @@ Each user has a profile associated with their account. This permits you do make 
 4. Submit your information by clicking the <img src="media/images/bt_sign_up.png" height="20" align="top"></img> button. 
 5. A confirmation email will be sent to the email address you use to register with. 
 
-<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> If you haven't received a confirmation email, make sure to check your spam folder.</i>
 </p>
@@ -137,7 +137,7 @@ Each user has a profile associated with their account. This permits you do make 
 1. To update your user profile or account details (i.e. email and password), click on your username on the top right corner of the screen.  
 2. This opens your [user profile](https://herams.org/user/settings/profile) and allows you to change your personal information such as your name, organization and contact details. 
 
-<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> Please note that first name, last name and organization are mandatory.</i>
 </p>
@@ -157,9 +157,9 @@ Each user has a profile associated with their account. This permits you do make 
 
 You can further personalize your account by adding a profile picture. In order for your profile picture to appear, you will have to register your email address at [Gravatar](https://en.gravatar.com/). 
 
-<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center"><span>
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
-	<i> For more information on Gravatar, click [here](https://fr.gravatar.com/support/what-is-gravatar/).</i>
+	<i> For more information on Gravatar, click [here](https://fr.gravatar.com/support/what-is-gravatar/).</i></span>
 </p>
 
 1. Open you user profile by clicking on your name in the upper right corner of your screen.
