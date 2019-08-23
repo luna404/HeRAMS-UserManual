@@ -22,7 +22,7 @@ dashboard configuration and other functionalities expected to be carried out by 
 		- [Customizing the dashboard](#customizing-the-dashboard)
 		- [Default Dashboard Pages](#default-dashboard-pages)
 	 - [Download data](#download-data)
-		- [Download the entire data set](#download-the-entire-dataset)
+		- [Download the entire data set](#download-the-entire-data-set)
 		- [Data Encoding in Excel](#data-encoding-in-excel)
 3. [Edit Data](#3-edit-data)
 	- [Access the Data Edit Interface](#access-the-data-edit-interface)
@@ -63,7 +63,7 @@ To create your user account in [HeRAMS](https://herams.org/login), follow the in
 
 <p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: It is recommended to user either FireFox or Chrome. </i>
+	<i> It is recommended to user either FireFox or Chrome. </i>
 </p>
 
 2. A pop-up window will appear prompting you to enter your username (email) and password. 
@@ -88,7 +88,7 @@ Enter the the characters displayed into the field below.
 
 <p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: If you haven't received an email, make sure to check your spam folder.</i>
+	<i> If you haven't received an email, make sure to check your spam folder.</i>
 </p>
 
 7. Open the link and enter your new password.
@@ -123,7 +123,7 @@ Each user has a profile associated with their account. This permits you do make 
 
 <p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: If you haven't received a confirmation email, make sure to check your spam folder.</i>
+	<i> If you haven't received a confirmation email, make sure to check your spam folder.</i>
 </p>
 
 6. Confirm your registration by clicking on the link in your email.
@@ -175,7 +175,7 @@ You can further personalize your account by adding a profile picture. In order f
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
-	<i> Note: It might take a few minutes before your gavatar appears on your HeRAMS profile.</i>
+	<i> It might take a few minutes before your gavatar appears on your HeRAMS profile.</i>
 </p>
 
 
@@ -210,7 +210,7 @@ Each project in HeRAMS has a custom dashboard that enabeling users to explore th
 
 <p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: Some page may contain sub-pages, indicated by a <img src="media/images/icon_forward.png" height="20" align="top" alt="forward"></img> icon next to the page's name.</i>
+	<i> Some page may contain sub-pages, indicated by a <img src="media/images/icon_forward.png" height="20" align="top" alt="forward"></img> icon next to the page's name.</i>
 </p>
 
 5. To return to a previous page, you can either select the page in the navigation pane on the left, or use the breadcrumb trail on top of the dashboard. 
@@ -244,12 +244,12 @@ This section provides a few tips and tricks on how to customize the dashboard (e
 
    <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
-	<i> Note: If you apply multiple search criteria, only results that contain all terms will be shown.</i>
+	<i> If you apply multiple search criteria, only results that contain all terms will be shown.</i>
 </p>   
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
-	<i> Note: You can limit the number of fields displayed using the search filed on top of the page.</i>
+	<i> You can limit the number of fields displayed using the search filed on top of the page.</i>
 </p>
 
    3. Click the <img src="media/images/bt_apply_filter.png" height="20" align="top" alt='apply'></img> button to activate your filter.
@@ -277,7 +277,7 @@ The **Overview** page provides a summary, in form of:
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
-	<i> Note: Note that service availability is country specific. Thus, direct comparisons form one country to another should be avoided.</i>
+	<i> Note that service availability is country specific. Thus, direct comparisons form one country to another should be avoided.</i>
 </p>
 
 <p align="center">
@@ -304,8 +304,8 @@ The **Infrastructure** page, displays a descriptive analysis, including:
 	</summary>
 
 The **Condition** page displays the level of reported damage to MoDS buildings following a standard classification and scale (Not Damaged to Fully Damaged). Information is visualized as: 
--	a map to spot the distribution and number of health facilities according to the level of builduing damage (i.e. condition);
--	doughnut charts summarizing the reported level of builduing damage by level of severity as well as the distribution of MoDS by type; and
+-	a map to spot the distribution and number of health facilities according to the level of building damage (i.e. condition);
+-	doughnut charts summarizing the reported level of building damage by level of severity as well as the distribution of MoDS by type; and
 -	a table to provide the name of the prioritized localities in terms of damage and their main causes.
 
 <p align="center">
@@ -345,9 +345,9 @@ The **Accessibility** page displays the level of accessibility to MoSDs followin
 	<summary><b><i>Page 6:</b> Management & Support</i>
 	</summary>
 	
-The **Management & support** page displays information on the management of the MoSDs and the level of support provided by partners. Ths information is illustrated in terms of: 
-- Ownership
-	-  A map to spot the distribution of MoSDs according to their ownership (i.e., public, private, private-faith-based, NGO/iNGO).
+The **Management & support** page displays information on the management of the MoSDs and the level of support provided by partners. The information is illustrated in terms of: 
+- Ownership:
+	-  A map to spot the distribution of MoSDs according to their ownership (i.e. public, private, faith-based and, NGO/iNGO).
 	-  A doughnut  chart to highlighting the categories of ownership as a percentage of the total number of MoSDs.
 - External support:
 	-  A doughnut  chart to illustrate the level of support provided by partners.
@@ -386,44 +386,44 @@ The **Service Availability** page displays multiple pages per type of service. E
 
 ### Download data
 
-For more in-depth analysis, data of individual workspaces can be donwloaded as CSV files. 
+Users who would like to peform additional, in-depth analysis can download data for individual workspaces following the instructions below. 
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
-	<i> Note: In order to download data, you will require access to the corresponding workspace. Contact your system administrator to change your access rights if needed.</i>
+	<i> In order to download data, you will require access to the corresponding workspace. Contact your system administrator to elevate your access rights if needed.</i>
 </p>
 
-1. Go to the workspace page of your project(see [Access the Data Edit Interface](#Access the Data Edit Interface) steps 1-4 for detailed instructions).
+1. Go to the workspace page of your project(see [Access the Data Edit Interface](#access-the-data-edit-interface) steps 1-4 for detailed instructions).
 2. In the rightmost column, click the <img src="media/images/icon_download.png" height="20" align="top" alt='New record'></img> button. This will download all records (MoDS) of this workspace.
 
 <p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: For surveys that not in English make sure correctly define the encoding when opening the data in Excel (see [Data Encoding in Excel](#data-encoding-in-excel) for details).</i>
+	<i> For surveys that are not in English make sure to correctly define the encoding when opening the data in Excel (see [Data Encoding in Excel](#data-encoding-in-excel) for details).</i>
 </p>
 
-#### Download the entire dataset
+#### Download the entire data set
 
-Coming soon
+*Coming soon*
 
 <p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Note: Users are adviced to downlaod data for individual workspace as outlined above. The ability to download the entire data set is restricted to few users. Contact your system administrator for further information.</i>
+	<i> Users are advised to download data for individual workspace as outlined above. The ability to download the entire data set is restricted to few users. Contact your system administrator for further information.</i>
 </p>
 
 #### Data Encoding in Excel
 
-When you open your data in Excel, it is important to select the correct encoding. 
+When you open your data in Excel, it is important to select the correct (UTF-8) encoding. 
 
 <p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: An indication of the wrong encoding is if your data contains weir character such as *Ã©*. For examples instead of *camp de réfugiés* you get *Camp de rÃ©fugiÃ©s*.</i>
+	<i> Using the worng encoding can result in unreadable text. For examples instead of *camp de réfugiés* you get *Camp de rÃ©fugiÃ©s*.</i>
 </p>
 
 
 1. Open a new Excel file.
-2. On the Data tab, in the **Get & Transform Data** group, click **From Text/CSV**.
+2. On the Data tab in the **Get & Transform Data** group, click **From Text/CSV**.
 3. In the **Import Data** dialog box, locate and double-click the text file that you want to import, and click **Import**.
-4. In the top left corner of the pop-up window that opens, change the encoding type to **UTF-8**, and click Import.
+4. In the top left corner of the pop-up window that opens, change the encoding type to **UTF-8**, and click **Import**.
 
 <p align="center">
 	<img src="media/videos/HeRAMS_excel_encoding.gif" alt="data update interface" height="300"></img>
@@ -431,32 +431,40 @@ When you open your data in Excel, it is important to select the correct encoding
 
 # 3. Edit Data
 
-The following section provides an step-by-step guide on how to access the data edit interface, create, edit and delete health facilities.
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The following section provides a step-by-step guide on how to access the data edit interface, create, edit and delete health facilities.
+
+<p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> Please not that access to the data edit interface is limited to data data managers responsible to update the data.  
 	Should your role require you to contact any of the functions described in this sections, contact your system administrator in order for your permissions to be adjusted accordingly.</i>
 </p>
 
 ### Access the Data Edit Interface
-The below steps guide through though the admin interface to access the data editing interface. 
 
-1. Open the admin interface, by clicking the <img src="media/images/icon_settings.png" height="20" align="top" alt='settings'></img> button on the top right corner next to your name. 
-2. From the navigation pane on the left, select [Projects](#https://herams.org/project/index)
-3. You should now see a table of all available projects. For each project, the table displays the number workspaces, contributors, and health facilities. 
-4. In the rightmost column, click the workspace <img src="media/images/icon_workspace.png" height="20" align="top" alt='workspace'></img> icon. This will open the list of available workspace.
-
-<p align="center">
-	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
-	<i> Note:Workspace are used in HeRAMS to manage access permission to data. A workspace might for example constitute a specific organization or a geographic region. This system allows to tailor access rights for individual purposes. For more information on workspace click [here](#workspace).</i>
-</p>
-
-5. To view the health facilities that are part of a specific workspace, click the <img src="media/images/icon_update_data.png" height="20" align="top" alt='Edit data'></img> icon in the *Action* column. 
+1. Open the admin interface, by clicking the <img src="media/images/icon_settings.png" height="20" align="top" alt='settings'></img> button on the top right corner of the page, next to your name. 
+2. From the navigation pane on the left, select [Projects](https://herams.org/project/index).
+3. You should now see a table of all available projects. For each project, the table displays the number workspaces, contributors, health facilities and responses. 
 
 <p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: Be aware that a workspace might have multiple pages. Use the **>>** to move to the next page or filter the workspaces by typing the workspace name in the field below the header row.</i>
+	<i> The number of responses can be higher than the total number of health facilities. This indicates that a health facilitiy was assessed multiple times over a specfic time frame.</i>
 </p>
+
+4. In the rightmost column, click the <img src="media/images/icon_workspace.png" height="20" align="top" alt='workspace'></img> icon. This will open the list of available workspace.
+
+<p align="center">
+	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
+	<i> HeRAMS uses so called workspaces to manage access permission to the underlying data and enable a granual access control mechanism. 
+	A workspace might for example constitute a specific organization or a geographic region. For more information on workspace click [here](#workspace).</i>
+</p>
+
+5. To view the health facilities that are part of a specific workspace, click the <img src="media/images/icon_data_update_black.png" height="20" align="top" alt='Edit data'></img> icon in the *Action* column. 
+
+<p align="center">
+	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<i> Be aware that a workspace might have multiple pages. Use the <img src="media/images/icon_page_forward.png" height="20" align="top" alt='next page'></img> to move to the next page or filter the workspaces by typing the workspace name in the field below the header row.</i>
+</p>
+
 
 <p align="center">
 	<img src="media/images/HeRAMS_workspace_filter.png" alt="HeRAMS Worldview" height="300"></img>
@@ -472,27 +480,28 @@ The below steps guide through though the admin interface to access the data edit
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
-	<i> Please note that editing a record will override the existing record. If you would like to update the status of a MoDS while keeping a record of the changes might, follow the instructions in the section below.</i>
+	<i> Please note that editing a record will override the existing record. If you would like to update the status of a health facility while keeping a record of the changes might, follow the instructions in the section below.</i>
 </p>
 
 1. To edit a record click the <img src="media/images/icon_pencil_blue.png" height="20" align="top" alt='pencil'></img>  icon in the left most column. 
 
 <p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Tip: Be aware that a table might have multiple pages. Use the button in the button left corner to go to the next page. You can also reduce the number of records displayed by applying filters.</i>
+	<i> Be aware that a table might have multiple pages. Use the button in the button left corner to advance to the next page. You can also reduce the number of records displayed by applying filters.</i>
 </p>
 
 <p align="center">
-	<img src="media/images/HeRAMS_data_update_interface.png" alt="HeRAMS Worldview" height="300"></img>
+	<img src="media/images/HeRAMS_data_update_table.png.png" alt="HeRAMS Worldview" height="300"></img>
 </p>
 
-2. Use the two buttons on the <img src="media/images/bt_new_record_en.png" height="20" align="top" alt='next'></img> buttons on the lower right to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specfic section of the questionnaire.
-3. To save your changes, navigate to the last page **Validate** and click the <img src="media/images/bt_submit_en.png" height="20" align="top" alt='send'></img>.
-4. If you would like to discard your edits, click the <img src="media/images/bt_clear.png" height="20" align="top" alt='exit'></img>  button. 
+2. You should now be able to edit the selected record. Use the  <img src="media/images/bt_next_en.png" height="20" align="top" alt='next'></img> buttons in the lower right corner to move to the next page of the questionnaire or return to the previous page. 
+You can also use the navigation pane on the left to access a specific section of the questionnaire.
+3. To save your changes, navigate to the last page **Validate** and click the <img src="media/images/bt_submit_en.png" height="20" align="top" alt='send'></img> button.
+4. If you would like to discard your edits, click the <img src="media/images/bt_clear_en.png" height="20" align="top" alt='exit'></img> button in the lower right corner of the page. 
 
 ### Update a Health Facility
 
-If HeRAMS is used as a monitoring tool, you can update the record without losing the records history. 
+If HeRAMS is used as a monitoring tool, you can update health facility without while keeping the existing information. 
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
@@ -517,34 +526,34 @@ If HeRAMS is used as a monitoring tool, you can update the record without losing
 
 <p align="center">
 	<img src="media/images/icon_warning.png" height="20" align="top" alt='warning'></img>
-	<i> Note: Deleting records cannot be undone. Be careful when deleting a record.</i>
+	<i> Deleting records cannot be undone. Be careful when deleting a record.</i>
 </p>
 
 # 4. HeRAMS Administration
 
 This chapter aims to provide an overview of the admin pages in HeRAMS and provides step-by-step instruction for common tasks conducted by advanced users and local administrators. 
-The first part of the chapter is dedicated to the concept and management of [Workspaces](#workspaces) while the second part focuses on [project](#projects) level administration as well as the configuration of project specific [dashboards](#configure-the-project-dashboard). 
+The first part of the chapter introduces the the concept and management of [Workspaces](#workspaces) while the second part focuses on [Project](#projects) level administration as well as the configuration of project specific [Dashboards](#configure-the-project-dashboard). 
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
-	<i> Note: Access to each of the sub-sections of this chapter are depending on the tasks a users is expected to complete. If you require your permissions to be changed, please contact your system administrator.</i>
+	<i> Access to each of the sub-sections of this chapter are depending on the tasks a users is expected to complete. If you require your permissions to be changed, please contact your system administrator.</i>
 </p>
 
 ### Workspaces
 
 HeRAMS uses the concept of workspaces to manage user permissions. Each workspace consists of several health facilities and has a dedicated focal point responsible for updating these records. 
 A workspace might for example include all health facilities of a geographical region, health facilities managed by a specific partner or any other logical category. 
-Thus, the use of workspaces in combination with different levels of permission (see below) assures granular, role-based access control to a project and workspaces. 
-While most users only have access to a single workspace, local administrators might have access to several or all workspace and are responsible to add new users to a workspace, change a user's permission or to create additional workspace.
+Thus, the use of workspaces in combination with different levels of permission (see below) assures granular, role-based access control to a project and the underlying data. 
+While most users only have access to a single workspace, local administrators might have access to several or all workspaces. Moreover, local administrators often perform  user management tasks such as adding new users to a workspace, change a user's permission or to create additional workspaces.
 
-- <img src="media/images/icon_refresh.png" height="20" align="top" alt='refresh'></img> **Data Refresh**: This button allows users to manually refresh the data cache of a workspace.
-- <img src="media/images/icon_edit.png" height="20" align="top" alt='edit'></img> **Update Workspace** allows to change the title or token of a workspace.
-- <img src="media/images/icon_share.png" height="20" align="top" alt='share'></img> **Share Workspace**:Access to workspaces is granted by sharing a workspace with users. For more information on how to add users to a workspace see [here](#add-a-user-to-a-workspace).
+- <img src="media/images/icon_refresh_data.png.png" height="20" align="top" alt='refresh'></img> **Data Refresh**: This button allows users to manually refresh the data cache of a workspace.
+- <img src="media/images/icon_pencil_black.png" height="20" align="top" alt='edit'></img> **Update Workspace**: allows to change the title or token of a workspace.
+- <img src="media/images/icon_share.png" height="20" align="top" alt='share'></img> **Share Workspace**: Access to workspaces is granted by sharing a workspace with users. For more information on how to add users to a workspace click [here](#add-a-user-to-a-workspace).
 - <img src="media/images/icon_delete_black.png" height="20" align="top" alt='delete'></img> **Delete Workspace** See [Delete Worksapces](#delete-workspaces) for further information
-- <img src="media/images/icon_download.png" height="20" align="top" alt='download'></img>**Download Data**: Downloads all data associated with the workspace. See *chapter 2* for more informatio on [data download](#download-data).  
-- <img src="media/images/icon_pencil_black.png" height="20" align="top" alt='edit data'></img>**Data Update**: This opens the data edit interface. More infomration on data editing and updating is available in the [previous chapter](#edit-data).  
+- <img src="media/images/icon_download.png" height="20" align="top" alt='download'></img> **Download Data**: Downloads all data associated with the workspace. See *chapter 2* for more informatio on [data download](#download-data).  
+- <img src="media/images/icon_pencil_black.png" height="20" align="top" alt='edit data'></img> **Data Update**: This opens the data edit interface. More infomration on data editing and updating is available in the [previous chapter](#edit-data).  
 
-<span align="center">
+<p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> The number of buttons visible to you depend on your access rights and might vary from one workspace to another.</i>
 </p>
@@ -572,7 +581,7 @@ There are two permission levels that a user can be granted to a workspace. Users
 
 <p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i>Tip: You can add multiple users add once as shown in the image above.</i>
+	<i>You can add multiple users add once as shown in the image above.</i>
 </p>
 
 <p align="center">
@@ -606,7 +615,7 @@ There are two permission levels that a user can be granted to a workspace. Users
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i>Note: Tokens are unique identifiers that link health facilities to workspaces. To add a health facility to a workspace the token of the record in question has to be manually changed. Contact your system administrator for guidance on how to change a record's token.</i>
+	<i>downloadTokens are unique identifiers that link health facilities to workspaces. To add a health facility to a workspace the token of the record in question has to be manually changed. Contact your system administrator for guidance on how to change a record's token.</i>
 </p>
 
 #### Delete Worksapces
@@ -615,7 +624,7 @@ There are two permission levels that a user can be granted to a workspace. Users
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i>Note: Deleting workspace will not affect the underlying data. See the previous chapter to learn how to permanently delete health facilities)= on deleting record for details on how to permanently [remove health facilities](#delete-a-health-facility).</i>
+	<i>downloadDeleting workspace will not affect the underlying data. See the previous chapter to learn how to permanently delete health facilities)= on deleting record for details on how to permanently [remove health facilities](#delete-a-health-facility).</i>
 </p>
 
 ### Projects
@@ -636,7 +645,7 @@ For each project the number of workspace, contributors, health facilities, and r
 
 <span align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i>Note: The number of buttons visible to you depend on your access rights to a specific project is likely to vary from one project to another</i>
+	<i>downloadThe number of buttons visible to you depend on your access rights to a specific project is likely to vary from one project to another</i>
 </p>
 
 #### Project Permissions
@@ -661,7 +670,7 @@ Tere are three permission levels that a user can be granted to a project.
 
 <p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i>Tip: You can add multiple users add once as shown in the image above.</i>
+	<i>You can add multiple users add once as shown in the image above.</i>
 </p>
 
 6. Use the checkboxes to assign appropriate permission rights. See[Project Permissions](#project-permissions) for further information on the different permission levels available.
@@ -721,7 +730,7 @@ Individually configured dashboards are available for each project, providing an 
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i>Note: you only created an empty page. To add elements to your page, see section [Add an Element to a Page](#add-an-elements-to-a-page).</i>
+	<i>downloadyou only created an empty page. To add elements to your page, see section [Add an Element to a Page](#add-an-elements-to-a-page).</i>
 </p>
 
 ### Update a Dashboard Page
@@ -735,7 +744,7 @@ To delete a dashboard page, click the <img src="media/images/icon_delete_black.p
 
 <p align="center">
 	<img src="media/images/icon_warning.png" height="20" align="top" alt='tip'></img>
-	<i>Note: Deleting dashboard pages and elements cannot be undone. Be careful when deleting pages or elements.</i>
+	<i>downloadDeleting dashboard pages and elements cannot be undone. Be careful when deleting pages or elements.</i>
 </p>
 
 #### Add an Element to a Page
@@ -784,7 +793,7 @@ Users with the permissions to edit dashboards can modify charts and maps directl
 
 <span align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i>Note: Dashboard elements can also be edited from the  [Add an Element to a Page](#add-an-elements-to-a-page).</i>
+	<i>downloadDashboard elements can also be edited from the  [Add an Element to a Page](#add-an-elements-to-a-page).</i>
 </p>
 
 
@@ -795,7 +804,7 @@ To remove elements form a page, return to the dashbo
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i>Note: Be careful deleting dashboard elements. Deleted elements cannot be restore.</i>
+	<i>downloadBe careful deleting dashboard elements. Deleted elements cannot be restore.</i>
 </p>
 
 
