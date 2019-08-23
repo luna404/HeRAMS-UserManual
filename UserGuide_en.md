@@ -546,16 +546,16 @@ A workspace might for example include all health facilities of a geographical re
 Thus, the use of workspaces in combination with different levels of permission (see below) assures granular, role-based access control to a project and the underlying data. 
 While most users only have access to a single workspace, local administrators might have access to several or all workspaces. Moreover, local administrators often perform  user management tasks such as adding new users to a workspace, change a user's permission or to create additional workspaces.
 
-- <img src="media/images/icon_refresh_data.png.png" height="20" align="top" alt='refresh'></img> **Data Refresh**: This button allows users to manually refresh the data cache of a workspace.
+- <img src="media/images/icon_refresh_data.png" height="20" align="top" alt='refresh'></img> **Data Refresh**: This button allows users to manually refresh the data cache of a workspace.
 - <img src="media/images/icon_pencil_black.png" height="20" align="top" alt='edit'></img> **Update Workspace**: allows to change the title or token of a workspace.
 - <img src="media/images/icon_share.png" height="20" align="top" alt='share'></img> **Share Workspace**: Access to workspaces is granted by sharing a workspace with users. For more information on how to add users to a workspace click [here](#add-a-user-to-a-workspace).
 - <img src="media/images/icon_delete_black.png" height="20" align="top" alt='delete'></img> **Delete Workspace** See [Delete Worksapces](#delete-workspaces) for further information
 - <img src="media/images/icon_download.png" height="20" align="top" alt='download'></img> **Download Data**: Downloads all data associated with the workspace. See *chapter 2* for more informatio on [data download](#download-data).  
-- <img src="media/images/icon_pencil_black.png" height="20" align="top" alt='edit data'></img> **Data Update**: This opens the data edit interface. More infomration on data editing and updating is available in the [previous chapter](#edit-data).  
+- <img src="media/images/icon_data_update_black.png" height="20" align="top" alt='edit data'></img> **Data Update**: This opens the data edit interface. More infomration on data editing and updating is available in the [previous chapter](#edit-data).  
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
-	<i> The number of buttons visible to you depend on your access rights and might vary from one workspace to another.</i>
+	<i> The number of buttons visible to you depends on your access rights and might vary from one workspace to another.</i>
 </p>
 
 #### Workspace Permissions
@@ -566,15 +566,15 @@ There are two permission levels that a user can be granted to a workspace. Users
 2. Full access, includes editing the workspace properties, token and response data
 
 #### Add a User to a Workspace
-1. To grant a user access to a workspace, open the admin interface by clicking the <img src="media/images/icon_settings.png" height="20" align="top" alt='settings'></img> button in the top right corner of the screen.
-2. In the navigation pane on the left, click [Projects](https://herams.org/project/index) to open the project overview page.
+1. To grant a user access to a workspace, open the admin interface by clicking the <img src="media/images/icon_settings.png" height="20" align="top" alt='settings'></img> icon in the top right corner of the screen.
+2. In the navigation pane on the left, click [Projects](https://herams.org/project/index) to open the Project overview's table (see [Projects](#projects) for more information).
 3. In the rightmost column of the table, you should see several action buttons. Click the <img src="media/images/icon_workspace.png" height="20" align="top" alt='workspace'></img>  icon. This will open the workspace of the selected project.  
-4. You should now see a table with all workspaces. For each workspace the table provides information on the last time data was synced with the underlying database, the number of contributors, health facilities and responses. Alike the project table, the las column contains several action button. 
-5. To add a new user, you have to share the workspace with the user. In the **Actions** column of the workspace you would like to share, click the <img src="media/images/icon_share.png" height="20" align="top" alt='share'></img>  icon
+4. You should now see a table with all workspaces of your project. For each workspace the table provides information on the last time data was synced with the underlying database, the number of contributors, health facilities and responses. Alike the project table, the last column contains several action buttons. 
+5. To grant a user access to a workspace (e.g. to update the data), you have to share the workspace with them. Click the <img src="media/images/icon_share.png" height="20" align="top" alt='share'></img> icon in the *Actions* column.
 6. You should now see something similar to the image below. On the bottom half of the screen you can see a list of all users currently having access to this workspace and their permission level. 
 
 <p align="center">
-	<img src="media/images/HeRAMS_workspace_share.png alt="share workspace" height="300"></img>
+	<img src="media/images/HeRAMS_workspace_share.png" alt="Overview" height="300"></img>
 </p>
 
 7. In the top half the page you have the option to add a user. Start typing the users name in the top field. You will notice that the list of users is dynamically filtering. Select the user you would like to add.
@@ -583,12 +583,13 @@ There are two permission levels that a user can be granted to a workspace. Users
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i>You can add multiple users add once as shown in the image above.</i>
 </p>
-
 <p align="center">
-	<img src="media/images/HeRAMS_workspace_share.png" alt="Overview" height="300"></img>
+	<img src="media/images/icon_info.png" height="30" align="top" alt='tip'></img>
+	<i>If you cannot find a users, it means the user has not create an account. Ask the user to greate an account by registering on the [HeRAMS platform](https://herams.org) and then retry. Should the issue persist, contact your system administrator.</i>
 </p>
 
-8. Use the checkboxes to assign appropriate permission rights. See the previous section for further details on [Workspace Permissions](#workspace-permissions).
+
+8. Use the checkboxes to select the apropriate permission level. See the previous section for further details on [Workspace Permissions](#workspace-permissions).
 9. Click the <img src="media/images/bt_share.png" height="20" align="top" alt='share'></img> button to share the workspace with the selected user(s).
 
 <p align="center">
@@ -597,60 +598,65 @@ There are two permission levels that a user can be granted to a workspace. Users
 
 #### Remove a User from a Workspace
 
-1. To remove a user from a workspace, follow the steps 1-6 outlined [above](#add-a-user-to-a-workspace) to access the workspace from which you would like to remove a user.
+1. To remove a user from a workspace, navigate to the workspace from which you would like to remove a user. Follow steps 1 - 6 outlined [above](#add-a-user-to-a-workspace) to access the workspace.
 2. On the second half of the screen you should now see a list of all users having access to the workspace. Click the <img src="media/images/icon_delete_red.png" height="20" align="top" alt='bin'></img> icon to remove the user permanently. 
 
 #### Change a User's Workspace Permission
 
 1. To change a user's permission, remove the user from the workspace as outlined [above](#remove-a-user-from-a-workspace).
-2. Now add the user again using the new permission level envisioned (see section [Add a User to a Workspace](#add-a-user-to-a-workspace) for details).
+2. Now add the user again using the new permission level (see section [Add a User to a Workspace](#add-a-user-to-a-workspace) for details).
 
 #### Create a New Worksapce
 
-1. To create a new workspace, access to the workspace page of your project (see section [Add a User to a Workspace](#add-a-user-to-a-workspace) for details).
-2. On the upper left corner, you should see a button labelled <img src="media/images/bt_create_workspace_en.png" height="20" align="top" alt='share'></img>
+1. To create a new workspace, access the workspace page of your project (Follow steps 1 - 6 in the [Add a User to a Workspace](#add-a-user-to-a-workspace) section).
+2. On the upper left corner, you should see a button labelled <img src="media/images/bt_create_worksapce.png" height="20" align="top" alt='create workspace'></img>
 3. On the page that opens, you should now be able to create a new workspace. 
+
+<p align="center">
+	<img src="media/image/HeRAMS_workspace_create.png" alt="create workspace" height="300"></img>
+</p>
+
 4. Enter the name of the workspace into the title field. 
-5. Use the dropdown list to select the corresponding **Token** or select *Create new token* in order to create a new token.
+5. Use the dropdown list to select the corresponding **Token** or create a new token by selecting *Create new token*.
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i>downloadTokens are unique identifiers that link health facilities to workspaces. To add a health facility to a workspace the token of the record in question has to be manually changed. Contact your system administrator for guidance on how to change a record's token.</i>
+	<i> Tokens are unique identifiers that link health facilities to workspaces. To add a health facility to a workspace the token of the record in question has to be manually changed. Contact your system administrator for guidance on how to change a record's token.</i>
 </p>
 
 #### Delete Worksapces
 
-1. You can remove a workspace by clicking the <img src="media/images/icon_delete_black.png" height="20" align="top" alt='bin'></img> icon in the action column next to the workspace in question.
+1. You can remove a workspace by clicking the <img src="media/images/icon_delete_black.png" height="20" align="top" alt='bin'></img> icon in the **Actions** column next to the selected workspace.
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i>downloadDeleting workspace will not affect the underlying data. See the previous chapter to learn how to permanently delete health facilities)= on deleting record for details on how to permanently [remove health facilities](#delete-a-health-facility).</i>
+	<i> Deleting workspace will not affect the underlying data. See the previous chapter to learn how to permanently [remove health facilities](#delete-a-health-facility) from your project.</i>
 </p>
 
 ### Projects
 
-The [project](#https://herams.org/project/index) page provides a brief overview of all project available on the HeRAMS platform. 
+The [project](#https://herams.org/project/index) page provides a brief overview of all projects available on the HeRAMS platform. 
 
 <p align="center">
 	<img src="media/images/HeRAMS_projects.png" alt="project page" height="300"></img>
 </p>
 
-For each project the number of workspace, contributors, health facilities, and responses is displayed. The last column provides a series of action buttons. 
+For each project the number of workspace, contributors, health facilities, and responses is displayed. Alike the table of workspaces, the last column contains a series of action buttons. 
 
 - <img src="media/images/icon_workspace.png" height="20" align="top" alt='workspace'></img>**Workspaces**: For more information on workspaces click [here](#workspace).
-- <img src="media/images/icon_dashboard.png" height="20" align="top" alt='dashboard'></img>**Dashboard**: By clicking the icon, the project [dashboard](#dashboard) will be opened. If the button is not visible, you do not have the necessary permissions to access the dashboard where it has not yet been created. [Dashboard](#dashboard) 
-- <img src="media/images/icon_pencil_black.png" height="20" align="top" alt='update project'></img>**Edit**: Permits users with appropriate permission to update a project's [general settings](#project-settings) as well as to configure the project [dashboard](#configure-the-project-dashboard). 
+- <img src="media/images/icon_dashboard.png" height="20" align="top" alt='dashboard'></img>**Dashboard**: By clicking the dashboard icon, the project [dashboard](#dashboard) will be opened. 
+- <img src="media/images/icon_pencil_black.png" height="20" align="top" alt='update project'></img>**Edit**: Permits users with appropriate permission to alter the  project [settings](#project-settings) as well as to configure the project [dashboard](#configure-the-project-dashboard). 
 - <img src="media/images/icon_check_data.png" height="20" align="top" alt='check data'></img>**Check Data**: Can be used for a quick review of the data to identify invalid responses.
-- <img src="media/images/icon_share.png" height="20" align="top" alt='share'></img>**Share**: The sharing function is used to grant users access to a project. See [below](#add-a-user-to-a-project) for further details [Share](#) the entire project.
+- <img src="media/images/icon_share.png" height="20" align="top" alt='share'></img>**Share**: The sharing function is used to grant users access to a project. See [below](#add-a-user-to-a-project) for further details.
 
-<span align="center">
+<p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i>downloadThe number of buttons visible to you depend on your access rights to a specific project is likely to vary from one project to another</i>
+	<i> The number of buttons visible to you depends on your access rights to a specific project is likely to vary from one project to another</i>
 </p>
 
 #### Project Permissions
 
-Tere are three permission levels that a user can be granted to a project. 
+Tere are three permission levels which can be used to grant a user access to a project. 
 
 1. Allow access to the project dashboard from the world map
 2. Allows full access to all workspaces in this project as well as creating new ones or deleting existing ones
@@ -730,7 +736,7 @@ Individually configured dashboards are available for each project, providing an 
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i>downloadyou only created an empty page. To add elements to your page, see section [Add an Element to a Page](#add-an-elements-to-a-page).</i>
+	<i> you only created an empty page. To add elements to your page, see section [Add an Element to a Page](#add-an-elements-to-a-page).</i>
 </p>
 
 ### Update a Dashboard Page
@@ -744,7 +750,7 @@ To delete a dashboard page, click the <img src="media/images/icon_delete_black.p
 
 <p align="center">
 	<img src="media/images/icon_warning.png" height="20" align="top" alt='tip'></img>
-	<i>downloadDeleting dashboard pages and elements cannot be undone. Be careful when deleting pages or elements.</i>
+	<i> Deleting dashboard pages and elements cannot be undone. Be careful when deleting pages or elements.</i>
 </p>
 
 #### Add an Element to a Page
@@ -793,7 +799,7 @@ Users with the permissions to edit dashboards can modify charts and maps directl
 
 <span align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i>downloadDashboard elements can also be edited from the  [Add an Element to a Page](#add-an-elements-to-a-page).</i>
+	<i> Dashboard elements can also be edited from the  [Add an Element to a Page](#add-an-elements-to-a-page).</i>
 </p>
 
 
@@ -804,7 +810,7 @@ To remove elements form a page, return to the dashbo
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img>
-	<i>downloadBe careful deleting dashboard elements. Deleted elements cannot be restore.</i>
+	<i> Be careful deleting dashboard elements. Deleted elements cannot be restore.</i>
 </p>
 
 
