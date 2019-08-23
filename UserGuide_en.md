@@ -450,7 +450,7 @@ The following section provides a step-by-step guide on how to access the data ed
 	<i> The number of responses can be higher than the total number of health facilities. This indicates that a health facilitiy was assessed multiple times over a specfic time frame.</i>
 </p>
 
-4. In the rightmost column, click the <img src="media/images/icon_workspace.png" height="20" align="top" alt='workspace'></img> icon. This will open the list of available workspace.
+4. In the rightmost column, click the <img src="media/images/icon_workspace.png" height="20" align="top" alt='workspaces'></img> icon. This will open the list of available workspace.
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
