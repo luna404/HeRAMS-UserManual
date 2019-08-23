@@ -708,7 +708,7 @@ Tere are three permission levels which can be used to grant a user access to a p
 	- to update the status of the project;
 	- to configure the pop-up information displayed on the main page; and
 	- to congifure the project dashboard (Additional information on how to configure the project dashboard is available [here](#configure-dashboard)).
-5. Make sure you save your changes by clicking the <img src="media/images/bt_update_project.png" height="30" align="middle" alt='update project'></img> button.
+5. Make sure you save your changes by clicking the <img src="media/images/bt_update_project.png" height="25" align="middle" alt='update project'></img> button.
 
 ### Configure the Project Dashboard
 
