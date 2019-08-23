@@ -781,12 +781,14 @@ If you would like to extend your dashbaord by adding additional pages, please se
 **Tables:**
 
 12. Click the <img src="media/images/bt_create_element_blue.png" height="20" align="top" alt='create element'></img> button to add create the element.
-13. Upon saving the record you should see two new filed appearing labelled **Reason Code** and the **Group Code**. Select appropiriate questions codes from the dropdown list as shown in the example below.
-The table displays the percentage of health facilities that are functioning and the main causes of disfunctionality by district.
+13. Upon saving the record you should see two new filed appearing labelled **Reason Code** and **Group Code**. Select the appropiriate questions codes from the dropdown list as shown in the example below.
 
 <p align="center">
-	<img src="media/images/HeRAMS_create_dashboard_table.png" alt="dashboard pages" height="300"></img>
+	<img src="media/images/HeRAMS_dashboard_create_table.png" alt="dashboard pages" height="300"></img>
+	<br><i>The table displays the percentage of health facilities that are functioning and the main causes of disfunctionality by district.</i>
 </p>
+
+
 
 #### Add a New Page to a Dashbaord
 
