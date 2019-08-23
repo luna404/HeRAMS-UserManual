@@ -4,10 +4,9 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 
 1. [Se connecter & profil de l'utilisateur](#1-se-connecter--profil-de-lutilisateur)
 	 - [Se connecter](#se-connecter)
-	   - [Nouvel utilisatuer](#nouvel-utilisatuer)
 	   - [Réinitialiser le mot de passe](#réinitialiser-le-mot-de-passe)
-	   - [Se déconnecter](#se-déconnecter)
-	  - [Profil de l'utilisateur](#profil-de-utilisateur)
+	 - [Se déconnecter](#se-déconnecter)
+	 - [Profil de l'utilisateur](#profil-de-utilisateur)
 		- [S'inscrire (créer un compte)](#sinscrire-créer-un-compte)
 		- [Actualiser votre profil de l'utilisateur](#actualiser-votre-profil-de-lutilisateur)
 		- [Ajouter une photo au profil](#ajouter-une-photo-au-profil)
@@ -56,12 +55,14 @@ This user manual aims to help user navigate the [HeRAMS](https://herams.org/logi
 Veuillez suivre les instruction ci-dessous pour se connecter à la platforme HeRAMS. 
 1. Veuillez ouvrir le lien https://herams.org dans votre navigateur. 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> Conseil : Il est recommandé d’utiliser les navigateurs Firefox ou Chrome.</i>
-</span>
+</p>
 
-2. Une fenêtre contextuelle apparaîtra vous demandant votre nom d'utilisateur et le mot de passe. Si vous n'êtes pas encore inscrit, veuillez suivre les instruction fournies [sinscrire-créer-un-compte](#create-user-account). 
+2. Une fenêtre contextuelle apparaîtra vous demandant votre nom d'utilisateur et le mot de passe.
+Si vous n'êtes pas encore inscrit, vous devrez d'abord créer un compte.  
+Pour créer un compte sur [HeRAMS](https://herams.org/login), veuillez suivre les instructions fournies dans la séction [S'inscrire](#sinscrire-créer-un-compte).
 3. Saisissez vos informations d'identification (e-mail et mot de passe) et cliquez sur le bouton de connexion <img src="/media/images/bt_login.png" height="20" align="top"></img>.
 4. Veuillez cliquer le <img src=" images/bt_submit_en.png" height="20" align="top" alt="Submit"></img> pour vous connecter.
 
@@ -69,11 +70,6 @@ Veuillez suivre les instruction ci-dessous pour se connecter à la platforme HeR
 	<img src=" videos/HeRAMS_login.gif" alt="HeRAMS Login" height="300"/></img>
 </p>
  
-## Nouvel utilisatuer
-
-Si vous n'êtes pas encore inscrit, vous devrez d'abord créer un compte.  
-Pour créer un compte sur [HeRAMS](https://herams.org/login), veuillez suivre les instructions fournies dans la séction [S'inscrire](#sinscrire-créer-un-compte).
-
 ### Réinitialiser le mot de passe
 
 1. Si vous avez oublié votre mot de passe, veuillez ouvrir le lien [https://herams.org](https://herams.org) dans votre navigateur.
@@ -83,10 +79,10 @@ Pour créer un compte sur [HeRAMS](https://herams.org/login), veuillez suivre le
 5. Veuillez cliquer sur le bouton <img src=" images/bt_submit_en.png" height="20" align="top" alt="Submit"></img>.
 6. Un courrier électronique automatique avec un lien pour réinitialiser votre mot de passe sera envoyé sur votre compte. 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> Conseil: Si vous ne recevez pas cet email, merci de vérifier votre dossier de courriers indésirables.</i>
-</span>
+</p>
 
 7. Veuillez ouvrir le lien et saisir votre nouvel mot de passe.
 8. Confirmez votre nouvel mot de passe en cliquant le bouton <img src=" images/bt_submit_en.png" height="20" align="top" alt="Submit"></img>.
@@ -108,18 +104,18 @@ Pour se déconnecter, veuillez cliquer sur le bouton de déconnection  <img src=
 2. Dans la page d'ouverture, veuillez cliquer sur le lien [sign-up](https://herams.org/user/register).
 3. Dans la page qui saffiche veuillez saisir votre nom, address e-mail et mot de passe.
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_info.png" height="20" align="top" alt='tip'></img>
 	<i> Veuillez noter que votre address e-mail sera également votre nom d'utilisateur.</i>
-</span>
+</p>
 
 4. Enregistre votre compte en cliquant le bouton  <img src=" images/bt_sign_up.png" height="20" align="top"></img> 
 5. Un courrier électronique automatique de cofirmation sera envoyé sur votre compte. 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> Conseil: Si vous ne recevez pas cet email, merci de vérifier votre dossier de courriers indésirables.</i>
-</span>
+</p>
 
 6. Veuillez confirmer votre inscription en cliquant le lien dans l'e-mail.
 
@@ -132,19 +128,19 @@ Pour mettre à jour votre profil d'utilisateur ou les détails de votre compte (
 Cela ouvrira votre [profil de l'utilisateur](https://herams.org/user/settings/profile) et vous permet de mettre vos renseignements à jour.
 Une fenêtre contextuelle apparaîtra vous demandant de remplir votre email
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> Veuillez noter que le prénom, le nom et l'organisation sont obligatoires.</i>
-</span>
+</p>
 
 #### Ajouter une photo au profil
 
 Vous pourrez personnaliser votre compte en ajoutant une photo à votre profil.  
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> Pour plus d'informations sur Gravatar, veuillez cliquer [ici](https://fr.gravatar.com/support/what-is-gravatar/)</i>
-</span>
+</p>
 
 1. Veuillez ouvrir votre profil de l'utilisateur en cliquant sur votre nom dans le coin supérieur à droit. 
 2. Veuillez tapper sur le lien [Gravatar](https://en.gravatar.com/) (voir illustration ci-dessous).
@@ -157,10 +153,10 @@ Vous pourrez personnaliser votre compte en ajoutant une photo à votre profil.
 4. Lorsque vous serez connecté, veuillez ouvrir l'onglet **Manage Gravatars** et télécharger votre photo. 
 5. Dans l'onglet **My Gravatars** vous devriez maintenant pouvoir ajouter l'image à vo
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> Veuillez noter que  quelques minutes peuvent être nécessaires avant que le image s'affiche sur HeRAMS. </i>
-</span>
+</p>
 
 ### Modifier le mot de passe
 
@@ -201,10 +197,10 @@ Chaque projet dans HeRAMS possède un tableau de bord personnalisé qui vous per
 	<img src=" images/HeRAMS_dashboard_overview.png" alt="HeRAMS Register" height="300"/></img>
 </p>
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> Conseil: Certaines pages peuvent contenir des sous-pages désigné par un **>** à côte du nom de la page</i>
-</span>
+</p>
 
 4. Pour retourner à à une page présentente, veuillez utiliser le menu de navigation situé à gauche ou le volet de navigation en haut de la page.
 Par exemple, l'image ci-dessous affiche une sous-page du tableau de bord de Nigera. Pour retourner à la premier page du tableau de bord, cliquez sur * Nigeria * dans le volet de navigation.
@@ -232,11 +228,11 @@ Cette section fournit quelques conseils et astuces sur la façon de personnalise
 La section suivante fournit une vue d'ensemble des pages standard présentes dans chaque tableau de bord.
 Chaque page fait référence à un pilier d’information standard de HeRAMS. Cependant, une adaptation aurait pu être faite en fonction des besoins locaux. Votre tableau de bord peut être si différent des pages présentées ici.
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> Remarque: Veuillez noter que l’ordre et le contenu dans votre projet pourraient différer de l’exemple présente ci-dessous. La liste des pages disponibles dans votre projet se trouve dans le menu de navigation situé sur la partie gauche de l’écran.
 </i>
-</span>
+</p>
 
 <details>
 	<summary><b><i>Page 1:</b> Vue d'ensemble</i>
@@ -374,28 +370,28 @@ Pour des analyses plus approfondies, vous pouvez télécharger les données d'un
 1. Veuillez ouvrir la page des espaces de travail de votre projet. Pour un guide expliquant étape par étape comment àcceder les espace de travail, veuillez consulter les étapes 1 à 4 dans la section [Accéder l’interface de mise à jour de données](#accéder-linterface-de-mise-a-jour-de-données).
 2. Dans la colonne de droite, veuillez cliquer le bouton <img src=" images/icon_download.png" height="20" align="top" alt='New record'></img>. Cela téléchargera tous les enregistrements de cet espace de travail. 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> Conseil: Pour les enquêtes dans des langues autres que l'anglais, veuillez vous assurer que l'encodage est défini correctement (voir [L'encodage de données en Excel](#lencodage-de-données-en-excel) pour les détails). </i>
-</span>
+</p>
 
 #### Downloading the entire dataset
 
 à paraître bientôt
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> Remarque: Users are adviced to downlaod data for individual workspace as outlined above. The ability to download the entire data set is restricted to few users. Contact your system administrator for further information.</i>
-</span>
+</p>
 
 #### Data Encoding in Excel
 
 Quand vous ouvrez les données en Excel, il est important de vous assurer que le encodage des données est défini correctement. 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> Conseil: Un indice d'un encodage mauvais c'est quand vous voyez the caractères comme *Ã©*. Par example, au lieu de *camp de réfugiés* c'est écrit *Camp de rÃ©fugiÃ©s*.</i>
-</span>
+</p>
 
 
 1. Veuillez ouvrir un nouveau fichier Excel. 
@@ -424,17 +420,17 @@ Veuillez suivre les étapes ci-dessous pour accéder l'interface de mise à jour
 3. Vous devriez maintenant voir un tableau de tous les projets disponibles dans HeRAMS. Pour chaque projet, le tableau montre le nombre des espaces de travail, le nombre des structures de santé et le nombre des contributeurs.
 4. Dans la dernière colonne, veuillez cliquer sur l'icône <img src=" images/icon_workspace.png" height="20" align="top" alt='workspace'></img>. Cela ouvrira la liste de tous les espace de travail.
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> Remarque:  Le system d’espace de travail utilisé en HeRAMS pour gérer les droits d’accès et permet d’adapter les droits d’accès à des fonctions distinctes. Pour plus d'informations sur l'espace de travail, veuillez cliquer [ici] (# espace-de-travail). </i>
-	</span>
+	</p>
 
 5. Pour afficher les structures de santé faisant partie d'un espace de travail, veuillez cliquer sur l'icône <img src=" images/icon_update_data.png" height="20" align="top" alt='Edit data'></img> dans la colonne **Action**. 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> Conseil: Veuillez noter qu'un espace de travail pouvait contenir plusieurs pages. Veuillez utiliser les bouton  **>>** pour passer à la page suivante. Vous pouvez également filtrer les espaces de travail en tapant le nom dans le champ au dessous de la ligne d'en-tête</i>
-</span>
+</p>
 
 <p align="center">
 	<img src=" images/HeRAMS_workspace_filter.png" alt="HeRAMS Worldview" height="300"></img>
@@ -448,17 +444,17 @@ Veuillez suivre les étapes ci-dessous pour accéder l'interface de mise à jour
 
 ### Modifier une structure de santé
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i>Veuillez noter que modifier un enregistrement effacera les information existantes. Si vous souhaitez mettre à jour une FOSA en conservant les informations existantes, veuillez suivre les instruction dans la partie [suivante](#mise-à-jour-dune-structure-de-santé)</i>
-</span>
+</p>
 
 1. Pour modifier une FOSA veuillez cliquer sur l'icône <img src=" images/icon_pencil_blue.png" height="20" align="top" alt='pencil'></img> dans le permière colonne.  
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i> Conseil: Veuillez noter que le tableau pouvait contenir plusieurs pages.Veuillez utiliser les bouton  **>>** pour passer à la page suivante ou limiter le nombre d'enregistrements affichés en  utilisant des filtres.</i> 
-</span>
+</p>
 
 <p align="center">
 	<img src=" images/HeRAMS_data_update_interface.png" alt="HeRAMS Worldview" height="300"></img>
@@ -472,10 +468,10 @@ Veuillez suivre les étapes ci-dessous pour accéder l'interface de mise à jour
 
 Si vous souhaitez mettre à jour une FOSA en conservant les informations existantes, veuillez suivre les instruction ci-dessous.
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> Veuillez noter que l'option de mettre les à jour les doonées en conservant les information existantes n'est pas activée dans touls les enquêtes. Pour obtenir plus d'informations veuillez contacter votre administrateur système.</i> 
-</span>
+</p>
 
 1. Pour actualiser le statut d'une FOSA, veuillez cliquer sur le bouton <img src=" images/icon_update_blue.png" height="20" align="top" alt='update'></img>.
 2. Pour passer à la page suivante ou revenir à une page précédente, veuillez utiliser les boutons <img src=" images/bt_new_record_fr.png" height="20" align="top" alt='next'></img>  situés dans le coin en bas à droite. Vous pouvez également utiliser le panneau de navigation située à gauche.
@@ -493,20 +489,20 @@ Si vous souhaitez mettre à jour une FOSA en conservant les informations existan
 
 1. Pour supprimer une FOSA, veuillez cliquer sur le bouton <img src=" images/icon_delete_blue.png" height="20" align="top" alt='delete'></img>.
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_warning.png" height="20" align="top" alt='warning'></img>
 	<i> Remarque: La suppression d'enregistrements ne peut pas être annulée. Soyez prudent lorsque vous supprimez un enregistrement.</i>
-</span>
+</p>
 
 # 4. Gérer un projet
 
 Le présent chapitre offre un bref aperçu sur les pages d’administration de la plateforme HeRAMS, y compris des instructions étape par étape pour les utilisateurs avancés et les administrateurs locaux. 
 La première partie du chapitre est consacrée au concept et à la gestion des [espaces de travail] (#espaces-de-travail), tandis que la seconde partie fournit des informations sur l’administration au niveau du [projet] (# projets) ainsi qu'à la configuration du [tableaux de bord](#configurer-le-tableau-de-bord)).
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> Remarque: L’Access à chacune des sections ou sous-sections présenté dans ce chapitre est déterminée en fonction du rôle de l’utilisateur. Si vous souhaitez que vos autorisations d'accès soient modifiées, veuillez contacter votre administrateur système.</i>
-</span>
+</p>
 
 ### Les espaces de travail (Workspace)
 
@@ -522,10 +518,10 @@ Tandis que la plupart des utilisateurs ont accès à un seul espace de travail, 
 - <img src=" images/icon_download.png" height="20" align="top" alt='download'></img>**Télécharger les données**: Cela télécharge Downloads toutes les données associées à l'espace de travail. Voir *chapitre 2* pour plus des informations sur le [téléchargement de données](#télécharger-des-données).  
 - <img src=" images/icon_pencil_black.png" height="20" align="top" alt='edit data'></img>**Mise à jour des données**: Cela ouvrie l'interface de mise à jour de données. Pour plus d'information sur la mise à jour de données consultez le [chapitre précédent](#mise-a-jour-de-données).  
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> Le nombre de boutons visibles dépend de vos droits d'accès et peut varier d'un espace de travail à un autre.</i>
-</span>
+</p>
 
 ### Les niveaux d'autorisation des espaces de travail
 
@@ -548,10 +544,10 @@ Il existe deux niveaux d’accès à un espace de travail. Les utilisateurs ayan
 
 7. Dans la moitié supérieure de la page, vous avez la possibilité d'ajouter un utilisateur. Veuillez taper le nom dans le champ en haut de l'écran intitulé « Users ». Pendant que vous tapez le nom d’utilisateur, la liste sera filtrée dynamiquement. Cliquez sur le nom dans la liste déroulant pour confirmer votre sélection.  
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i>Conseil: Vous pouvez ajouter plusieurs utilisateurs en même temps comme illustré ci-dessous.</i>
-</span>
+</p>
 
 <p align="center">
 	<img src=" images/HeRAMS_workspace_share.png" alt="add user to workspace" height="2"></img>
@@ -582,19 +578,19 @@ Il existe deux niveaux d’accès à un espace de travail. Les utilisateurs ayan
 4. Veuillez taper le nom de d'espace du travail dans le premier champ.
 5. Veuillez utiliser la liste déroulante pour sélectionner le **Token** approprié sélectioner *Create new token * afin de créer un nouveau token.
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_info.png" height="20" align="top" alt='tip'></img>
 	<i>Remarque: Les token (jetons) sont des identificateurs uniques qui relient les FOSAs aux espaces de travail. Pour ajouter une FOSA à un espace de travail, le jeton dans l'enregistrement en question doit être modifié manuellement. Contactez votre administrateur système pour savoir comment changer le jeton d'un enregistrement. </i>
-</span>
+</p>
 
 ### Supprimer des espaces de travail
 
 1. Vous pouvez supprimer un espace de travail en cliquant sur l'icône <img src=" images/icon_delete_black.png" height="20" align="top" alt='bin'></img> dans la collone **Actions**.
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_info.png" height="20" align="top" alt='tip'></img>
 	<i>Remarque: Supprimer des espaces de travail n'affectera pas les données sous-jacentes. Veuillez consulter section pour apprendre comment [supprimer une FOSA](#supprimer-un-enregistrement) de façon permanente.</i>
-</span>
+</p>
 
 ### Projects
 
@@ -612,10 +608,10 @@ Pour chaque projet, le tableau montre le nombre des espaces de travail, le nombr
 - <img src=" images/icon_check_data.png" height="20" align="top" alt='check data'></img>**Check Data**: Peut être utilisé pour vérifier la validité des données.
 - <img src=" images/icon_share.png" height="20" align="top" alt='share'></img>**Share**: La fonction de partage est utilisée pour accorder les droits d'accès à un projet aux utilisateurs. Voir ci-après pour des informations supplémentaires.
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> Le nombre de boutons visibles dépend de vos droits d'accès et peut varier d'un projet à un autre.</i>
-</span>
+</p>
 
 #### Les niveaux d'autorisation du projet
 
@@ -637,10 +633,10 @@ Il exist trois niveau d'authorisation qui peuvent être accordés à un utilisat
 
 5. Dans la moitié supérieure de la page, vous avez la possibilité d'ajouter un utilisateur. Veuillez taper le nom dans le champ en haut de l'écran intitulé « Users ». Pendant que vous tapez le nom d’utilisateur, la liste sera filtrée dynamiquement. Cliquez sur le nom dans la liste déroulant pour confirmer votre sélection.  
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_tip.png" height="30" align="top" alt='tip'></img>
 	<i>Conseil: Vous pouvez ajouter plusieurs utilisateurs en même temps.</i>
-</span>
+</p>
 
 6. Maintenant veuillez choisir le niveau d'autorisation en cochant la cache approprié dans la section **Permission**. Voir la section précédente pour plus de détails sur [les niveau d'autorisation du project](#les-niveau-dautorisation-du-projet).6. Click the <img src=" images/bt_share.png" height="20" align="top" alt='share'></img> button to share the access permission with the selected users.
 7. Veuillez cliquer sur le bouton <img src=" images/bt_share.png" height="20" align="top" alt='share'></img> pour partager le porjet avec le(s) utilisateur(s).
@@ -697,10 +693,10 @@ Des tableaux de bord configurés individuellement sont disponibles pour chaque p
 6. Veuillez cliquer sur le bouton <img src=" images/bt_create_page_blue.png" height="20" align="top" alt='share'></img> pour ajouter la page.
 7. Si vour retournez à la page précédente, vous devrez noter que votre page a été ajoutée à la liste des pages. 
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
 	<img src=" images/icon_info.png" height="20" align="top" alt='tip'></img>
 	<i>Remarque: Vous avez seulement créé une page vide. Pour ajouter des éléments à votre page, voir la section [ajouter des éléments à une page](#ajouter-des-éléments-à-une-page).</i>
-</span>
+</p>
 
 ### Mettre à jour une page de tableau de bord
 1. Pour modifier une page existante, veuillez cliquer sur l'icône <img src=" images/icon_pencil_black.png" height="20" align="top" alt='pencil '></img>. 

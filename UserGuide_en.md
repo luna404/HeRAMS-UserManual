@@ -447,7 +447,7 @@ The following section provides a step-by-step guide on how to access the data ed
 
 <p align="center">
 	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> The number of responses can be higher than the total number of health facilities. This indicates that a health facilitiy was assessed multiple times over a specfic time frame.</i>
+	<i> The number of responses can be higher than the total number of health facilities. This indicates that a health facility was assessed multiple times over a specific time frame.</i>
 </p>
 
 4. In the rightmost column, click the <img src="media/images/icon_workspace.png" height="20" align="top" alt='workspace'></img> icon. This will open the list of available workspace.
@@ -509,14 +509,14 @@ If HeRAMS is used as a monitoring tool, you can update health facility without w
 </p>
 
 1. To update the status of a Health Facility, use the <img src="media/images/icon_data_update_blue.png" height="20" align="top" alt='update'></img>  button to open the record.
-2. Use the two button on the bottom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specfic section of the questionnaire.
+2. Use the two button on the bottom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specific section of the questionnaire.
 3. To save your changes, open the last page (**Validate**) and click  <img src="media/images/bt_submit_en.png" height="20" align="top" alt='submit'></img>.
 4. If you would like to discard your edits, click the <img src="media/images/bt_clear.png" height="20" align="top" alt='exit'></img>  button.
 
 ### Register a new Health Facility
 
 1. To create a new record, click the button  <img src="media/images/bt_new_record_en.png" height="20" align="top" alt='new record'></img>.  
-2. Use the two button on the bottom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specfic section of the questionnaire.
+2. Use the two button on the bottom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specific section of the questionnaire.
 3. To save your changes, navigate to the last page **Validate** and click  <img src="media/images/bt_send_en.png" height="20" align="top" alt='Edit data'></img>.
 4. If you would like to discard your edits, click the <img src="media/images/bt_new_record_en.png" height="20" align="top" alt='exit'></img>  button 
 
