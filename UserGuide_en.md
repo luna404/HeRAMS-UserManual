@@ -159,7 +159,7 @@ You can further personalize your account by adding a profile picture. In order f
 
 <p align="center"><span>
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
-	<i> For more information on Gravatar, click [here](https://fr.gravatar.com/support/what-is-gravatar/).</i></span>
+	<i> For more information on Gravatar, click <a href="https://fr.gravatar.com/support/what-is-gravatar">here</a></i></span>
 </p>
 
 1. Open you user profile by clicking on your name in the upper right corner of your screen.
