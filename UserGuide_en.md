@@ -450,12 +450,12 @@ The following section provides a step-by-step guide on how to access the data ed
 	<i> The number of responses can be higher than the total number of health facilities. This indicates that a health facilitiy was assessed multiple times over a specfic time frame.</i>
 </p>
 
-4. In the rightmost column, click the <img src="media/images/icon_workspace.png" height="20" align="top" alt='workspaces'></img> icon. This will open the list of available workspace.
+4. In the rightmost column, click the <img src="media/images/icon_workspace.png" height="20" align="top" alt='workspace'></img> icon. This will open the list of available workspace.
 
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
 	<i> HeRAMS uses so called workspaces to manage access permission to the underlying data and enable a granual access control mechanism. 
-	A workspace might for example constitute a specific organization or a geographic region. For more information on workspace click <a href="#workspace">here</a>.</i>
+	A workspace might for example constitute a specific organization or a geographic region. For more information on workspace click <a href="#workspaces">here</a>.</i>
 </p>
 
 5. To view the health facilities that are part of a specific workspace, click the <img src="media/images/icon_data_update_black.png" height="20" align="top" alt='Edit data'></img> icon in the *Action* column. 
