@@ -255,7 +255,7 @@ This section provides a few tips and tricks on how to customize the dashboard (e
    3. Click the <img src="media/images/bt_apply_filter.png" height="20" align="top" alt='apply'></img> button to activate your filter.
 
 <p align="center">
-	<img src="media/videos/HeRAMS_dashboard_filters.gif" alt="dashboard filters" height="300"/></img>
+	<img src="media/videos/HeRAMS_dashbaord_filters.gif" alt="dashboard filters" height="300"/></img>
 </p>
 
 #### Default dashboard pages
@@ -511,13 +511,13 @@ If HeRAMS is used as a monitoring tool, you can update health facility without w
 1. To update the status of a Health Facility, use the <img src="media/images/icon_data_update_blue.png" height="20" align="top" alt='update'></img>  button to open the record.
 2. Use the two button on the bottom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specific section of the questionnaire.
 3. To save your changes, open the last page (**Validate**) and click  <img src="media/images/bt_submit_en.png" height="20" align="top" alt='submit'></img>.
-4. If you would like to discard your edits, click the <img src="media/images/bt_clear.png" height="20" align="top" alt='exit'></img>  button.
+4. If you would like to discard your edits, click the <img src="media/images/bt_clear_en.png" height="20" align="top" alt='exit'></img>  button.
 
 ### Register a new Health Facility
 
 1. To create a new record, click the button  <img src="media/images/bt_new_record_en.png" height="20" align="top" alt='new record'></img>.  
 2. Use the two button on the bottom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specific section of the questionnaire.
-3. To save your changes, navigate to the last page **Validate** and click  <img src="media/images/bt_send_en.png" height="20" align="top" alt='Edit data'></img>.
+3. To save your changes, navigate to the last page **Validate** and click  <img src="media/images/bt_submit_en.png" height="20" align="top" alt='Edit data'></img>.
 4. If you would like to discard your edits, click the <img src="media/images/bt_new_record_en.png" height="20" align="top" alt='exit'></img>  button 
 
 ### Delete a Health Facility
