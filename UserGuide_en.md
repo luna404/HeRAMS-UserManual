@@ -1,7 +1,9 @@
 # I. Introductions
-Welcome to the **HeRAMS User Manual**. This manual was designed for users of the [HeRAMS platform](https://herams.org/login) and aims to proivde essential information
-on key components of the platform. The first two chapters are intended for all users and include step-by-step descriptions on how
-to [access the HeRAMS platform](#1-login--user-profile) as well as a brief overview on the HeRAMS project [dashboards](#2-explore-data). [Chapter 3](#3-edit-data) provides a brief introduction on data editing. 
+Welcome to the **HeRAMS User Manual**. 
+This manual was designed for users of the [HeRAMS platform](https://herams.org/login) and aims to proivde users with essential information 
+on key components of the platform. The first two chapters are intended for all users and provide step-by-step instructions on how
+to [access the HeRAMS platform](#1-login--user-profile) as well as a brief overview on the [Project dashboards](#2-explore-data). 
+[Chapter 3](#3-edit-data) covers essential steps in accessing the data  a brief introduction on data editing. 
 [Chapter 4](#4-herams-administration) of this guide is intended for in-country administrators of HeRAMS projects and covers topics such as user management,
 dashboard configuration and other functionalities expected to be carried out by administrators. 
 
@@ -384,50 +386,6 @@ The **Service Availability** page displays multiple pages per type of service. E
 </p>
 </details>
 
-### Download data
-
-Users who would like to peform additional, in-depth analysis can download data for individual workspaces following the instructions below. 
-
-<p align="center">
-	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
-	<i> In order to download data, you will require access to the corresponding workspace. Contact your system administrator to elevate your access rights if needed.</i>
-</p>
-
-1. Go to the workspace page of your project(see [Access the Data Edit Interface](#access-the-data-edit-interface) steps 1-4 for detailed instructions).
-2. In the rightmost column, click the <img src="media/images/icon_download.png" height="20" align="top" alt='New record'></img> button. This will download all records (MoDS) of this workspace.
-
-<p align="center">
-	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> For surveys that are not in English make sure to correctly define the encoding when opening the data in Excel (see [Data Encoding in Excel](#data-encoding-in-excel) for details).</i>
-</p>
-
-#### Download the entire data set
-
-*Coming soon*
-
-<p align="center">
-	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Users are advised to download data for individual workspace as outlined above. The ability to download the entire data set is restricted to few users. Contact your system administrator for further information.</i>
-</p>
-
-#### Data Encoding in Excel
-
-When you open your data in Excel, it is important to select the correct (UTF-8) encoding. 
-
-<p align="center">
-	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Using the worng encoding can result in unreadable text. For examples instead of <b>camp de réfugiés</b> you get *Camp de rÃ©fugiÃ©s*.</i>
-</p>
-
-
-1. Open a new Excel file.
-2. On the Data tab in the **Get & Transform Data** group, click **From Text/CSV**.
-3. In the **Import Data** dialog box, locate and double-click the text file that you want to import, and click **Import**.
-4. In the top left corner of the pop-up window that opens, change the encoding type to **UTF-8**, and click **Import**.
-
-<p align="center">
-	<img src="media/videos/HeRAMS_excel_encoding.gif" alt="data update interface" height="300"></img>
-</p>
 
 # 3. Edit Data
 
@@ -528,6 +486,51 @@ If HeRAMS is used as a monitoring tool, you can update health facility without w
 	<img src="media/images/icon_warning.png" height="20" align="top" alt='warning'></img>
 	<i> Deleting records cannot be undone. Be careful when deleting a record.</i>
 </p>
+## Download data
+
+Users who would like to peform additional, in-depth analysis can download data for individual workspaces following the instructions below. 
+
+<p align="center">
+	<img src="media/images/icon_info.png" height="20" align="top" alt='info'></img>
+	<i> In order to download data, you will require access to the corresponding workspace. Contact your system administrator to elevate your access rights if needed.</i>
+</p>
+
+1. Go to the workspace page of your project(see [Access the Data Edit Interface](#access-the-data-edit-interface) steps 1-4 for detailed instructions).
+2. In the rightmost column, click the <img src="media/images/icon_download.png" height="20" align="top" alt='New record'></img> button. This will download all records (MoDS) of this workspace.
+
+<p align="center">
+	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<i> For surveys that are not in English make sure to correctly define the encoding when opening the data in Excel (see [Data Encoding in Excel](#data-encoding-in-excel) for details).</i>
+</p>
+
+### Download the entire data set
+
+*Coming soon*
+
+<p align="center">
+	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<i> Users are advised to download data for individual workspace as outlined above. The ability to download the entire data set is restricted to few users. Contact your system administrator for further information.</i>
+</p>
+
+### Data Encoding in Excel
+
+When you open your data in Excel, it is important to select the correct (UTF-8) encoding. 
+
+<p align="center">
+	<img src="media/images/icon_tip.png" height="30" align="top" alt='tip'></img>
+	<i> Using the worng encoding can result in unreadable text. For examples instead of <b>camp de réfugiés</b> you get *Camp de rÃ©fugiÃ©s*.</i>
+</p>
+
+
+1. Open a new Excel file.
+2. On the Data tab in the **Get & Transform Data** group, click **From Text/CSV**.
+3. In the **Import Data** dialog box, locate and double-click the text file that you want to import, and click **Import**.
+4. In the top left corner of the pop-up window that opens, change the encoding type to **UTF-8**, and click **Import**.
+
+<p align="center">
+	<img src="media/videos/HeRAMS_excel_encoding.gif" alt="data update interface" height="300"></img>
+</p>
+
 
 # 4. HeRAMS Administration
 
@@ -728,9 +731,9 @@ Users with the permissions to edit dashboards can modify charts and maps directl
 1. Open the dashboard and navigate to the element you would like to change. 
 2. In the top right corner of the element you should see a <img src="media/images/icon_edit_dashboard.png" height="20" align="top" alt='pencil '></img> icon. Click it to open the element's configuration page.
 3. You should now be able
-	- to change the colors of a map or a chart;
-	- to rename the element; and
-	- to change the element type.
+	- change the variable displayed
+	- to change the colors of a map or a chart; and
+	- to rename the element.
 	
 <p align="center">
 	<img src="media/images/icon_info.png" height="20" align="top" alt='note'></img>
@@ -740,7 +743,7 @@ Users with the permissions to edit dashboards can modify charts and maps directl
 4. Save your changes by clicking the <img src="media/images/bt_update_element.png" height="20" align="top" alt='share'></img> button.
 
 <p align="center">
-	<img src="media/videos/HeRAMS_edit_dashboard_element.gif" alt="create new page" height="300"></img>
+	<img src="media/videos/HeRAMS_dashboard_edit_element.gif" alt="create new page" height="300"></img>
 </p>
 
 #### Create a New Element to a Dashboard
@@ -749,8 +752,10 @@ This section covers the steps required to add a new element to an existing dashb
 If you would like to extend your dashboard by adding additional pages, please see the section below on how to add a page to a dashboard.
 For more information on how add a dashboard page see [above](#add-a-new-page). 
 1. Open the page you would like to modify using the <img src="media/images/icon_pencil_black.png" height="20" align="top" alt='pencil '></img> icon next to the page's name.
-2. In the bottom half of the page, click the <img src="media/images/bt_create_element_white.png" height="20" align="top" alt='create element'></img> button 
+2. In the bottom half of the page, you should see three buttons <img src="media/images/bt_create_element_white.png" height="20" align="top" alt='create element'></img> button 
+4. Select which type of element you would like to add by clicking the corresonding button.
 3. You should now see a page similar to the one displayed below. 
+
 
 <p align="center">
 	<img src="media/images/HeRAMS_dashboard_create_element.png" alt="dashboard pages" height="300"></img>
@@ -760,30 +765,32 @@ For more information on how add a dashboard page see [above](#add-a-new-page).
 6. Now use the **Code** dropdown list to select which field you would like to display on your element.
 
 <p align="center">
-	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img> <i> Transposing the element or changing the question code or will reload the making you lose all other unsaved edits.</i>
+	<img src="media/images/icon_info.png" height="20" align="top" alt='tip'></img> <i> Transposing the element or changing the question code or will reload the page making you lose all other unsaved edits.</i>
 </p>
-
-7. Adjust the element type by selecting the desired option form the **Type** dropdown list.
-
-**Maps and charts:**
-
-8. To change the color of a category, click on the color displayed. This will open a color picker allowing to select custom colors.
-9. You can increase/decrease the marker size for maps by changing the **Marker Radius**. 
-10. Click the <img src="media/images/bt_create_element_blue.png" height="20" align="top" alt='create element'></img> button to add create the element.
-11. You should now see a sample of the new element in the top right corner.
+7. Define the element position on the dashboard pagae by specifying the **Sort** index. The index auto-increments by one. Increment the index by 1 for each new item, starting with 0 for the first page.
+8. The **Width** and **Height** fields allow to create a custom-sized element. 
 
 <p align="center">
-	<img src="media/videos/HeRAMS_create_dashboard_element.gif" alt="dashboard pages" height="300"></img>
+	<img src="media/images/icon_info.png" height="20" align="top" alt='note'></img>
+	<i> For charts with large legend elements, it is recommended to use a **Width** of 2 to assure the legend is displayed correctly.</i>
 </p>
 
-**Tables:**
+9. Optionally, the **Title** field allows you to overwirte the default title. 
+10. For **Maps & Charts**, The bottom half of the page, displays the list of pre-defined answer options of the selected question. Click the color next to the 
+category name. This will opens a color picker allowing you to customize your chart. 
+11. For **Maps**, you can further specify the size of the dots by increasing/decreasing the  **Marker Radius**.
 
-12. Click the <img src="media/images/bt_create_element_blue.png" height="20" align="top" alt='create element'></img> button to add create the element.
-13. Upon saving the record you should see two new filed appearing labelled **Reason Code** and **Group Code**. Select the appropiriate questions codes from the dropdown list as shown in the example below.
+<p align="center">
+	<img src="media/videos/HeRAMS_create_dashboard_element.gif" alt="create map" height="300"></img>
+</p>
+
+12. For **tables**, two additional fileds will be displayed to specify the **Reason Code** and **Group Code**.
+
+13. Finally, click the <img src="media/images/bt_create_element_blue.png" height="20" align="top" alt='create element'></img> button to add create the element.
 
 #### Remove an elements or pages from the dashboard
 1. Open the dashboard page you would like to modify using the <img src="media/images/icon_pencil_black.png" height="20" align="top" alt='pencil '></img> icon next to the page's name.
-2. In the lower half of the page you will see the list of all items displayed on the selected page. 
+2. In the lower half of the page you will see the list of elements (charts, maps and tables) displayed on the selected page. 
 3. Use the <img src="media/images/icon_delete_black.png" height="20" align="top" alt='delete '></img> to permanently delete the element.
 
 <p align="center">
@@ -792,7 +799,7 @@ For more information on how add a dashboard page see [above](#add-a-new-page).
 </p>
 #### Add a New Page to a Dashboard
 
-1. To ass a new page to a dashboard, open the [project's settings](#edit-project-settings) page and click the <img src="media/images/bt_create_page_blue.png" height="20" align="top" alt='create page'></img> button.
+1. To add a new page to a dashboard, open the [project's settings](#edit-project-settings) page and click the <img src="media/images/bt_create_page_blue.png" height="20" align="top" alt='create page'></img> button.
 2. You should now see a page similar to the one displayed below. 
 
 <p align="center">
@@ -800,7 +807,7 @@ For more information on how add a dashboard page see [above](#add-a-new-page).
 </p>
 
 3. Enter the page name in the top field. 
-4. For sub-pages, select a the Parent page from the **Parent Id** drop-down list. For all other pages select **No parent**.
+4. For sub-pages, select the parent page from the **Parent Id** drop-down list. For all other pages select **No parent**.
 5. Define the page order by entering a **Sort** index. Increment the index by 1 for each new page, starting with **0** for the first page. 
 6. Click the <img src="media/images/bt_create_page_blue.png" height="20" align="top" alt='create page'></img> button to add the page to the dashboard. 
 7. If you return to the previous page, you will see the page appearing in the list of available pages. 
@@ -825,44 +832,49 @@ For more information on how add a dashboard page see [above](#add-a-new-page).
 	<i> Deleting dashboard pages and elements cannot be undone. Be careful when deleting pages or elements.</i>
 </p>
 
-
-
-
-
 # 5. FAQ
 This section aims to help users troubleshoot frequently encountered issues. In case you encounter an issue that is not addressed here, please post it in the comment section. We will periodically update this section to 
 
 <details>
-	<summary><b>I did not recieve an email when register/resting my password</b>
+	<summary><b>I did not recieve an email upon registering or resting my password</b>
 	</summary>
 	
 If you did not receive an email upon registering or resetting your password, follow the steps below to troubleshoot the issue. 
 1. Refresh your inbox. It might take a few minutes for email to appear.
 2. Check your spam/junk folder.
-3. Try to register again. You might have made a mistake typing your email. 
-4. If that still does not work, try contacting, contact your administrator for help. 
+3. Try to register again. You might have accidentaly misspelled your email. 
+4. If the above steps did not solve your issues, please contact your system administrator or send and emails to [herams@who.int]. 
 </details>
 
 <details>
 	<summary><b>How can I reset my password?</b>
 	</summary>
-	
-Passwords can be reset by navigating to your [account](https://herams.org/user/settings/profile) and click the [account](https://herams.org/user/settings/account) link. For more details, follow the instructions [here](#change-password).
-In case you forgot your password you can use the [Reset password](https://herams.org/user/forgot) link on the sign in page. See [here](#reset-password) for more details. 
+	If you forgot your password, follow the instructions porvided [here](#rest-password) to reset your password. 
 
 </details>
 <details>
 	<summary><b>Data export is unreadable or contains weird characters</b></summary>
+	If you open data downloaded from HeRAMS in Excel, you might experience an issue with special characters not being displayed correctly,
+	resulting in unreadable text. For example, instead of *camp de réfugiés* you get *Camp de rÃ©fugiÃ©s*.
+ The reason for this is that Excel not using the correct encoding type to read you data. 
+ To correct the issue, follow the instruction outlined [here](#data-encoding-in-excel). 
+
+</details>
+
+
+<details>
+	<summary><b>Why can't I access the project dashboard</b></summary>
 	
-If open your data in Excel, you might experience an issue with special characters not displaying properly. For example, instead of *camp de réfugiés* you get *Camp de rÃ©fugiÃ©s*. The reason for this is that Excel not using the correct encoding type to read you date. To correct the issue, follow the instruction outlined here. 
+	For data protection reasons, access to the project dashbaords is only granted upon request. 
+	If you require access to a project, please contact the country focal point or send an email to herams@who.int, specifying why you require access to the project.
+	
 </details>
 
 <details>
-	<summary><b>How can see if I have access to a specific dashboard</b></summary>
-		*coming soon*
+	<summary><b>Who has access to our dashboard or workspace</b></summary>
+	In-country administrators and users responsible for a project or workspace can verify the list of users having access to the 
+	project and/or workspace as well as their permission levels. 
+	See chapter 4 on more information on sharing [project](#projects) and [workspaces](#workspaces). 
 </details>
 
-<details>
-	<summary><b>Where can I see the list of workspaces</b></summary>
-		*coming soon*
-</details>
+
