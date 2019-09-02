@@ -1,4 +1,4 @@
-# HeRAMS User Guide <img src="/media/images/HeRAMS.png" height="45" align="right"></img>
+# HeRAMS User Guide <img src="/media/img/HeRAMS.png" height="45" align="right"></img>
 
 [français](/UserGuide_fr.md) arabic
 
@@ -103,8 +103,7 @@ This chapter provides step-by-step instructions on how to access the HeRAMS plat
 
 <p align="center">
 	<img src="media/img/icon_info.png" height="30" align="top" alt='note'></img>
-	<i> New users without an existing account, will have to register before being able to login to the [HeRAMS paltfrom](https://herams.org/login). 
-	To create a user account in, follow the instruction [here](#register-create-a-user'account)</i>
+	<i> New users without an existing account, will have to register before being able to login to the <a href="https://herams.org/login">HeRAMS paltfrom</a>. To create a user account in, follow the instruction <a> href="#register-create-a-user'account">here</a></i>
 </p>
 
 
@@ -955,7 +954,7 @@ If you did not receive an email upon registering or resetting your password, fol
 <details>
 	<summary><b>Data export is unreadable or contains weird characters</b></summary>
 	If you open data downloaded from HeRAMS in Excel, you might experience an issue with special characters not being displayed correctly,
-	resulting in unreadable text. For example, instead of *camp de réfugiés* you get *Camp de rÃ©fugiÃ©s*.
+	resulting in unreadable text. For example, instead of <b>camp de réfugiés</b> you get <b>Camp de rÃ©fugiÃ©s</b>.
  The reason for this is that Excel not using the correct encoding type to read you data. 
  To correct the issue, follow the instruction outlined [here](#data-encoding-in-excel). 
 
@@ -964,7 +963,6 @@ If you did not receive an email upon registering or resetting your password, fol
 
 <details>
 	<summary><b>Why can't I access the project dashboard</b></summary>
-	
 	For data protection reasons, access to the project dashbaords is only granted upon request. 
 	If you require access to a project, please contact the country focal point or send an email to [herams@who.int](mailto:herams@who.int), specifying why you require access to the project.
 	
