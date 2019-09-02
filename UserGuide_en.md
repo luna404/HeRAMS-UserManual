@@ -17,11 +17,15 @@ and the configuration of the project specific interactive dashbaords. For additi
 1. [Login, Registration & User Profile](#1-login-registration--user-profile)
 
 <details>
-	<summary><i>details</i></summary>
+	<summary><h2><a href="#1-login-registration--user-profile">Login, Registration & User Profile</a></h2></summary>
 	<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li><a href="#login--registration">Login & Registration</a></li>
+  <ul>
+    <li><a href="#rest-password">Rest Password</a></li>
+    <li><a href="#logout">Logout</a></li>
+  </ul>
+  <li><a href="#user-profile">User Profile</a></li>
+  <li><a href="#logout">Logout</a></li>
 </ul>
 	- [Login & Registration](#login--registration)
 	   - [Rest Password](#rest-password)
