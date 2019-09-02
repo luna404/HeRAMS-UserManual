@@ -1,28 +1,34 @@
 # HeRAMS User Guide
 
-## I. Introductions
+## Introductions
 
 Welcome to the **HeRAMS User Guide**. 
 This user guide was designed for users of the [HeRAMS platform](https://herams.org/login) providing users with an overview of the platfrom 
 and provides step-by-step instruction on key components of the platform. It should be noted that the guide solely address issues realted to 
-the HERAMS paltfrom. For gerneral infroamtion on the HeRMAS approach and for techinical guidance please consult the [WHO HeRAMS webpage](https://www.who.int/hac/herams/en/). 
+the HERAMS paltfrom. For gerneral infroamtion on the HeRAMS approach and for techinical guidance please consult the [WHO HeRAMS webpage](https://www.who.int/hac/herams/en/). 
 
 The first two chapters are intended for all users and provide step-by-step instructions on how to [access the HeRAMS platform](#1-login--user-profile) as well as a brief overview on the [Project dashboards](#2-explore-data). 
 [Chapter 3](#3-edit-data) is intended for data editor and covers covers essential steps on how to access, edit and download data. 
 [Chapter 4](#4-herams-administration) offers addtional guidance for country administrators and provides detailed information related to user management, access permissions, 
 and the configuration of the project specific interactive dashbaords. For additional questions, please contact [mailto](herams@who.int)
 
-## II. Table of Content
+## Table of Content
 
 1. [Login, Registration & User Profile](#1-login-registration--user-profile)
-	 - [Login & Registration](#login--resitration)
+
+<details>
+	<summary><b>details</b></summary>
+	
+	- [Login & Registration](#login--registration)
 	   - [Rest Password](#rest-password)
 	   - [Logout](#logout)
 	  - [Register (Create a User Account)](#register-create-a-user-account)
 	  - [User Profile](#user-profile)
 		- [Update your User Profile](#update-your-user-profile)
 		- [Change Password](#change-password)
-		- [Add a Profile Picture](#add-a-profile-picture)	
+		- [Add a Profile Picture](#add-a-profile-picture)
+</details>
+	 	
 2. [Explore a Project](#2-explore-a-project)
 	 - [Worldview](#worldview)
 	 - [Dashboard](#dashboard)
@@ -30,7 +36,7 @@ and the configuration of the project specific interactive dashbaords. For additi
 		- [Default Dashboard Pages](#default-dashboard-pages)
 3. [Edit & Download Data](#3-edit-data)
 	- [Access the Data Update Interface](#access-the-data-update-interface)
-	- [Data Editing]
+	- [Edit Data]
 		- [Edit a Health Facility](#edit-a-health-facility)
 		- [Update a Health Facility](#update-a-health-facility)
 		- [Register a new Health Facility](#register-a-new-health-facility)
@@ -61,10 +67,10 @@ and the configuration of the project specific interactive dashbaords. For additi
 		- [Remove an elements or pages from the dashboard](#)
 5. [FAQ](#faq)
 
-##	 1. Login & User Profile
+##	 1. Login, Registration & User Profile
 This chapter provides step-by-step instructions on how to access the HeRAMS platform, create a user acount and update your user profile. 
 
-## Login & Registration
+### Login & Registration
 
 <p align="center">
 	<img src="media/img/icon_info.png" height="30" align="top" alt='note'></img>
@@ -88,11 +94,11 @@ This chapter provides step-by-step instructions on how to access the HeRAMS plat
 	<img src="media/vid/HeRAMS_login.gif" alt="HeRAMS Login" height="300"/></img>
 </p>
 
-### Logout
+#### Logout
 
 To logout, click the  <img src="media/img/bt_logout.png" height="20" align="top" alt="Log out"></img> button in the top right corner of your screen. 
 
-### Rest Password
+#### Rest Password
 
 In case you forgot your password, the instruction below will guide through the steps to reset your password. 
 
@@ -201,7 +207,7 @@ You can further personalize your account by adding a profile picture. In order f
 
 
 
-# 2. Explore a HeRAMS Project
+## 2. Explore a Project
 
 ### Worldview
 
@@ -281,7 +287,7 @@ This section provides a few tips and tricks on how to customize the dashboard.
 </p>
 
    3. Click the <img src="media/img/bt_apply_filter.png" height="20" align="top" alt='apply'></img> button to activate your filter.
-
+   4. To remove the filters, return to the **Filter** pages and click the <img src="media/img/bt_clear_filter.png" height="20" align="top" alt='apply'></img> button.
 <p align="center">
 	<img src="media/vid/HeRAMS_dashboard_filters.gif" alt="dashboard filters" height="300"/></img>
 </p>
@@ -413,9 +419,10 @@ The **Service Availability** page displays multiple pages per type of service. E
 </details>
 
 
-# 3. Edit Data
+## 3. Edit Data
 
-The following section provides a step-by-step guide on how to access the data edit interface, create, edit and delete health facilities.
+This chapter is itended primarily for data managers responsible to update the HeRAMS data. 
+It covers all aspects related to manipulating data in HeRAMS as well as how to donwload data for additional analysis in external application (e.g. Excel).
 
 <p align="center">
 	<img src="media/img/icon_info.png" height="20" align="top" alt='info'></img>
@@ -460,7 +467,16 @@ The following section provides a step-by-step guide on how to access the data ed
 	<img src="media/vid/HeRAMS_data_update_interface.gif" alt="data update interface" height="300"></img>
 </p>
 
-### Edit a Health Facility
+### Edit Data
+
+The following section provides a step-by-step guide on how to create, edit and delete health facilities.
+
+<p align="center">
+	<img src="media/img/icon_info.png" height="20" align="top" alt='info'></img>
+	<i> For technical information related to specific questions please contact your country administrator.</i>
+</p>
+
+#### Edit a Health Facility
 
 <p align="center">
 	<img src="media/img/icon_info.png" height="20" align="top" alt='info'></img>
@@ -487,7 +503,7 @@ You can also use the navigation pane on the left to access a specific section of
 	<img src="media/vid/HeRAMS_edit_health_facility.gif" alt="edit record" height="300"></img>
 </p>
 
-### Update a Health Facility
+#### Update a Health Facility
 
 If HeRAMS is used as a monitoring tool, you can update health facility while keeping the existing information. 
 
@@ -501,14 +517,14 @@ If HeRAMS is used as a monitoring tool, you can update health facility while kee
 3. To save your changes, open the last page (**Validate**) and click  <img src="media/img/bt_submit_en.png" height="20" align="top" alt='submit'></img>.
 4. If you would like to discard your edits, click the <img src="media/img/bt_clear_en.png" height="20" align="top" alt='exit'></img>  button.
 
-### Register a new Health Facility
+#### Register a new Health Facility
 
 1. To create a new record, click the button  <img src="media/img/bt_new_record_en.png" height="20" align="top" alt='new record'></img>.  
 2. Use the two button on the bottom right side to move to the next page of the questionnaire or return to the previous page. You can also use the navigation pane on the left to access a specific section of the questionnaire.
 3. To save your changes, navigate to the last page **Validate** and click  <img src="media/img/bt_submit_en.png" height="20" align="top" alt='Edit data'></img>.
 4. If you would like to discard your edits, click the <img src="media/img/bt_new_record_en.png" height="20" align="top" alt='exit'></img>  button 
 
-### Delete a Health Facility
+#### Delete a Health Facility
 
 1. To delete a record, click the <img src="media/img/icon_delete_blue.png" height="20" align="top" alt='delete'></img> icon in the first column. 
 
@@ -516,7 +532,7 @@ If HeRAMS is used as a monitoring tool, you can update health facility while kee
 	<img src="media/img/icon_warning.png" height="20" align="top" alt='warning'></img>
 	<i> Deleting records cannot be undone. Be careful when deleting a record.</i>
 </p>
-## Download data
+### Download data
 
 It is possible to download part of the data as **CSV** for further analysis in-depth analysis. In rare cases, permission have been granted to download
  the entire data set. To donwload the entire data set please follow the instructions [here](#download-the-entire-data-set), otherwise see the section below. 
@@ -832,10 +848,15 @@ category name. This will opens a color picker allowing you pick custom colors.
 </p>
 
 14. For **tables**, two additional fileds will be displayed to specify the **Reason Code** and **Group Code**.
+
+<p align="center">
+	<img src="media/img/HeRAMS_dashboard_create_table.png" alt="create table" height="300"></img>
+</p>
+
 15. Finally, click the <img src="media/img/bt_create_element_blue.png" height="20" align="top" alt='create element'></img> button to add create the element.
 
 #### Remove an elements or pages from the dashboard
-1. Follow the instructions outlined [here](#modify-a-project) to open the **Poject Settings page. 
+1. Follow the instructions outlined [here](#modify-a-project) to open the **Poject Settings page**. 
 2. In the lower half of teh page, click the <img src="media/img/icon_pencil_black.png" height="20" align="top" alt='pencil '></img> icon to open the dashboard page you would like to modify.
 3. Scroll down until you see the list of elements (charts, maps and tables). 
 4. Use the <img src="media/img/icon_delete_black.png" height="20" align="top" alt='delete '></img> to permanently delete the element.
@@ -867,8 +888,9 @@ category name. This will opens a color picker allowing you pick custom colors.
 
 ### Update a Dashboard Page
 
-1. To alter an existing page, click the <img src="media/img/icon_pencil_black.png" height="20" align="top" alt='pencil '></img> icon next to the page's name. This will open the page's setting page. You are now able to change the title and the order of the page. See [above](#add-a-new-page) for further details. 
+1. To alter an existing page, click the <img src="media/img/icon_pencil_black.png" height="20" align="top" alt='pencil'></img> icon next to the page's name. This will open the page's setting page. You are now able to change the title and the order of the page. See [above](#add-a-new-page) for further details. 
 2. On the page that opens you should now be able to alter the page name, and display order.
+3. Save your changes by clicking the <img src="media/img/bt_update_page.png" height="20" align="top" alt='update page'></img> button. 
 
 ### Delete a Dashboard Page
 
