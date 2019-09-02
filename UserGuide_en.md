@@ -83,7 +83,7 @@ and the configuration of the project specific interactive dashbaords. For additi
 		</ul>
 		<li><a href="#configure-the-project-dashbaord">Configure the Project Dashboard</a></li>
 		<ul>
-		  <li><a href="#">Modify an Existing Dashboard Element</a></li>
+		  <li><a href="#modify-an-existing-dashboard-element">Modify an Existing Dashboard Element</a></li>
 		  <li><a href="#add-a-new-element-to-a-page">Add a New Element to a Page</a></li>
 		  <li><a href="#remove-an-element-from-the-dashboard">Remove an element from the dashboard</a></li>
 		  <li><a href="#add-a-new-page-to-a-dashboard">Add a New Page to a Dashboard</a></li>
@@ -92,8 +92,7 @@ and the configuration of the project specific interactive dashbaords. For additi
 		</ul>
 	</ul>
 </details>		
-
-5. [FAQ](#faq)
+<b><a href="#faq">5. FAQ</a></b>
 
 ##	 1. Login, Registration & User Profile
 This chapter provides step-by-step instructions on how to access the HeRAMS platform, create a user acount and update your user profile. 
@@ -931,7 +930,8 @@ category name. This will opens a color picker allowing you pick custom colors.
 </p>
 
 # 5. FAQ
-This section aims to help users troubleshoot frequently encountered issues. In case you encounter an issue that is not addressed here, please post it in the comment section. We will periodically update this section to 
+This section aims to help users troubleshoot frequently encountered issues. 
+In case you encounter an issue that is not addressed here, please contact your country administrator or send an email to [mailto](herams@who.int)
 
 <details>
 	<summary><b>I did not receive an email upon registering or resting my password</b>
