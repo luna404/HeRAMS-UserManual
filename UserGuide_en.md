@@ -14,8 +14,6 @@ and the configuration of the project specific interactive dashbaords. For additi
 
 ## Table of Content
 
-1. [Login, Registration & User Profile](#1-login-registration--user-profile)
-
 <details>
 	<summary><b><a href="#1-login-registration--user-profile">1. Login, Registration & User Profile</a></b></summary>
 	<ul>
@@ -43,43 +41,59 @@ and the configuration of the project specific interactive dashbaords. For additi
   </ul>
 </ul>
 </details>
-	 	
-2. [Explore a Project](#2-explore-a-project)
-	 - [Worldview](#worldview)
-	 - [Dashboard](#dashboard)
-		- [Customizing the dashboard](#customizing-the-dashboard)
-		- [Default Dashboard Pages](#default-dashboard-pages)
-3. [Edit & Download Data](#3-edit-data)
-	- [Access the Data Update Interface](#access-the-data-update-interface)
-	- [Edit Data]
-		- [Edit a Health Facility](#edit-a-health-facility)
-		- [Update a Health Facility](#update-a-health-facility)
-		- [Register a new Health Facility](#register-a-new-health-facility)
-		- [Delete a Health Facility](#delete-a-health-facility)
-	- [Download data](#download-data)
-		- [Download the entire data set](#download-the-entire-data-set)
-		- [Data Encoding in Excel](#data-encoding-in-excel)
-4. [Project Administration](#4-herams-administration)
-	- [Workspaces](#workspaces)
-		- [Workspace Permissions](#workspace-permissions)
-		- [Add a User to a Workspace](#add-a-user-to-a-workspace)
-		- [Remove a User from a workspace](#remove-a-user-from-a-workspace)
-		- [Alter a user's Permission to a Workspace](#change-a-users-workspace-permission)
-		- [Create a New Workspace](#create-a-new-workspace)
-		- [Delete a Workspaces](#delete-a-workspace)
-	- [Projects](#projects)
-		- [Project Permissions](#project-permissions)
-		- [Add a User to a Project](#add-a-user-to-a-project)
-		- [Remove a User from a Project](#remove-a-user-from-a-project)
-		- [Change a User's Project Permissions](#change-a-users-project-permissions)
-		- [Modify a Project](#modify-a-project)
-	- [Configure the Project Dashboard](#configure-the-project-dashboard)
-		- [Add a New Dashboard Page](#add-a-new-dashboard-page)
-		- [Update a Dashboard Page](#update-a-dashboard-page)
-		- [Delete a Dashboard Page](#delete-a-dashboard-page)
-		- [Add an Element to a Page](#add-an-element-to-a-page)
-		- [Modify an Element on a page](#modify-an-element-on-a-page)
-		- [Remove an elements or pages from the dashboard](#)
+<details>
+	<summary><b><a href="#3-edit--download-data"></a>Edit & Download Data</b></summary>
+	<ul>
+  <li><a href="#access-the-data-update-interface"></a>Access the Data Update Interface</li>
+  <li><a href="#edit-data"></a>Edit Data</li>
+  <ul>
+    <li><a href="#edit-a-health-facility"></a>Edit a Health Facility</li>
+    <li><a href="#update-a-health-facility"></a>Update a Health Facility</li>
+	<li><a href="#register-a-new-health-facility"></a>Register a new Health Facility</li>
+	<li><a href="#delete-a-health-facility"></a>Delete a Health Facility</li>
+  </ul>
+  <li><a href="#download-data"></a>Download data</li>
+  <ul>
+	  <li>Download Workspace Data<a href="#download-workspace-data"></a></li>
+	  <li>Download the Entire Data Set<a href="#download-the-entire-data-set"></a></li>
+	  <li><a href="#Data Encoding in Excel">data-encoding-in-excel</a></li>
+  <ul>
+</ul>
+</details>	 
+
+<details>
+	<summary><b><a href="#4-herams-administration">4. Project Administration</a></b></summary>
+	<ul>
+		<li><a href="#workspaces">Workspaces</a></li>
+		<ul>
+			<li><a href="#workspace-permissions">Workspace Permissions</a></li>
+			<li><a href="#add-a-user-to-a-workspace">Add a User to a Workspace</a></li>
+			<li><a href="#remove-a-user-from-a-workspace">Remove a User from a workspace</a></li>
+			<li><a href="#change-a-users-workspace-permission">Alter a user's Permission to a Workspace</a></li>
+			<li><a href="#create-a-new-workspace">Create a New Workspace</a></li>
+			<li><a href="#delete-a-workspace">Delete a Workspaces</a></li>
+		<ul>
+		<li><a href="#projects"></a>Projects</li>
+		<ul>
+		  <li><a href="#project-permissions">Project Permissions</a></li>
+		  <li><a href="#add-a-user-to-a-project">Add a User to a Project</a></li>
+		  <li><a href="#remove-a-user-from-a-project">Remove a User from a Project</a></li>
+		  <li><a href="#change-a-users-project-permissions">Change a User's Project Permissions</a></li>
+		  <li><a href="#modify-a-project">Modify a Project</a></li>
+		<ul>
+    <li><a href="#configure-the-project-dashbaord">Configure the Project Dashboard</a></li>
+	<ul>
+	  <li><a href="#">Modify an Existing Dashboard Element</a></li>
+	  <li><a href="#add-a-new-element-to-a-page">Add a New Element to a Page</a></li>
+	  <li><a href="#remove-an-element-from-the-dashboard">Remove an element from the dashboard</a></li>
+	  <li><a href="#add-a-new-page-to-a-dashboard">Add a New Page to a Dashboard</a></li>
+	  <li><a href="#update-a-dashboard-page">Update a Dashboard Page</a></li>
+	  <li><a href="#delete-a-dashboard-paage">Delete a Dashboard Page</a></li>
+	<ul>
+  </ul>
+</ul>
+</details>		
+
 5. [FAQ](#faq)
 
 ##	 1. Login, Registration & User Profile
@@ -434,7 +448,7 @@ The **Service Availability** page displays multiple pages per type of service. E
 </details>
 
 
-## 3. Edit Data
+## 3. Edit & Download Data
 
 This chapter is itended primarily for data managers responsible to update the HeRAMS data. 
 It covers all aspects related to manipulating data in HeRAMS as well as how to donwload data for additional analysis in external application (e.g. Excel).
@@ -552,7 +566,7 @@ If HeRAMS is used as a monitoring tool, you can update health facility while kee
 It is possible to download part of the data as **CSV** for further analysis in-depth analysis. In rare cases, permission have been granted to download
  the entire data set. To donwload the entire data set please follow the instructions [here](#download-the-entire-data-set), otherwise see the section below. 
 
-### Download Data from a Workspace
+### Download Workspace Data
 
 Follow the instructions below to download data for a single workspaces. If you require data from multiple workspace, follow the below steps for each workspace.
  You can then merge the data in your analysis tool of choice. 
@@ -570,7 +584,7 @@ Follow the instructions below to download data for a single workspaces. If you r
 	<i> For surveys in laguages other than English, make sure to correctly define the encoding when opening the data in Excel (see <a href="#data-encoding-in-excel">Data Encoding in Excel</a>.
 </p>
 
-### Download the entire data set
+### Download the Entire Data Set
 
 *Coming soon*
 
@@ -817,7 +831,7 @@ Users with the permissions to edit dashboards can modify charts and maps directl
 	<img src="media/vid/HeRAMS_edit_dashboard_element.gif" alt="create new page" height="300"></img>
 </p>
 
-#### Create a New Element to a Dashboard
+#### Add a New Element to a Page
 
 This section covers the steps required to add a new element to an existing dashboard page. 
 If you would like to extend your dashboard by adding additional pages, please see the section [below](#add-a-new-page) on how to add a page to a dashboard.
@@ -870,7 +884,7 @@ category name. This will opens a color picker allowing you pick custom colors.
 
 15. Finally, click the <img src="media/img/bt_create_element_blue.png" height="20" align="top" alt='create element'></img> button to add create the element.
 
-#### Remove an elements or pages from the dashboard
+#### Remove an element from the dashboard
 1. Follow the instructions outlined [here](#modify-a-project) to open the **Poject Settings page**. 
 2. In the lower half of teh page, click the <img src="media/img/icon_pencil_black.png" height="20" align="top" alt='pencil '></img> icon to open the dashboard page you would like to modify.
 3. Scroll down until you see the list of elements (charts, maps and tables). 
