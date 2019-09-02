@@ -80,7 +80,7 @@ and the configuration of the project specific interactive dashbaords. For additi
 		  <li><a href="#remove-a-user-from-a-project">Remove a User from a Project</a></li>
 		  <li><a href="#change-a-users-project-permissions">Change a User's Project Permissions</a></li>
 		  <li><a href="#modify-a-project">Modify a Project</a></li>
-		<ul>
+		</ul>
 		<li><a href="#configure-the-project-dashbaord">Configure the Project Dashboard</a></li>
 		<ul>
 		  <li><a href="#">Modify an Existing Dashboard Element</a></li>
@@ -89,7 +89,7 @@ and the configuration of the project specific interactive dashbaords. For additi
 		  <li><a href="#add-a-new-page-to-a-dashboard">Add a New Page to a Dashboard</a></li>
 		  <li><a href="#update-a-dashboard-page">Update a Dashboard Page</a></li>
 		  <li><a href="#delete-a-dashboard-paage">Delete a Dashboard Page</a></li>
-		<ul>
+		</ul>
 	</ul>
 </details>		
 
