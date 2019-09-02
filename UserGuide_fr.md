@@ -81,7 +81,9 @@ Pour créer un compte sur [HeRAMS](https://herams.org/login), veuillez suivre le
 
 <p align="center">
 	<img src=" images/icon_tip.png" height="30" align="top" alt='tip'></img>
-	<i> Conseil: Si vous ne recevez pas cet email, merci de vérifier votre dossier de courriers indésirables.</i>
+	<i> Si vous n'avez pas reçu cet email, veuillez dans un premier temps, consulter votre dossier Courier indésirables.
+
+	recevez pas cet email, merci de vérifier votre dossier de courriers indésirables.</i>
 </p>
 
 7. Veuillez ouvrir le lien et saisir votre nouvel mot de passe.
