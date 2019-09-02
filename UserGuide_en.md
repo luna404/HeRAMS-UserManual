@@ -17,7 +17,7 @@ and the configuration of the project specific interactive dashbaords. For additi
 1. [Login, Registration & User Profile](#1-login-registration--user-profile)
 
 <details>
-	<summary><h2><a href="#1-login-registration--user-profile">Login, Registration & User Profile</a></h2></summary>
+	<summary><b><a href="#1-login-registration--user-profile">1. Login, Registration & User Profile</a></b></summary>
 	<ul>
   <li><a href="#login--registration">Login & Registration</a></li>
   <ul>
@@ -25,16 +25,23 @@ and the configuration of the project specific interactive dashbaords. For additi
     <li><a href="#logout">Logout</a></li>
   </ul>
   <li><a href="#user-profile">User Profile</a></li>
-  <li><a href="#logout">Logout</a></li>
+  <ul>
+    <li><a href="#update-your-user-profile">Update your User Profile</a></li>
+    <li><a href="#change-password">Change Password</a></li>
+	<li><a href="#add-a-profile-picture">Add a Profile Picture</a></li>
+  </ul>
 </ul>
-	- [Login & Registration](#login--registration)
-	   - [Rest Password](#rest-password)
-	   - [Logout](#logout)
-	  - [Register (Create a User Account)](#register-create-a-user-account)
-	  - [User Profile](#user-profile)
-		- [Update your User Profile](#update-your-user-profile)
-		- [Change Password](#change-password)
-		- [Add a Profile Picture](#add-a-profile-picture)
+</details>
+<details>
+	<summary><b><a href="#2-explore-a-project">2. Explore a Project</a></b></summary>
+	<ul>
+  <li><a href="#worldview">Worldview</a></li>
+  <li><a href="#dashboard">Dashboard</a></li>
+  <ul>
+    <li><a href="#customizing-the-dashboard">Customizing the dashboard</a></li>
+    <li><a href="#default-dashboard-pages">Default Dashboard Pages</a></li>
+  </ul>
+</ul>
 </details>
 	 	
 2. [Explore a Project](#2-explore-a-project)
