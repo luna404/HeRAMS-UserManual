@@ -42,20 +42,20 @@ and the configuration of the project specific interactive dashbaords. For additi
 </ul>
 </details>
 <details>
-	<summary><b><a href="#3-edit--download-data"></a>Edit & Download Data</b></summary>
+	<summary><b><a href="#3-edit--download-data">Edit & Download Data</a></b></summary>
 	<ul>
-  <li><a href="#access-the-data-update-interface"></a>Access the Data Update Interface</li>
-  <li><a href="#edit-data"></a>Edit Data</li>
+  <li><a href="#access-the-data-update-interface">Access the Data Update Interface</a></li>
+  <li><a href="#edit-data">Edit Data</a></li>
   <ul>
-    <li><a href="#edit-a-health-facility"></a>Edit a Health Facility</li>
-    <li><a href="#update-a-health-facility"></a>Update a Health Facility</li>
-	<li><a href="#register-a-new-health-facility"></a>Register a new Health Facility</li>
-	<li><a href="#delete-a-health-facility"></a>Delete a Health Facility</li>
+    <li><a href="#edit-a-health-facility">Edit a Health Facility</a></li>
+    <li><a href="#update-a-health-facility">Update a Health Facility</a></li>
+	<li><a href="#register-a-new-health-facility">Register a new Health Facility</a></li>
+	<li><a href="#delete-a-health-facility">Delete a Health Facility</a></li>
   </ul>
-  <li><a href="#download-data"></a>Download data</li>
+  <li><a href="#download-data">Download data</a></li>
   <ul>
-	  <li>Download Workspace Data<a href="#download-workspace-data"></a></li>
-	  <li>Download the Entire Data Set<a href="#download-the-entire-data-set"></a></li>
+	  <li><a href="#download-workspace-data">Download Workspace Data</a></li>
+	  <li><a href="#download-the-entire-data-set">Download the Entire Data Set</a></li>
 	  <li><a href="#Data Encoding in Excel">data-encoding-in-excel</a></li>
   <ul>
 </ul>
@@ -73,7 +73,7 @@ and the configuration of the project specific interactive dashbaords. For additi
 			<li><a href="#create-a-new-workspace">Create a New Workspace</a></li>
 			<li><a href="#delete-a-workspace">Delete a Workspaces</a></li>
 		<ul>
-		<li><a href="#projects"></a>Projects</li>
+		<li><a href="#projects">Projects</a></li>
 		<ul>
 		  <li><a href="#project-permissions">Project Permissions</a></li>
 		  <li><a href="#add-a-user-to-a-project">Add a User to a Project</a></li>
@@ -81,17 +81,16 @@ and the configuration of the project specific interactive dashbaords. For additi
 		  <li><a href="#change-a-users-project-permissions">Change a User's Project Permissions</a></li>
 		  <li><a href="#modify-a-project">Modify a Project</a></li>
 		<ul>
-    <li><a href="#configure-the-project-dashbaord">Configure the Project Dashboard</a></li>
-	<ul>
-	  <li><a href="#">Modify an Existing Dashboard Element</a></li>
-	  <li><a href="#add-a-new-element-to-a-page">Add a New Element to a Page</a></li>
-	  <li><a href="#remove-an-element-from-the-dashboard">Remove an element from the dashboard</a></li>
-	  <li><a href="#add-a-new-page-to-a-dashboard">Add a New Page to a Dashboard</a></li>
-	  <li><a href="#update-a-dashboard-page">Update a Dashboard Page</a></li>
-	  <li><a href="#delete-a-dashboard-paage">Delete a Dashboard Page</a></li>
-	<ul>
-  </ul>
-</ul>
+		<li><a href="#configure-the-project-dashbaord">Configure the Project Dashboard</a></li>
+		<ul>
+		  <li><a href="#">Modify an Existing Dashboard Element</a></li>
+		  <li><a href="#add-a-new-element-to-a-page">Add a New Element to a Page</a></li>
+		  <li><a href="#remove-an-element-from-the-dashboard">Remove an element from the dashboard</a></li>
+		  <li><a href="#add-a-new-page-to-a-dashboard">Add a New Page to a Dashboard</a></li>
+		  <li><a href="#update-a-dashboard-page">Update a Dashboard Page</a></li>
+		  <li><a href="#delete-a-dashboard-paage">Delete a Dashboard Page</a></li>
+		<ul>
+	</ul>
 </details>		
 
 5. [FAQ](#faq)
