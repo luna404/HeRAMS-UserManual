@@ -1,4 +1,6 @@
-# HeRAMS User Guide
+# HeRAMS User Guide <img src="/media/images/HeRAMS.png" height="45" align="right"></img>
+
+[français](/UserGuide_fr.md) arabic
 
 ## Introductions
 
