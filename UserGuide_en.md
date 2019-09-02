@@ -3,14 +3,14 @@
 ## Introductions
 
 Welcome to the **HeRAMS User Guide**. 
-This user guide was designed for users of the [HeRAMS platform](https://herams.org/login) providing users with an overview of the platfrom 
-and provides step-by-step instruction on key components of the platform. It should be noted that the guide solely address issues realted to 
-the HERAMS paltfrom. For gerneral infroamtion on the HeRAMS approach and for techinical guidance please consult the [WHO HeRAMS webpage](https://www.who.int/hac/herams/en/). 
+This user guide was designed for users of the [HeRAMS platform](https://herams.org/login) and aims to provide users with a brief overview of key components of the platform. 
+In addition, step-by-step instruction for common tasks intend to faciliate navigating the platfrom 
+It should be noted that the guide solely address issues realted to the HERAMS paltfrom. For gerneral information on the HeRAMS approach and for techinical guidance please consult the [WHO HeRAMS webpage](https://www.who.int/hac/herams/en/). 
 
-The first two chapters are intended for all users and provide step-by-step instructions on how to [access the HeRAMS platform](#1-login--user-profile) as well as a brief overview on the [Project dashboards](#2-explore-data). 
+The first two chapters of this user guide are intended for all users and provide step-by-step instructions on how to [access the HeRAMS platform](#1-login--user-profile) as well as a brief overview on the [Project dashboards](#2-explore-data). 
 [Chapter 3](#3-edit-data) is intended for data editor and covers covers essential steps on how to access, edit and download data. 
 [Chapter 4](#4-herams-administration) offers addtional guidance for country administrators and provides detailed information related to user management, access permissions, 
-and the configuration of the project specific interactive dashbaords. For additional questions, please contact [mailto](herams@who.int)
+and the configuration of the project specific interactive dashbaords. For additional questions, please contact the [HeRAMS Support Team](mailto:herams@who.int)
 
 ## Table of Content
 
@@ -42,7 +42,7 @@ and the configuration of the project specific interactive dashbaords. For additi
 </ul>
 </details>
 <details>
-	<summary><b><a href="#3-edit--download-data">Edit & Download Data</a></b></summary>
+	<summary><b><a href="#3-edit--download-data">3. Edit & Download Data</a></b></summary>
 	<ul>
   <li><a href="#access-the-data-update-interface">Access the Data Update Interface</a></li>
   <li><a href="#edit-data">Edit Data</a></li>
@@ -931,7 +931,7 @@ category name. This will opens a color picker allowing you pick custom colors.
 
 # 5. FAQ
 This section aims to help users troubleshoot frequently encountered issues. 
-In case you encounter an issue that is not addressed here, please contact your country administrator or send an email to [mailto](herams@who.int)
+In case you encounter an issue that is not addressed here, please contact your country administrator or send an email to [herams@who.int](mailto:herams@who.int)
 
 <details>
 	<summary><b>I did not receive an email upon registering or resting my password</b>
@@ -941,7 +941,7 @@ If you did not receive an email upon registering or resetting your password, fol
 1. Refresh your inbox. It might take a few minutes for email to appear.
 2. Check your spam/junk folder.
 3. Try to register again. You might have accidentaly misspelled your email. 
-4. If the above steps did not solve your issues, please contact your system administrator or send and emails to [mailto](herams@who.int). 
+4. If the above steps did not solve your issues, please contact your system administrator or send and emails to [herams@who.int](mailto:herams@who.int). 
 </details>
 
 <details>
@@ -964,7 +964,7 @@ If you did not receive an email upon registering or resetting your password, fol
 	<summary><b>Why can't I access the project dashboard</b></summary>
 	
 	For data protection reasons, access to the project dashbaords is only granted upon request. 
-	If you require access to a project, please contact the country focal point or send an email to [mailto](herams@who.int), specifying why you require access to the project.
+	If you require access to a project, please contact the country focal point or send an email to [herams@who.int](mailto:herams@who.int), specifying why you require access to the project.
 	
 </details>
 
